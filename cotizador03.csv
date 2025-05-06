@@ -1,0 +1,833 @@
+id,SOLICITANTE,SUMA_ASEGURADA,GÉNERO,EDAD,FORMA_DE_PAGO,CÓNYUGE,HIJOS_DEPENDIENTES,FECHA_Y_HORA,CORREO_DEL_ASESOR,CORREO_DEL_SOLICITANTE,NOMBRE_DEL_ASESOR,TELÉFONO_DEL_ASESOR,TELÉFONO_DEL_SOLICITANTE
+1895,GRACIELA CASTRO,"$250,000",Mujer,24,Mensual,No,Ninguno,5/5/2025 12:28,,servicioalcliente@pyhasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78690610
+1896,María jesus Martínez Hernandez,"$100,000",Mujer,60,Mensual,No,1,5/5/2025 12:27,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1898,Sara Maria Bustillo Flores,"$50,000",Mujer,21,Mensual,No,Ninguno,5/5/2025 12:09,gabrielacorleto.seguros@gmail.com,sarybustillo20@gmail.com,Gabriela Corleto,79393368,73842861
+1901,Flor del Carmen Bustillo Flores,"$50,000",Mujer,25,Mensual,No,Ninguno,5/5/2025 12:03,gabrielacorleto.seguros@gmail.com,florbustillo29@gmail.com,Gabriela Corleto,79393368,78975663
+1902,Wendy del Carmen Perez,"$100,000",Mujer,44,Mensual,No,Ninguno,5/5/2025 11:54,,adm.sramirez@gmail.com,LEYLAN STEPHANIE CORNEJO DE RAMÍREZ,,75633044
+1903,Gracia Rivera,"$100,000",Mujer,39,Mensual,No,1,5/5/2025 11:46,zavaleta.seguros@gmail.com,mzseguros.servicioalcliente@gmail.com,ASTRID MARGARITA MATA DE ZAVALETA,46,79407815
+1904,DANIEL MELARA HERRERA,"$50,000",Hombre,26,Mensual,No,Ninguno,5/5/2025 10:26,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1905,América Natalia Rodas Sorto,"$250,000",Mujer,39,Mensual,No,Ninguno,5/5/2025 10:18,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79510515
+1906,DANIEL MELARA HERRERA,"$250,000",Hombre,26,Mensual,No,Ninguno,5/5/2025 10:08,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1907,PAOLA FLORES,"$100,000",Mujer,24,Mensual,No,2,5/5/2025 10:06,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1908,RICARO ULISES ALVARENGA,"$250,000",Hombre,51,Mensual,No,Ninguno,5/5/2025 10:06,josselinmelendez@liconsultores.com.sv,josselinmelendez@liconsultores.com.sv,"LI CONSULTORES, S.A. DE C.V.",25347506,25347506
+1909,PAOLA FLORES,"$100,000",Mujer,24,Mensual,No,2,5/5/2025 10:03,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1910,Tania Ludmila Menjivar de Amaya.,"$100,000",Mujer,44,Mensual,Sí,2,5/5/2025 09:50,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1911,Daniela Michelle Servellon Portal,"$250,000",Mujer,25,Mensual,No,Ninguno,5/5/2025 08:59,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1912,Daniela Michelle Servellón Portal,"$50,000",Mujer,25,Mensual,No,Ninguno,5/5/2025 08:14,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1913,CLAUDIA HERNANDEZ,"$50,000",Mujer,33,Mensual,No,Ninguno,4/5/2025 16:32,,CLAU.MEDIINA8@GMAIL.COM,CLAUDIA MARÍA HERNÁNDEZ MEDINA,,78658144
+1914,MARCELA JASMIN UMANZOR ALVARADO,"$100,000",Mujer,27,Mensual,No,Ninguno,4/5/2025 15:32,ligiaseguros96@gmail.com,ligiaseguros96@gmail.com,LIGIA YAMILETH GARCIA DE REYES,77476520,77476520
+1915,LIGIA MARCELA REYES GARCIA,"$100,000",Mujer,24,Mensual,No,Ninguno,4/5/2025 15:16,,ligiaseguros96@gmail.com,LIGIA GARCIA,,77476520
+1916,MARCELA JASMIN UMANZOR ALVARADO,"$100,000",Mujer,27,Mensual,No,Ninguno,4/5/2025 14:52,,ligia.reyes@gmail.com,LIGIA YAMILETH GARCIA DE REYES,,77476520
+1917,maria,"$500,000",Mujer,59,Mensual,No,Ninguno,4/5/2025 12:49,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1918,maria,"$50,000",Mujer,59,Mensual,No,Ninguno,4/5/2025 12:48,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1919,kevin,"$250,000",Hombre,27,Mensual,No,Ninguno,4/5/2025 12:36,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1920,KEVIN,"$50,000",Hombre,27,Mensual,No,Ninguno,4/5/2025 12:34,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1921,Tania Vanessa Olmedo Chávez,"$100,000",Mujer,32,Mensual,No,Ninguno,3/5/2025 16:26,cmariachavez@gmail.com,cmariachavez@gmail.com,CARMEN MARÍA CHÁVEZ GUARDADO,7515-2659,7515-2659
+1922,Tania Vanessa Olmedo Chávez,"$100,000",Mujer,32,Mensual,No,Ninguno,3/5/2025 16:18,,cmariachavez@gmail.com,,,7515 2659
+1923,Tania Vanessa Olmedo Chávez,"$100,000",Mujer,32,Mensual,No,Ninguno,3/5/2025 16:14,,cmariachavez@gmail.com,,,7515 2659
+1924,CARLOS MAURICIO PAREDES MARIN,"$50,000",Hombre,54,Mensual,Sí,Ninguno,3/5/2025 12:55,,xkdetenorio@gmail.com,Karla Tenorio de Amaya,,77484802
+1925,MADELYNE ELIZABETH PAREDES,"$50,000",Mujer,23,Mensual,No,Ninguno,3/5/2025 12:53,,xkdetenorio@gmail.com,Karla Tenorio de Amaya,,77484802
+1926,ALISSON ABIGAIL PAREDES PINEDA,"$50,000",Mujer,21,Mensual,No,Ninguno,3/5/2025 12:51,,xkdetenorio@gmail.com,Karla Tenorio de Amaya,,77484802
+1927,CARLOS MAURICIO PAREDES PINEDA,"$250,000",Hombre,27,Mensual,Sí,Ninguno,3/5/2025 12:42,,xkdetenorio@gmail.com,Karla Tenorio de Amaya,,77484802
+1928,TOMAS EVERARDO PORTILLO GRANDE,"$500,000",Hombre,41,Mensual,Sí,1,3/5/2025 12:19,ejecutivocomercial@segurosintegralesyfianzas.com.sv,ejecutivocomercial@segurosintegralesyfianzas.com.sv,"SEGUROS INTEGRALES Y FIANZAS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",76305424,76305424
+1929,TOMAS EVERARDO PORTILLO GRANDE,"$100,000",Hombre,41,Mensual,Sí,1,3/5/2025 11:55,ejecutivocomercial@segurosintegralesyfianzas.com.sv,ejecutivocomercial@segurosintegralesyfianzas.com.sv,"SEGUROS INTEGRALES Y FIANZAS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",76305424,76305424
+1930,TANIA ISLENI UMANZOR NUÑEZ,"$100,000",Mujer,29,Mensual,No,1,3/5/2025 06:52,magaseguros8@gmail.com,magaseguros8@gmail.com,LORENA MAGALY PLEITEZ ARGUETA,78333249,78333249
+1931,MONICA BEATRIZ GARCIA BURGOS,"$250,000",Hombre,49,Mensual,No,Ninguno,2/5/2025 17:27,,stephane.cortes@besafeasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,70596754
+1932,MONICA BEATRIZ GARCIA BURGOS,"$100,000",Mujer,49,Mensual,No,Ninguno,2/5/2025 17:27,,stephane.cortes@besafeasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,70596754
+1933,Katherine Ramírez,"$100,000",Mujer,35,Mensual,No,1,2/5/2025 17:05,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+1934,Jorge Samour,"$250,000",Hombre,54,Mensual,Sí,1,2/5/2025 16:45,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1935,Omar Contrera,"$100,000",Hombre,52,Mensual,No,2,2/5/2025 16:39,,contreras.recinos@live.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78505173
+1936,Yancy Elena Mejia,"$100,000",Mujer,39,Mensual,Sí,1,2/5/2025 16:18,,ronald.rivera@beyouasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,76202887
+1937,Yancy Elena Mejia,"$250,000",Mujer,39,Mensual,Sí,1,2/5/2025 16:13,,ronald.rivera@beyouasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,76202887
+1938,Diego Bolaños,"$250,000",Hombre,33,Mensual,No,Ninguno,2/5/2025 16:08,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+1939,Katherine Ramirez,"$250,000",Mujer,35,Mensual,No,1,2/5/2025 16:06,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+1940,Diego Bolaños,"$100,000",Hombre,33,Mensual,No,Ninguno,2/5/2025 16:05,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+1941,Katherine Ramírez,"$100,000",Mujer,35,Mensual,No,2,2/5/2025 16:03,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+1942,Carmen Elena Galea Cruz,"$250,000",Mujer,49,Mensual,No,2,2/5/2025 16:00,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+1943,Carmen Elena Galea Cruz,"$100,000",Mujer,49,Mensual,No,2,2/5/2025 15:57,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+1944,YANCY ELENA MEJIA,"$100,000",Mujer,39,Mensual,No,Ninguno,2/5/2025 15:25,,ronald.rivera@beyouasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,76202887
+1945,Herman Oswaldo Medina Peña,"$100,000",Hombre,42,Mensual,No,2,2/5/2025 15:00,,glendy_velasco@yahoo.com,GLENDY ALEJANDRA VELASCO DE GONZÁLEZ,,78590604
+1946,Herman Oswaldo Medina Peña,"$250,000",Hombre,42,Mensual,No,2,2/5/2025 14:57,,glendy_velasco@yahoo.com,GLENDY ALEJANDRA VELASCO DE GONZÁLEZ,,78590604
+1947,DAVID MELENDEZ,"$100,000",Hombre,30,Mensual,No,Ninguno,2/5/2025 14:56,,reclamosadapto@gmail.com,WILLIAM JOSUÉ AGUIRRE CARRANZA,,76968701
+1948,SUSANA YANETH FLORES SANCHEZ,"$50,000",Mujer,35,Mensual,No,2,2/5/2025 14:44,,ahenriquez@seatlan.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,0
+1949,America Orellana de Romero,"$100,000",Mujer,48,Mensual,No,Ninguno,2/5/2025 14:35,JOSE REYNALDO ALFARO,admonskyseguros@gmail.com,,,22790335
+1950,JOSE EDGAR RAMIREZ,"$50,000",Hombre,55,Mensual,No,Ninguno,2/5/2025 12:43,,alex.27aguilar.aa@gmail.com,ALEX STEVEN AGUILAR TREJO,,76821044
+1951,Katherine Pamela Ramírez de Bolaños,"$100,000",Mujer,35,Mensual,No,1,2/5/2025 12:35,,ronald.rivera@beyouasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,76202887
+1952,Erick Hernandez,"$100,000",Hombre,27,Mensual,No,Ninguno,2/5/2025 12:32,,servicioalcliente@pyhasesores.com,WILLIAM ALBERTO HERRERA PÉREZ,,78690610
+1953,Erick Hernandez,"$250,000",Hombre,27,Mensual,No,Ninguno,2/5/2025 12:29,,servicioalcliente@pyhasesores.com,WILLIAM ALBERTO HERRERA PÉREZ,,78690610
+1954,ANA JUDITH CUESTAS DE SERAROLS,"$50,000",Mujer,53,Mensual,Sí,Ninguno,2/5/2025 12:12,,ahenriquez@seatlan.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,0
+1955,FELIZ ANTONIO TEVEZ FUNES,"$50,000",Hombre,31,Mensual,No,Ninguno,2/5/2025 12:11,administracion@grupo-fortaleza.com,administracion@grupo-fortaleza.com,"GRUPO FORTALEZA, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",2556-9430,2556-9430
+1956,ANA LETICIA RODRIGUEZ,"$50,000",Mujer,52,Mensual,Sí,1,2/5/2025 12:06,,ahenriquez@seatlan.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,0
+1957,KATHERINE PAMELA RAMÍREZ DE BOLAÑOS,"$250,000",Mujer,33,Mensual,Sí,1,2/5/2025 12:00,,ronald.rivera@beyouasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,2/8/1989
+1958,Lidia Prieto Lopez,"$50,000",Mujer,36,Mensual,No,Ninguno,2/5/2025 11:52,,wendycaro.medrano@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71188491
+1959,Roberto Rovira,"$100,000",Hombre,40,Mensual,No,Ninguno,2/5/2025 11:44,,robertorovira.sv@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71360055
+1960,Roberto Rovira,"$250,000",Hombre,40,Mensual,No,2,2/5/2025 11:43,,robertorovira.sv@gmail.com,Ingrid Recinos,,77360055
+1961,MIRIAM LISSETTE URIAS ALFARO,"$250,000",Mujer,47,Mensual,No,1,2/5/2025 11:21,,atencionalcliente@resuelve.com.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7876-5780
+1962,SOFIA ALEJANDRA VELASQUEZ URIAS,"$250,000",Hombre,47,Mensual,No,1,2/5/2025 11:21,,atencionalcliente@resuelve.com.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7876-5780
+1963,Marvin Eulises Vásquez Benítez,"$100,000",Hombre,35,Mensual,Sí,3 o más,2/5/2025 10:25,,fbaires@siiessv.com,FABIO BENJAMIN BAIRES VAQUERANO,,73084578
+1964,Guadalupe Rosales Loera,"$50,000",Mujer,52,Semestral,No,Ninguno,2/5/2025 09:44,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1965,Silvia Elena Aguirre Barrientos,"$250,000",Mujer,38,Mensual,No,Ninguno,2/5/2025 08:30,,Operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1966,Silvia Elena Aguirre Barrientos,"$100,000",Mujer,38,Mensual,No,Ninguno,2/5/2025 08:28,,Operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,2284-1256
+1967,Diego Bolaños,"$250,000",Hombre,33,Mensual,No,Ninguno,2/5/2025 06:38,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,,78944386
+1968,Katherine Ramírez,"$250,000",Mujer,35,Mensual,No,1,2/5/2025 06:26,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,,78944386
+1969,Marvin Ulises Vásquez Benitez,"$100,000",Hombre,35,Mensual,Sí,3 o más,1/5/2025 20:57,,fbaires@siiessv.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,73085978
+1970,Santiago Alfaro Sandoval,"$50,000",Hombre,19,Mensual,No,Ninguno,1/5/2025 15:16,asdiversas@yahoo.com,asdiversas@yahoo.com,Evelyn Cea,7899-2390,7899-2390
+1971,William Vasquez,"$100,000",Hombre,28,Mensual,No,Ninguno,1/5/2025 08:25,mvialseguros@gmail.com,mvidalseguros@gmail.com,MARTHA JEANETH VIDAL DE AVENDAÑO,74782900,74782900
+1972,William Vasquez,"$250,000",Hombre,28,Mensual,No,Ninguno,1/5/2025 08:19,mvidalseguros@gmail.com,mvidalseguros@gmail.com,MARTHA JEANETH VIDAL DE AVENDAÑO,74782900,74782900
+1973,ISAIAS FRANCISCO ORTEGA PINEDA,"$250,000",Hombre,45,Mensual,Sí,Ninguno,30/4/2025 18:56,stephane.cortes@beyouasesores.com,stephane.cortes@beyouasesores.com,STEPHANE CORTES,70596754,70596754
+1974,MANUEL ENRIQUE ANGULO,"$250,000",Hombre,30,Mensual,Sí,1,30/4/2025 16:27,,gestiones@vortexcapital.co,MELISSA RAQUEL SALAZAR DE ORELLANA,,72667752
+1975,MANUEL ENRIQUE ANGULO,"$250,000",Hombre,30,Mensual,Sí,1,30/4/2025 16:25,,gestiones@vortexcapital.co,MELISSA RAQUEL SALAZAR DE ORELLANA,,72667752
+1976,EVELYN HERNANDEZ,"$50,000",Mujer,27,Mensual,No,Ninguno,30/4/2025 15:02,,sfenn@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79892781
+1977,EVELYN RAQUEL HERNANDEZ GALDAMEZ,"$100,000",Mujer,27,Mensual,No,Ninguno,30/4/2025 14:43,,fhernandezprointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,69995890
+1978,KELVIN IVAN GARCA PARADA,"$50,000",Hombre,35,Mensual,No,Ninguno,30/4/2025 14:12,,alex.27aguilar.aa@gmail.com,ALEX STEVEN AGUILAR TREJO,,76821044
+1979,SANTOS GUADALUPE HENRIQUEZ MOLINA,"$100,000",Mujer,41,Mensual,Sí,2,30/4/2025 12:15,gerardo.avalos@avaasesores.com,gerardo.avalos@avaasesores.com,GILBERTO GERARDO ÁVALOS RIVAS,79198482,79198482
+1980,SANTOS GUADALUPE HENRIQUEZ MOLINA,"$100,000",Mujer,41,Mensual,Sí,2,30/4/2025 12:12,Gerardo.avalos@avaasesores.com,gerardo.avalos@avaasesores.com,GILBERTO GERARDO ÁVALOS RIVAS,79198482,79198482
+1981,Francisco Manzur,"$50,000",Hombre,60,Mensual,No,Ninguno,30/4/2025 12:09,,georgina.zelaya.mc@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79009003
+1982,Claudia Lissette Batres Alvarado,"$100,000",Mujer,42,Mensual,No,1,30/4/2025 10:13,daecseguros2624@gmail.com,daecseguros2624@gmail.com,DOUGLAS ARTURO ESCOBAR CORADO,76811902,76811902
+1983,MARIA ESTHER ZAMORA CALLE,"$100,000",Mujer,57,Mensual,No,Ninguno,30/4/2025 09:02,copiabg@gmail.com,copiabg@gmail.com,JOSÉ ROBERTO BLANCO MONTENEGRO,78865502,78865502
+1984,VANESSA ELIZABETH ARGEUTA DE VASQUEZ,"$50,000",Mujer,46,Mensual,Sí,2,30/4/2025 08:48,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1985,Christian Enrique Solano Martinez,"$100,000",Hombre,42,Mensual,No,1,30/4/2025 08:19,,admonskysegurosgmail.com,JOSÉ REYNALDO ALFARO,,22790335
+1986,ELIAS CORNEJO,"$50,000",Hombre,27,Mensual,Sí,1,30/4/2025 07:27,JB.SEGUROSYFIANZAS@GMAIL.COM,JB.SEGUROSYFIANZAS@GMAIL.COM,JOSUÉ ARMANDO AGUILAR BARAHONA,72740968,72740968
+1987,Ligia garcia,"$100,000",Mujer,24,Mensual,No,Ninguno,29/4/2025 21:49,Ligiaseguros96@gmail.com,Ligiaseguros96@gmail.com,Ligia garcia,70697016,77476520
+1988,LIGIA MARCELA REYES GARCIA,"$100,000",Mujer,24,Mensual,No,Ninguno,29/4/2025 21:44,ligiaseguros96@gmail.com,ligiaseguros96@mail.com,ligia yamileth garcia de reyes,70697016,77476520
+1989,Ligia Marcela reyes garcia,"$100,000",Mujer,24,Mensual,No,Ninguno,29/4/2025 21:40,Ligiaseguros96@gmail.com,Ligiaseguros96@gmail.com,Ligia yamileth garcia de reyes,70697016,77476520
+1990,Ligia Marcela reyes garcia,"$100,000",Mujer,24,Mensual,No,Ninguno,29/4/2025 21:37,,Ligiaseguros96@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,70697016
+1991,Ligia marcela reyes garcia,"$100,000",Mujer,24,Mensual,No,Ninguno,29/4/2025 21:33,,Ligiaseguros96@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77476520
+1992,MAECELA JASMIN UMANZOR ALVARADO,"$100,000",Mujer,27,Mensual,No,Ninguno,29/4/2025 21:19,"ligiaseguros96@gmail,.com",ligiaseguros96@gmail.com,LIGIA YAMILET GARCIA DE REYES,70697016,77476520
+1993,Elizabeth Guadalupe Campos,"$50,000",Mujer,56,Semestral,No,Ninguno,29/4/2025 20:59,,khernandez@lumitec-sv.com,RODOLFO VLADIMIR HENRIQUEZ VENTURA,,77305757
+1994,Elizabeth Guadalupe Campos,"$50,000",Mujer,56,Trimestral,No,Ninguno,29/4/2025 20:57,,khernandez@lumitec-sv.com,RODOLFO VLADIMIR HENRIQUEZ VENTURA,,7730577
+1995,JOSE ROBERTO RIVERA MARTINEZ,"$250,000",Hombre,44,Mensual,Sí,2,29/4/2025 20:24,carolina@segurati.net,carolina@segurati.net,ROXANA MARÍA RAMÍREZ DE HERNÁNDEZ,79898359,79898359
+1996,JOSE ROBERTO RIVERA MARTINEZ,"$250,000",Hombre,44,Mensual,No,2,29/4/2025 20:21,,carolina@segurati.net,ROXANA MARIA RAMIREZ DE HERNANDEZ,,79898359
+1997,JOSE ROBERTO RIVERA MARTINEZ,"$100,000",Hombre,43,Mensual,Sí,2,29/4/2025 20:18,,carolina@segurati.net,ROXANA MARÍA RAMÍREZ DE HERNÁNDEZ,,79898359
+1998,Marta Cecilia Deras Carabantes,"$50,000",Mujer,34,Mensual,No,Ninguno,29/4/2025 18:49,,cecy.deras99@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,61117650
+1999,PATRICIA CONCEPCION HERNANDEZ,"$100,000",Mujer,55,Mensual,No,Ninguno,29/4/2025 18:46,,urbina.seguros@gmail.com,KAREN ADRIANA URBINA SANCHEZ,,71187292
+2000,MARIELOS CAMPOS,"$100,000",Hombre,34,Mensual,No,Ninguno,29/4/2025 18:17,,JICESMERALDA87@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77894512
+2001,José Elias Ramirez,"$250,000",Hombre,53,Mensual,Sí,1,29/4/2025 16:30,,danilocarranza@ffsegurosasesores.com,NORMA CONCEPCIÓN FUENTES DE FIGUEROA,,79306327
+2002,Jaquelin Yamilet De León Fuentes,"$250,000",Mujer,39,Mensual,Sí,1,29/4/2025 15:56,,danilocarranza@ffsegurosasesores.com,NORMA CONCEPCIÓN FUENTES DE FIGUEROA,,79306327
+2003,Amanda Maribel Sánchez Rivas,"$250,000",Mujer,33,Mensual,Sí,Ninguno,29/4/2025 15:43,,servicioalcliente@pyhasesores.com,KAREN LUCÍA PÉREZ DE HERNÁNDEZ,,78690610
+2004,JOSE ROBERTO MENDOZA RIVAS,"$250,000",Hombre,25,Mensual,No,Ninguno,29/4/2025 15:38,ejecutivocomercial@segurosintegralesyfianzas.com.sv,ejecutivocomercial@segurosintegralesyfianzas.com.sv,"SEGUROS INTEGRALES Y FIANZAS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",76305424,76305424
+2005,GREGORIA ELIZABETH VALLE CACERES,"$50,000",Mujer,49,Mensual,No,Ninguno,29/4/2025 15:01,,-,FLOR FLORES,,-
+2006,GREGORIA ELIZABETHVALLE CACERES,"$50,000",Mujer,49,Mensual,No,1,29/4/2025 14:58,,-,FLOR FLORES,,-
+2007,RAUL ERNESTO SEGOVIA GOMEZ,"$50,000",Hombre,32,Mensual,Sí,3 o más,29/4/2025 14:05,infomultipleseguros@gmail.com,segoviaraul1973@gmail.com,HENRRY ALEXANDER VÁSQUEZ,71808390,79217101
+2008,Moisés Ronaldo Chacón Portillo,"$50,000",Hombre,27,Mensual,Sí,Ninguno,29/4/2025 12:49,,.-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,.
+2009,Iris Yesenia Benitez de Salazar,"$50,000",Mujer,43,Mensual,Sí,3 o más,29/4/2025 11:51,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2010,Moisés Ronaldo Chacón Portillo,"$50,000",Hombre,27,Mensual,No,Ninguno,29/4/2025 11:47,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2011,Adelia Portillo Aleman,"$50,000",Mujer,49,Mensual,No,Ninguno,29/4/2025 11:46,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2012,RENE EDGARDO CASTILLO CORNEJO,"$100,000",Hombre,59,Mensual,Sí,1,29/4/2025 11:29,,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,,71609301
+2013,Karen Hernandez,"$50,000",Mujer,41,Mensual,No,Ninguno,29/4/2025 10:53,,karen.garcia05@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,63018564
+2014,Karen Hernandez,"$50,000",Mujer,41,Mensual,No,Ninguno,29/4/2025 10:53,,karen.garcia05@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,63018564
+2015,JORGE CESAR HERNANDEZ VENTURA,"$250,000",Hombre,21,Mensual,No,Ninguno,29/4/2025 10:44,,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,,78711579
+2016,JORGE CESAR HERNANDEZ VENTURA,"$100,000",Hombre,21,Mensual,No,Ninguno,29/4/2025 10:42,,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,,78711579
+2017,LINDA NOEMI ROSA PERLA,"$50,000",Mujer,26,Mensual,No,1,29/4/2025 10:26,,alex.27aguilar.aa@gmail.com,ALEX STEVEN AGUILAR TREJO,,76821044
+2018,ELIAS CORNEJO,"$50,000",Hombre,27,Mensual,Sí,1,29/4/2025 10:19,JB.SEGUROSYFIANZAS@GMAIL.COM,JB.SEGUROSYFIANZAS@GMAIL.COM,JOSUÉ ARMANDO AGUILAR BARAHONA,72740968,72740968
+2019,CINDY GABRIELA RAMIREZ LEMUS,"$100,000",Mujer,35,Mensual,Sí,2,29/4/2025 09:57,,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,,71609301
+2020,Enoc Solustio Amaya Avalos,"$250,000",Hombre,37,Mensual,Sí,1,29/4/2025 09:41,42,mzseguros.servicioalcliente@gmail.com,ASTRID MARGARITA MATA DE ZAVALETA,79407815,79407815
+2021,ROXANA DE CALDERON,"$50,000",Mujer,24,Mensual,No,Ninguno,29/4/2025 08:46,,mario75calderon@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71609301
+2022,JORGE ENRIQUE MARTINEZ TOBAR,"$50,000",Hombre,35,Mensual,No,Ninguno,29/4/2025 08:39,,rnseguros.sv@gmail.com,ZAIDA ROCÍO NERIO CHICA,,77420550
+2023,Carlos Vicente Ramirez Dominguez,"$500,000",Hombre,64,Anual,No,Ninguno,28/4/2025 18:59,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+2024,Brandon Martín Ruiz Álvarez,"$100,000",Hombre,24,Mensual,Sí,Ninguno,28/4/2025 17:36,misael.seguros10@gmail.com,misael.seguros10@gmail.com,MISAEL ESTEBAN SÁNCHEZ MENJIVAR,73624006,73624006
+2025,Patrick Francis Coady,"$50,000",Hombre,62,Mensual,Sí,Ninguno,28/4/2025 17:32,,-,Jairo Medrano,,-
+2026,JOSE RICARDO CASTELLON,"$100,000",Hombre,55,Mensual,Sí,Ninguno,28/4/2025 16:25,williamherrera@pyhasesores.com,william.herrera0408@hotmail.com,WILLIAM ALBERTO HERRERA PÉREZ,,77449972
+2027,JOSE RICARDO CASTELLON,"$250,000",Hombre,55,Mensual,Sí,Ninguno,28/4/2025 16:23,williamherrera@pyhasesores.com,william.herrera0408@hotmail.com,WILLIAM ALBERTO HERRERA PÉREZ,,77449972
+2028,Marielos de los Angeles Mendoza,"$100,000",Mujer,33,Mensual,No,Ninguno,28/4/2025 16:21,,ronald.rivera@beyouasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,76202887
+2029,Mario Alfredo Landaverde Callejas,"$500,000",Hombre,40,Mensual,Sí,1,28/4/2025 16:11,gerencia@scalaconsultores.com.sv,gerencia@scalaconsultores.com.sv,"SERVICIOS DE CALIDAD, CONSULTORES S.A. DE C.V.",77405500,77405500
+2030,LUIS ALBERTO RIVAS MELENDEZ,"$500,000",Hombre,45,Mensual,No,Ninguno,28/4/2025 15:39,josselinmelendez@liconsultores.com.sv,josselinmelendez@liconsultores.com.sv,"LI CONSULTORES, S.A. DE C.V.",25347506,25347506
+2031,Wiliam Vasquez,"$100,000",Hombre,28,Mensual,No,Ninguno,28/4/2025 15:20,Martha Vidal de Avendaño,mvidalseguros@gmail.com,MARTHA JEANETH VIDAL DE AVENDAÑO,74782900,74782900
+2032,Elsy Noemy Cruz Gallegos,"$100,000",Mujer,35,Mensual,No,1,28/4/2025 14:44,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2033,Elsy Noemy Cruz Gallegos,"$50,000",Mujer,35,Mensual,No,1,28/4/2025 14:42,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2034,RAUL ERNESTO SEGOVIA GOMEZ,"$50,000",Hombre,32,Mensual,Sí,3 o más,28/4/2025 14:26,Infomultipleseguros@gmail.com,segoviaraul1973@gmail.com,HENRRY ALEXANDER VÁSQUEZ,7180 8390,75558798
+2035,THANIA LAGOS,"$50,000",Mujer,34,Mensual,No,Ninguno,28/4/2025 14:13,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2036,ROSEMARIE JOSEFINA SANCHO VELÁSQUEZ,"$50,000",Mujer,64,Mensual,No,Ninguno,28/4/2025 13:29,gestiones@grupo-fortaleza.com,gestiones@grupo-fortaleza.com,"GRUPO FORTALEZA, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",2556-9430,2556-9430
+2037,WALTER ERNESTO BELLOSO ALONSO,"$100,000",Hombre,60,Mensual,Sí,Ninguno,28/4/2025 12:32,gestiones@grupo-fortaleza.com,gestiones@grupo-fortaleza.com,"GRUPO FORTALEZA, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",2556-9430,2556-9430
+2038,WALTER ERNESTO BELLOSO ALONSO,"$50,000",Hombre,60,Mensual,Sí,Ninguno,28/4/2025 12:29,gestiones@grupo-fortaleza.com,gestiones@grupo-fortaleza.com,"GRUPO FORTALEZA, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",2556-9430,2556-9430
+2039,NELSON LOPEZ,"$250,000",Hombre,39,Mensual,Sí,2,28/4/2025 11:47,,servicioalcliente@pyhasesores.com,WILLIAM ALBERTO HERRERA PÉREZ,,78690610
+2040,EMMA CAROLINA LOPEZ,"$50,000",Mujer,55,Mensual,No,Ninguno,28/4/2025 11:37,ADMINISTRADORA DE SEGURO S.A DE C.V,oguadron@adrisa.com.sv,,25601706,74691799
+2041,ERIKA YAMILETH PERLA CHAVEZ,"$50,000",Mujer,38,Mensual,No,1,28/4/2025 11:35,,erika-perla19@hotmail.com,ALEX STEVEN AGUILAR TREJO,,79271809
+2042,ANA ELIZABETH MALDONADO,"$100,000",Mujer,58,Mensual,No,Ninguno,28/4/2025 11:34,administracion@dmasesores-seguros.com,operaciones2@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,7948 6449
+2043,ANA ELIZABETH MALDONADO,"$250,000",Mujer,58,Mensual,No,Ninguno,28/4/2025 11:32,administracion@dmasesores-seguros.com,operaciones2@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79486449
+2044,ANA ELIZABETH MALDONADO,"$100,000",Hombre,58,Mensual,No,Ninguno,28/4/2025 11:28,administracion@dmasesores-seguros.com,operaciones2@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,7948-6449
+2045,JUDIHT DOLORES GUEVARA DE MELARA,"$50,000",Mujer,59,Mensual,No,Ninguno,28/4/2025 11:09,,-,Sara Melara,,-
+2046,RUT LOPEZ,"$100,000",Mujer,29,Mensual,No,Ninguno,28/4/2025 09:51,jazsegurosyasistencias@gmail.com,jazsegurosyasistencias@gmail.com,MARÍA ELENA VÁSQUEZ DE BONILLA,78477338,78477338
+2047,Jairo Medrano,"$100,000",Hombre,45,Mensual,No,Ninguno,28/4/2025 09:48,gjairo01@yahoo.com,gjairo01@yahoo.com,Jairo Medrano,64446473,77192199
+2048,OSCAR ANIBAL CRUZ REYES,"$50,000",Hombre,42,Mensual,Sí,1,28/4/2025 09:40,,ahenriquez@seatlan.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,0
+2049,OSCAR ANIBAL CRUZ REYES,"$100,000",Hombre,42,Mensual,Sí,1,28/4/2025 09:37,,ahenriquez@seatlan.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,0
+2050,DENNIS YURI CABRERA,"$100,000",Hombre,42,Mensual,Sí,2,28/4/2025 09:35,servicioalcliente@riesgoseguros.com,servicioalcliente@riesgoseguros.com,"GESTIÓN DE RIESGOS Y SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,70910573
+2051,Fabricio Josue Orellana Guatemala,"$250,000",Hombre,34,Mensual,Sí,1,28/4/2025 09:31,,-,Jairo Medrano,,-
+2052,SANTOS ULISES BARAHONA VENTURA,"$50,000",Hombre,51,Semestral,No,1,27/4/2025 17:27,,velinkty@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78836470
+2053,KRISSIA DYANNA REYES ALEGRIA,"$50,000",Hombre,30,Mensual,No,3 o más,27/4/2025 13:15,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2054,EDWIN ALEXANDER URBINA,"$250,000",Hombre,57,Mensual,No,Ninguno,27/4/2025 12:23,,ss.melara@gmail.com,SARA STEFANY MELARA GUEVARA,,78541312
+2055,EDWIN ALEXANDER URBINA,"$50,000",Hombre,57,Mensual,No,Ninguno,27/4/2025 12:21,,ss.melara@gmail.com,SARA STEFANY MELARA GUEVARA,,78541312
+2056,KARLA DEL CARMEN QUEZADA DE URBINA,"$250,000",Mujer,47,Mensual,No,Ninguno,27/4/2025 12:19,,ss.melara@gmail.com,SARA STEFANY MELARA GUEVARA,,78541312
+2057,KARLA DEL CARMEN QUEZADA DE URBINA,"$50,000",Mujer,47,Mensual,No,Ninguno,27/4/2025 12:18,,ss.melara@gmail.com,SARA STEFANY MELARA GUEVARA,,78541312
+2058,KARLA DEL CARMEN QUEZADA DE URBINA,"$250,000",Mujer,47,Mensual,Sí,Ninguno,27/4/2025 12:13,,ss.melara@gmail.com,SARA STEFANY MELARA GUEVARA,,78541312
+2059,KARLA DEL CARMEN QUEZADA DE URBINA,"$100,000",Mujer,47,Mensual,Sí,Ninguno,27/4/2025 12:12,,ss.melara@gmail.com,SARA STEFANY MELARA GUEVARA,,78541312
+2060,KARLA EL CARMEN QUEZADA DE URBINA,"$100,000",Mujer,47,Mensual,Sí,Ninguno,27/4/2025 12:10,,ss.melara@gmail.com,SARA STEFANY MELARA GUEVARA,,78541312
+2061,Daniel Alexander Lemus Hernandez,"$50,000",Hombre,32,Mensual,Sí,Ninguno,27/4/2025 11:02,,.,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,.
+2062,MARIA GUADALUPE MEJICANO DE ZELAYA,"$100,000",Mujer,38,Mensual,No,Ninguno,26/4/2025 17:35,ligiaseguros 96@gmail.com,ligiaseguros 96@gmail.com,ligia yamileth garcia de reyes,70697016,77476520
+2063,NELSON ROBERTO BLANCO SANTOS,"$50,000",Hombre,41,Mensual,Sí,3 o más,26/4/2025 15:38,,velinkty@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78836470
+2064,Rocío campos,"$50,000",Mujer,32,Mensual,No,Ninguno,26/4/2025 12:21,,Alfaro.reynaldo@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77298490
+2065,FLORA MARICELA SERRANO DE MOLINA,"$100,000",Hombre,62,Mensual,No,Ninguno,26/4/2025 11:21,,reclamosadapto@gmail.com,WILLIAM JOSUÉ AGUIRRE CARRANZA,,76968701
+2066,Jennifer campos,"$50,000",Mujer,31,Mensual,No,Ninguno,26/4/2025 10:32,,Alfaro.reynaldo@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77298490
+2067,FLORA MARICELA SERRANO DE MOLINA,"$100,000",Mujer,62,Mensual,No,Ninguno,26/4/2025 10:13,,reclamosadapto@gmail.com,WILLIAM JOSUÉ AGUIRRE CARRANZA,,76968701
+2068,Valeria Maria Pacas Jovel,"$100,000",Mujer,27,Mensual,No,Ninguno,26/4/2025 10:07,lissette.alvarez@aseguratsv.com,lissettedeaguirre@gmail.com,ANA LISSETTE ÁLVAREZ DE AGUIRRE,78035741,78035741
+2069,JAVIER IVAN MOLINA,"$100,000",Hombre,62,Mensual,No,Ninguno,26/4/2025 10:04,reclamosadapto@gmail.com,reclamosadapto@gmail.com,WILLIAM JOSUÉ AGUIRRE CARRANZA,76968701,76968701
+2070,EMMA GABRIELA SANTOS CASTILLO,"$50,000",Mujer,32,Mensual,No,1,26/4/2025 00:49,wendydiaz@grupo-fortaleza.com,wendydiaz@grupo-fortaleza.com,GRUPO FORTALEZA S.A. DE C.V.,25569430,25569430
+2071,Alba,"$50,000",Mujer,29,Mensual,No,Ninguno,25/4/2025 17:40,,davidernesto.garcia@outlook.com,DAVID ERNESTO GARCÍA VÁSQUEZ,,772667
+2072,MAURICIO BALMORE MEJIA RODRIGUEZ,"$100,000",Hombre,52,Mensual,No,Ninguno,25/4/2025 17:23,,francisco.silva@beyouasesores.com,"BE YOU, S.A. DE C.V.",,77594972
+2073,MAURICIO BALMORE MEJIA RODRIGUEZ,"$250,000",Hombre,52,Mensual,No,Ninguno,25/4/2025 17:21,,francisco.silva@beyouasesores.com,"BE YOU, S.A. DE C.V.",,77594972
+2074,Brandon Martín Ruiz Álvarez,"$100,000",Hombre,24,Mensual,Sí,Ninguno,25/4/2025 16:23,,misael.seguros10@gmail.com,MISAEL ESTEBAN SÁNCHEZ MENJIVAR,,73624006
+2075,KATHERINE GUADALUPE RAMIREZ ZETINO,"$250,000",Mujer,31,Mensual,No,Ninguno,25/4/2025 15:22,karlajhoanna.tenorio@gmail.com,xkdetenorio@gmail.com,,,77484802
+2076,KATHERINE GUADALUPE RAMIREZ ZETINO,"$100,000",Mujer,31,Mensual,No,Ninguno,25/4/2025 15:18,karlajhoanna.tenorio@gmail.com,xkdetenorio@gmail.com,Karla Tenorio de Amaya,,77484802
+2077,GABRIELA DURAN,"$50,000",Mujer,25,Mensual,No,Ninguno,25/4/2025 15:11,,sara.melara@expertiagroup.com,SARA STEFANY MELARA GUEVARA,,78541312
+2078,Veronica Azucena Alfaro de Durán,"$250,000",Mujer,46,Mensual,Sí,2,25/4/2025 15:09,,sara.melara@expertiagroup.com,SARA STEFANY MELARA GUEVARA,,78541312
+2079,Veronica Azucena Alfaro de Durán,"$100,000",Mujer,46,Mensual,Sí,2,25/4/2025 15:06,,sara.melara@expertiagroup.com,SARA STEFANY MELARA GUEVARA,,78541312
+2080,Veronica Azucena Alfaro de Durán,"$250,000",Mujer,57,Mensual,Sí,2,25/4/2025 15:04,,sara.melara@expertiagroup.com,SARA STEFANY MELARA GUEVARA,,78541312
+2081,Argelia Menjívar García,"$100,000",Mujer,64,Mensual,No,Ninguno,25/4/2025 14:38,idesalazar@ivsasesorias.com,idesalazar@ivsasesorias.com,Sonia Ivette Varela de Salazar,,78385387
+2082,Susan Michelle Díaz Bach,"$50,000",Mujer,51,Mensual,No,Ninguno,25/4/2025 14:37,,-,Melissa Salazar,,-
+2083,EMERSON JOSUE AMADOR ROSALES,"$100,000",Hombre,29,Mensual,No,Ninguno,25/4/2025 14:12,,stephane.cortes@besafeasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,70596754
+2084,NOREEN ANDREA ALVARENGA DE RAMIREZ,"$100,000",Mujer,40,Mensual,No,1,25/4/2025 14:02,,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,,7160 9301
+2085,Michelle Alejandra Osorio Salgado,"$100,000",Mujer,27,Mensual,No,Ninguno,25/4/2025 13:47,osorioacrecer@gmail.com,osorioacrecer@gmail.com,OSCAR ARMANDO OSORIO,70469476,70469476
+2086,Michelle Alejandra Osorio Salgado,"$250,000",Mujer,27,Mensual,No,Ninguno,25/4/2025 13:44,osorioacrecer@gmail.com,osorioacrecer@gmail.com,OSCAR ARMANDO OSORIO,70469476,70469476
+2087,MAMA ELI,"$250,000",Mujer,51,Mensual,No,Ninguno,25/4/2025 13:40,,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,,75178411
+2088,MAMA ELI,"$100,000",Mujer,51,Mensual,No,Ninguno,25/4/2025 13:39,lmbaraona@yahoo.com,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,,75178411
+2089,Oscar Osorio,"$100,000",Hombre,48,Mensual,Sí,2,25/4/2025 13:37,osorioacrecer@gmail.com,osorioacrecer@gmail.com,Oscar Armando Osorio,70469476,70469476
+2090,Eva Marisol Sosa Ayala,"$250,000",Mujer,32,Mensual,No,2,25/4/2025 13:35,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79510515
+2091,MARIA ANTONIETA ALBARRAN MONTERO,"$500,000",Mujer,55,Mensual,No,Ninguno,25/4/2025 12:55,,didier.moncada@cps.com.sv,"CONSULTORÍA PROFESIONAL EN SEGUROS, S.A. DE C.V.",,73086644
+2092,DINORA ELENA TORRES AMAYA,"$250,000",Mujer,38,Mensual,No,Ninguno,25/4/2025 11:41,,francisco.silva@beyouasesores.com,"BE YOU, S.A. DE C.V.",,77594972
+2093,Eva Marisol Sosa Ayala,"$250,000",Mujer,32,Mensual,No,Ninguno,25/4/2025 11:30,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79510515
+2094,KEVIN,"$250,000",Hombre,31,Mensual,No,Ninguno,25/4/2025 11:20,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2095,KEVIN HERNANDEZ,"$50,000",Hombre,31,Mensual,No,Ninguno,25/4/2025 11:19,,-,"ESCOLÁN BATARSÉ MOLINA CONSULTORES DE SEGUROS, S.A. DE C.V.",,-
+2096,DINORA ELENA TORRES AMAYA,"$100,000",Mujer,38,Mensual,No,Ninguno,25/4/2025 11:13,,francisco.silva@beyouasesores.com,"BE YOU, S.A. DE C.V.",,77594972
+2097,SAMUEL MENDEZ,"$100,000",Hombre,46,Mensual,Sí,Ninguno,25/4/2025 10:59,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+2098,LIGIA MARINA REINOSA AMAYA,"$250,000",Mujer,49,Mensual,Sí,Ninguno,25/4/2025 10:36,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2099,CESAR EUGENIO CALVO SALAZAR,"$50,000",Hombre,42,Mensual,Sí,1,25/4/2025 10:33,jrav.seguros@gmail.com,jwseguros@outlook.com,JOSE ABREGO,78948909,78901234
+2100,TATHIANA JEANNINA GARCIA FIGUEROA,"$250,000",Mujer,28,Mensual,No,Ninguno,25/4/2025 10:32,,atencionalcliente@resuelve.com.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7876-5780
+2101,KELVIN FLORES,"$100,000",Hombre,30,Mensual,No,Ninguno,25/4/2025 10:08,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+2102,Alessandra Esmeralda Sorto Salazar,"$100,000",Mujer,18,Mensual,No,Ninguno,25/4/2025 10:06,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+2103,Sonia del Carmen Márquez de galeas,"$100,000",Mujer,54,Mensual,No,Ninguno,25/4/2025 10:04,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+2104,Sonia del Carmen Márquez de galeas,"$100,000",Mujer,54,Mensual,No,Ninguno,25/4/2025 10:03,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+2105,HERNAN OSWALDO MEDINA,"$250,000",Hombre,42,Mensual,No,2,25/4/2025 09:38,negocios@scalaconsultores.com.sv,negocios@scalaconsultores.com.sv,"SERVICIOS DE CALIDAD, CONSULTORES S.A. DE C.V.",,22785544
+2106,HERNAN OSWALDO MEDINA,"$100,000",Hombre,42,Mensual,No,2,25/4/2025 09:34,negocios@scalaconsultores.com.sv,negocios@scalaconsultores.com.sv,"SERVICIOS DE CALIDAD, CONSULTORES S.A. DE C.V.",,22785544
+2107,ALMA RUTH MERLOS DE RIVERA,"$250,000",Mujer,42,Mensual,Sí,3 o más,25/4/2025 09:29,directorcomercial1@risgoseguros.com,directorcomercial1@risgoseguros.com,GRS SA DE CV,74589632,74589685
+2108,BRYAN ARMANDO SALINAS SANCHEZ,"$250,000",Hombre,25,Mensual,No,Ninguno,25/4/2025 09:29,,atencionalcliente@resuelve.com.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7876-5780
+2109,ALMA RUTH MERLOS DE RIVERA,"$100,000",Mujer,42,Mensual,Sí,3 o más,25/4/2025 09:27,directorcomercial1@risgoseguros.com,directorcomercial1@risgoseguros.com,"GRS, S.A. DE CV",,73185319
+2110,KATHERINE CHAVEZ,"$50,000",Mujer,29,Mensual,No,1,25/4/2025 08:05,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2111,Estefan Iveth Maltez Argueta,"$250,000",Mujer,32,Mensual,No,Ninguno,24/4/2025 20:34,,georgina.zelaya.mc@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79009003
+2112,Berenice Sarai Maltez Argueta,"$250,000",Mujer,31,Mensual,No,Ninguno,24/4/2025 20:24,,georgina.zelaya.mc@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79009003
+2113,Marcia Arely Maltez Argueta,"$250,000",Mujer,24,Mensual,No,Ninguno,24/4/2025 20:15,,georgina.zelaya.mc@gmail.com,JORGE ALEXANDER ZELAYA MIRANDA,,79009003
+2114,Marcia Arely Maltez Argueta,"$250,000",Mujer,24,Mensual,No,Ninguno,24/4/2025 20:14,,georgina.zelaya.mc@gmail.com,GEORGINA ELIZABETH ZELAYA MIRANDA,,79009003
+2115,Mario Jose Pastore Ortiz,"$250,000",Hombre,57,Mensual,Sí,Ninguno,24/4/2025 19:55,,georgina.zelaya.mc@gmail.com,GEORGINA ELIZABETH ZELAYA MIRANDA,,79009003
+2116,EDITH XIOMARA ARREAGA VASQUEZ,"$100,000",Mujer,35,Mensual,Sí,2,24/4/2025 17:21,info.insurancesv@gmail.com,marlon.mendez2010@gmail.com,MARLON EDUARDO MÉNDEZ AGUIRRE,info.insurancesv@gmail.com,77486169
+2117,EMELY VANESSA CARIDAD CHICAS,"$250,000",Mujer,36,Mensual,No,Ninguno,24/4/2025 17:03,gerardo.avalos@avaasesores.com,emely.chicas@gmail.com,GILBERTO GERARDO ÁVALOS RIVAS,79198482,79198482
+2118,EMELY VANESSA CARIDAD CHICAS,"$250,000",Mujer,36,Mensual,No,Ninguno,24/4/2025 17:00,GILBERTO GERARDO AVALOS RIVAS,emely.chicas@gmail.com,GILBERTO GERARDO ÁVALOS RIVAS,79198482,79198482
+2119,MELISSA MICHELLE CHAVEZ ALFARO,"$100,000",Mujer,27,Mensual,No,Ninguno,24/4/2025 16:55,ejecutivocomercial@segurosintegralesyfianzas.com.sv,m.chavezalfaro19@gmail.com,"SEGUROS INTEGRALES Y FIANZAS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",76305424,70229124
+2120,EMELY VANESSA CARIDAD CHICAS,"$100,000",Mujer,36,Mensual,No,Ninguno,24/4/2025 16:51,,gerardo.avalos@avaasesores.com,GILBERTO GERARDO ÁVALOS RIVAS,79198482,79198482
+2121,EMELY VANESSA CARIDAD CHICAS,"$100,000",Mujer,36,Mensual,No,Ninguno,24/4/2025 16:49,Gerardo Avalos,gerardo.avalos@avaasesores.com,GILBERTO GERARDO ÁVALOS RIVAS,79198482,79198482
+2122,Silvia,"$50,000",Mujer,44,Mensual,No,Ninguno,24/4/2025 16:37,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2123,EMELY VANESSA CARIDAD CHICAS,"$100,000",Mujer,36,Mensual,No,Ninguno,24/4/2025 16:26,,gerardo.avalos@avaasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79198482
+2124,SUSAN MICHELLE DIAZ BACH,"$100,000",Mujer,51,Mensual,No,Ninguno,24/4/2025 16:18,msalazar@vortexcapital.co,gestion@vortexcapital.co,MELISSA RAQUEL SALAZAR DE ORELLANA,78707000,72667752
+2125,Sussan Michelle Diaz Bach,"$250,000",Mujer,51,Mensual,No,Ninguno,24/4/2025 16:17,gestion@vortexcapital.com,gestion@vortexcapital.co,MELISSA RAQUEL SALAZAR DE ORELLANA,78707000,78707000
+2126,Christian Juan Jose Cordova Méndez,"$50,000",Hombre,41,Mensual,No,Ninguno,24/4/2025 15:45,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2127,GERMAN ALEXANDER AREVALO,"$250,000",Hombre,29,Mensual,No,Ninguno,24/4/2025 15:11,,atencionalcliente@resuelve.com.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7876-5780
+2128,KIARA INES MEJIA,"$100,000",Mujer,30,Mensual,No,Ninguno,24/4/2025 14:31,,seguroskarlajoveloficina@hotmail.com,KARLA ISOLET JOVEL GÁMEZ,,78882132
+2129,Xinia Arbael Reyes Silva,"$50,000",Mujer,28,Mensual,No,Ninguno,24/4/2025 14:18,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2130,TATIANA MARISOL CISNEROS,"$250,000",Mujer,29,Mensual,No,Ninguno,24/4/2025 13:19,lmbaraona@yahoo.com,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,,75178411
+2131,TATIANA MARISOL CISNEROS,"$100,000",Mujer,29,Mensual,No,Ninguno,24/4/2025 13:17,lmbaraona@yahoo.com,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,,75178411
+2132,MABIELA XIOMARA VILLALTA SOLORZANO,"$100,000",Mujer,31,Mensual,No,Ninguno,24/4/2025 12:19,,xsolorzano2218@gmail.com,KARLA ISOLET JOVEL GÁMEZ,,7797-5827
+2133,MABIELA XIOMARA VILLALTA SOLORZANO,"$100,000",Mujer,31,Mensual,No,Ninguno,24/4/2025 12:18,,xsolorzano2218@gmail.com,KARLA ISOLET JOVEL GÁMEZ,,7797-5827
+2134,Kevin Gerardo Rodriguez Hernández,"$50,000",Hombre,18,Mensual,No,Ninguno,24/4/2025 11:39,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2135,NATHALY JUDITH VILLANUEVA GONZALEZ,"$100,000",Mujer,22,Mensual,No,Ninguno,24/4/2025 11:39,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+2136,ERIKA YAMILETH PERLA CHAVEZ,"$50,000",Mujer,38,Mensual,No,1,24/4/2025 11:35,,alex.27aguilar.aa@gmail.com,ALEX STEVEN AGUILAR TREJO,,76821044
+2137,JULISSA GABRIELA VILLANUEVA GONZALEZ,"$100,000",Mujer,24,Mensual,No,Ninguno,24/4/2025 11:35,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+2138,SERGIO GOMEZ MIRANDA,"$50,000",Hombre,51,Mensual,Sí,1,24/4/2025 11:33,,alex.27aguilar.aa@gmail.com,ALEX STEVEN AGUILAR TREJO,,76821044
+2139,HECTOR MANUEL VILLANUEVA AYALA,"$100,000",Hombre,52,Mensual,Sí,Ninguno,24/4/2025 11:30,operaciones@dmasesores-seguros.com,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",22841256,22841256
+2140,SANA ZAKHEL DE ZARZAR,"$100,000",Mujer,63,Mensual,No,Ninguno,24/4/2025 11:28,,cjvillacorta@av-seguros.com,HECTOR VALLECILLOS,,71630943
+2141,CLAUDIA ESMERALDA RIVERA MARTINEZ,"$100,000",Mujer,55,Mensual,No,Ninguno,24/4/2025 11:18,servicioalcliente@riesgoseguros.com,servicioalcliente@riesgoseguros.com,"GESTIÓN DE RIESGOS Y SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,70910573
+2142,Silvia,"$100,000",Mujer,40,Mensual,Sí,1,24/4/2025 11:05,,Clau.mediina8@gmsil.com,CLAUDIA MARÍA HERNÁNDEZ MEDINA,,78658143
+2143,ERIKA YAMILETH PERLA CHAVEZ,"$50,000",Hombre,38,Mensual,No,1,24/4/2025 11:04,,alex.27aguilar.aa@gmail.com,ALEX STEVEN AGUILAR TREJO,,76821044
+2144,Silvia,"$100,000",Mujer,40,Mensual,Sí,1,24/4/2025 11:03,,Clau.mediina8@gmsil.com,Claudia María Hernández Medina,,78658144
+2145,Po Kang Shen,"$250,000",Hombre,42,Mensual,No,Ninguno,24/4/2025 10:55,magaseguros8@gmail.com,magaseguros8@gmail.com,Magaly Pleitez,78333249,78333249
+2146,Ana Marcela Orellana,"$250,000",Mujer,37,Mensual,No,Ninguno,24/4/2025 10:51,magaseguros8@gmail.com,magaseguros8@gmail.com,Magaly Pleitez,78333249,78333249
+2147,ONAN LOPEZ,"$100,000",Hombre,41,Mensual,No,Ninguno,24/4/2025 10:50,adaptoseguros@gmail.com,reclamosadapto@gmail.com,WILLIAM JOSUÉ AGUIRRE CARRANZA,70369115,76968701
+2148,Po Kang Shen- Kent,"$250,000",Hombre,42,Mensual,No,Ninguno,24/4/2025 10:46,magaseguros8@gmail.com,magaseguros8@gmail.com,Magaly Pleitez,7833329,78333249
+2149,Karla Irene Menjivar de Pacheco,"$50,000",Mujer,33,Mensual,No,Ninguno,24/4/2025 10:33,,-,Rosa Elena Arauz,,-
+2150,VALERIA ISSEL RAMIREZ MUÑOZ,"$250,000",Mujer,21,Mensual,No,Ninguno,24/4/2025 10:08,renemartinex@gmail.com,renemartinex@gmail.com,,77548723,77548723
+2151,CARLOS ERNESTO GARCIA GUARDADO,"$100,000",Hombre,34,Mensual,Sí,1,24/4/2025 09:35,segurosexpress7@gmail.com,segurosexpress7@gmail.com,YESENIA CASTRO,76970240,22980012
+2152,KELY YESSENIA JACOBO DE YANES,"$250,000",Mujer,38,Mensual,No,1,24/4/2025 09:33,csanchez@ras.com.sv,csanchez@ras.com.sv,RAS,7729-2409,7729-2409
+2153,KELY YESSENIA JACOBO DE YANES,"$100,000",Mujer,38,Mensual,No,1,24/4/2025 09:28,csanchez@ras.com.sv,csanchez@ras.com.sv,RAS,7729-2409,7729-2409
+2154,LAURA SOFIA ROSALES DE MEJIA,"$250,000",Mujer,32,Mensual,No,Ninguno,24/4/2025 09:19,directorcomercial1@riesgoseguros.com,directorcomercial1@riesgoseguros.com,"GRS, S.A. DE C.V.",7415896,74589632
+2155,CARLOS ERNESTO GARCIA GUARDADO,"$100,000",Hombre,34,Mensual,Sí,1,24/4/2025 09:17,segurosexpress7@gmail.com,segurosexpress7@gmail.com,YESENIA CASTRO,769702740,22980012
+2156,ALMA RUTH MERLOS DE RIVERA,"$250,000",Mujer,42,Mensual,No,Ninguno,24/4/2025 09:16,directorcomercial1@riesgoseguros.com,directorcomercial1@riesgoseguros.com,"GRS, S.A. DE C.V.",74127412,75897589
+2157,ALMA RUTH MERLOS DE RIVERA,"$250,000",Hombre,42,Mensual,No,Ninguno,24/4/2025 09:12,directorcomercial1@riesgoseguros.com,directorcomercial1@riesgoseguros.com,"GRS, S.A. DE C.V",75367536,75367536
+2158,Laureano José Espinoza Arguello,"$50,000",Hombre,24,Mensual,No,Ninguno,24/4/2025 09:11,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2159,ALMA RUTH MERLOS DE RIVERA,"$100,000",Mujer,42,Mensual,No,Ninguno,24/4/2025 09:10,directorcomercial1@riesgoseguros.com,directorcomercial1@riesgoseguros.com,"GRS, SA DE CV",75155356,73155656
+2160,David Alejandro Paz Sole,"$250,000",Hombre,45,Mensual,No,2,24/4/2025 09:09,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+2161,FERNANDA BEATRIZ PLATERO AGUIRRE,"$50,000",Mujer,25,Mensual,No,Ninguno,24/4/2025 08:56,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2162,Gabriela Alejandra Castillo Rivas,"$50,000",Mujer,33,Mensual,No,Ninguno,24/4/2025 08:41,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2163,Giovanni Alexander Vásquez Aguillon,"$250,000",Hombre,39,Mensual,No,Ninguno,24/4/2025 08:07,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79510515
+2164,KEVIN GERARDO RODRIGUEZ HERNANDEZ,"$100,000",Hombre,18,Mensual,No,Ninguno,23/4/2025 20:58,,sebastian.arana@aranseguros.com,SEBASTIÁN ARANA,,7160-4986
+2165,DALIA FLOR DE MARIA AYALA CLAVEL,"$250,000",Mujer,38,Mensual,No,Ninguno,23/4/2025 18:19,williamherrera@pyhasesores.com,williamherrera@pyhasesores.com,WILLIAM ALBERTO HERRERA PÉREZ,77449972,77449972
+2166,Jose Cristino ramos romero,"$250,000",Hombre,32,Mensual,No,Ninguno,23/4/2025 16:50,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79510515
+2167,Wendy Trinidad Cardoza Cantarero,"$50,000",Mujer,39,Mensual,No,Ninguno,23/4/2025 16:36,mbcorredores2@gmail.com,mbcorredores2@gmail.com,"MASTER BROKER, S.A. DE C.V.",78994152,78994152
+2168,RICARDO GIOVANNI TORRES SALAZAR,"$100,000",Hombre,32,Mensual,No,1,23/4/2025 16:29,,francisco.silva@beyouasesores.com,"BE YOU, S.A. DE C.V.",,77594972
+2169,Gerardo Andrés Cruz Aguirre,"$100,000",Hombre,19,Mensual,No,Ninguno,23/4/2025 15:53,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+2170,Gerardo Andrés Cruz Aguirre,"$250,000",Hombre,19,Mensual,No,Ninguno,23/4/2025 15:49,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+2171,NATASHA ARIEL LOPEZ ANGEL,"$100,000",Mujer,30,Mensual,No,Ninguno,23/4/2025 15:41,servicioalcliente@riesgoseguros.com,servicioalcliente@riesgoseguros.com,"GESTIÓN DE RIESGOS Y SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,70910573
+2172,Jacqueline Torres,"$50,000",Mujer,23,Mensual,No,Ninguno,23/4/2025 15:36,,Adm.sramirez@gmail.com,LEYLAN STEPHANIE CORNEJO DE RAMÍREZ,,75633044
+2173,Carlos Torres,"$50,000",Hombre,43,Mensual,Sí,1,23/4/2025 15:33,,Adm.sramirez@gmail.com,LEYLAN STEPHANIE CORNEJO DE RAMÍREZ,,75633044
+2174,Carlos Torres,"$50,000",Hombre,43,Mensual,Sí,Ninguno,23/4/2025 15:31,,Adm.sramirez@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,75633044
+2175,CAROL SALMERON,"$100,000",Mujer,50,Mensual,No,1,23/4/2025 12:01,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+2176,GUILLERMO ANTONIO GALLEGOS NAVARRETE,"$250,000",Hombre,54,Mensual,No,Ninguno,23/4/2025 11:46,,sesiomconsultores@gmail.com,MOISÉS IVÁN GONZÁLEZ MARTÍNEZ,,71293135
+2177,CARMEN EUGENIA TREMINIO REYES,"$100,000",Mujer,29,Mensual,No,Ninguno,23/4/2025 11:31,,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,,7922 0536
+2178,JOSSELINE YAMILETH RIVAS MENJIVAR,"$50,000",Mujer,44,Mensual,No,1,23/4/2025 11:16,,.,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,.
+2179,JOSSELINE YAMILETH RIVAS MENJIVAR,"$50,000",Mujer,44,Mensual,No,Ninguno,23/4/2025 11:12,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2180,MARVIN GERARDO MEJIA ORTIZ,"$100,000",Hombre,25,Mensual,No,Ninguno,23/4/2025 10:55,servicioalcliente@riesgoseguros.com,servicioalcliente@riesgoseguros.com,"GESTIÓN DE RIESGOS Y SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,70910573
+2181,MARIA ANGELINA ORTIZ DE MEJIA,"$100,000",Mujer,53,Mensual,Sí,Ninguno,23/4/2025 10:47,"GESTIÓN DE RIESGOS Y SEGUROS, S.A. DE C.V.",servicioalcliente@riesgoseguros.com,,,70910573
+2182,Carlos Quintanilla,"$50,000",Hombre,21,Mensual,Sí,Ninguno,23/4/2025 09:42,acoradodealvarenga@gmail.com,acoradodealvarenga@gmail.com,ANA MERCEDES CORADO DE ALVARENGA,71184945,71184945
+2183,DIEGO ALEJANDRO PAZ SOLE,"$250,000",Hombre,45,Mensual,No,2,23/4/2025 09:20,,operaciones@dmasesores-seguros.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,22841256
+2184,DAVID ALEJANDRO PAZ SOLE,"$100,000",Hombre,45,Mensual,No,2,23/4/2025 09:15,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+2185,ANA DE PALMA,"$100,000",Mujer,49,Mensual,No,Ninguno,22/4/2025 21:27,,info@seguros-soluciones.com,MAURICIO ADALBERTO ALVARADO GUILLÉN,,76823600
+2186,REGINA BEATRIZ VISCARRA CORTEZ,"$100,000",Mujer,31,Mensual,Sí,Ninguno,22/4/2025 20:56,,info@seguros-soluciones.com,MAURICIO ADALBERTO ALVARADO GUILLÉN,,76823600
+2187,REGINA BEATRIZ VISCARRA CORTEZ,"$100,000",Mujer,31,Mensual,Sí,Ninguno,22/4/2025 20:44,,INFO@SEGUROS-SOLUCIONES.COM,MAURICIO ADALBERTO ALVARADO GUILLÉN,,76823600
+2188,KATYA VANESSA ALVAREZ MAJANO,"$50,000",Mujer,33,Mensual,No,1,22/4/2025 16:55,,ronald.rivera@beyouasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,76202887
+2189,CARLOTA SOFIA SALGUERO CARDONA,"$100,000",Mujer,24,Mensual,No,Ninguno,22/4/2025 16:42,,grupojmsegurosyfianzas@gmail.com,Miguel Arevalo Comayagua,,72108365
+2190,KARLA MARIA TORRES BERTENFELD,"$100,000",Mujer,44,Mensual,No,Ninguno,22/4/2025 16:22,,marielosmenjivar@soluciondeseguro.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79665324
+2191,BRENDA ROSALES,"$250,000",Mujer,29,Mensual,No,Ninguno,22/4/2025 15:47,,sfenn@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79892781
+2192,BRENDA ROSALES,"$100,000",Mujer,29,Mensual,No,Ninguno,22/4/2025 15:46,,sfenn@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79892781
+2193,Jasmin Magaly Flores López,"$50,000",Mujer,33,Mensual,No,Ninguno,22/4/2025 15:45,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2194,Mexabiel Isaac Carrillo,"$250,000",Hombre,42,Mensual,Sí,Ninguno,22/4/2025 14:58,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79510515
+2195,EDWIN OTTONIEL PEREZ ESPINOZA,"$50,000",Hombre,32,Mensual,No,Ninguno,22/4/2025 14:39,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2196,ALEX ANTONIO TAMACAS,"$100,000",Hombre,50,Mensual,Sí,Ninguno,22/4/2025 14:37,,SAC@NORDICADESEGUROS.COM,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,6990-1997
+2197,ALEX ANTONIO TAMACAS,"$100,000",Hombre,50,Mensual,Sí,Ninguno,22/4/2025 14:35,,SAC@NORDICADESEGUROS.COM,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,6990-1997
+2198,ERIK ERNESTO CORDERO MEARDI,"$50,000",Hombre,39,Mensual,No,Ninguno,22/4/2025 14:28,,servicioalcliente@inversegurossv.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,22231211
+2199,ANDREA MICHELLE RIVAS MEARDI,"$50,000",Mujer,21,Mensual,No,Ninguno,22/4/2025 14:26,,servicioalcliente@inversegurossv.com,JULIO ALEXANDER HERRERA BELLOSO,,22231211
+2200,MARIA ELSA HERNANDEZ DE MORENO,"$250,000",Mujer,55,Mensual,No,Ninguno,22/4/2025 14:26,williamherrera@pyhasesores.com,alejandra.vasquez@pyhasesores.com,WILLIAM ALBERTO HERRERA PÉREZ,77449972,77473506
+2201,MARIA ELSA HERNANDEZ DE MORENO,"$250,000",Mujer,55,Mensual,No,Ninguno,22/4/2025 14:24,williamherrera@pyhasesores.com,alejandra.vasquez@pyhasesores.com,WILLIAM ALBERTO HERRERA PÉREZ,77449972,77473506
+2202,MARIA ELSA HERNANDEZ DE MORENO,"$250,000",Mujer,55,Mensual,No,Ninguno,22/4/2025 14:23,williamherrera@pyhasesores.com,alejandra.vasquez@pyhasesores.com,WILLIAM ALBERTO HERRERA PÉREZ,77449972,77473506
+2203,MARIA ELSA HERNANDEZ DE MORENO,"$100,000",Mujer,55,Mensual,No,Ninguno,22/4/2025 14:17,williamherrera@pyhasesores.com,alejandra.vasquez@pyhasesores.com,WILLIAM ALBERTO HERRERA PÉREZ,77449972,77473506
+2204,OSWALDO FRANCISCO GONZALEZ NOYOLA,"$250,000",Hombre,56,Mensual,Sí,2,22/4/2025 14:14,lmbaraona@yahoo.com,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,lmbaraona@yahoo.com,78711579
+2205,ALEX ANTONIO TAMACAS,"$100,000",Hombre,50,Mensual,Sí,1,22/4/2025 14:02,milena.chinchilla@nordicadeseguros.com,sac@nordicadeseguros.com,"NÓRDICA DE SEGUROS, S.A. DE C.V.",7601-4604,6990-1997
+2206,JOSE RODOLFO DURAN SOLIS,"$50,000",Hombre,56,Mensual,Sí,Ninguno,22/4/2025 13:55,alicianavarro.elias@gmail.com,alicianavarro.elias@gmail.com,ROSA ALICIA NAVARRO ELÍAS,76903690,76903690
+2207,YAQUELYN ANDREA FLORES RODRIGUEZ,"$50,000",Mujer,28,Mensual,No,Ninguno,22/4/2025 13:37,alicianavarro.elias@gmail.com,alicianavarro.elias@gmail.com,ROSA ALICIA NAVARRO ELÍAS,76903690,76903690
+2208,Edson Atilio Zuniga Ramirez,"$100,000",Hombre,38,Mensual,No,Ninguno,22/4/2025 12:08,segurosexpress7@gmail.com,segurosexpress7@gmail.com,YESENIA CASTRO,7697-0240,22980012
+2209,Julieta Roxana Ramirez Morales,"$50,000",Mujer,52,Mensual,No,Ninguno,22/4/2025 11:55,,ronald.rivera@beyouasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,76202887
+2210,Julieta Roxana Remirez Morales,"$50,000",Mujer,52,Mensual,No,Ninguno,22/4/2025 11:54,,ronald.rivera@beyouasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,76202887
+2211,Christopher Arana,"$50,000",Hombre,37,Mensual,No,Ninguno,22/4/2025 11:30,reyes.josecarlos@gmail.com,reyes.josecarlos1@gmail.com,JOSÉ CARLOS REYES ALVARADO,72222501,72222501
+2212,Wiliam Jorge López,"$100,000",Hombre,49,Mensual,Sí,1,22/4/2025 11:17,reyac2009@hotmail.com,admonskyseguros@gmil.com,REYNALDO ERNESTO ALFARO CALDERÓN,22790335,22790335
+2213,JOSE LUIS CASTRO ALVAREZ,"$250,000",Hombre,19,Mensual,No,Ninguno,22/4/2025 10:57,lmbaraona@yahoo.com,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,,78711579
+2214,JOSE LUIS CASTRO MAYEN,"$250,000",Hombre,55,Mensual,Sí,Ninguno,22/4/2025 10:55,lmbaraona@yahoo.com,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,,78711579
+2215,LILIANA RAQUEL LOPEZ CAÑENGUEZ,"$100,000",Mujer,28,Mensual,No,Ninguno,22/4/2025 10:25,,info@seguros-soluciones.com,MAURICIO ADALBERTO ALVARADO GUILLÉN,,76823600
+2216,RONALD STANLEY INESTROZA RIVAS,"$100,000",Hombre,35,Mensual,No,Ninguno,22/4/2025 10:23,,info@seguros-soluciones.com,MAURICIO ADALBERTO ALVARADO GUILLÉN,,76823600
+2217,ALEX ANTONIO TAMACAS,"$100,000",Hombre,50,Mensual,No,Ninguno,22/4/2025 10:23,,sac@nordicadeseguros.com,"NÓRDICA DE SEGUROS, S.A. DE C.V.",,69901997
+2218,SULLY VANESSA GARCIA SANCHEZ,"$100,000",Mujer,38,Mensual,No,Ninguno,22/4/2025 10:22,,info@seguros-soluciones.com,MAURICIO ADALBERTO ALVARADO GUILLÉN,,76823600
+2219,SULLY GARCIA,"$100,000",Mujer,38,Mensual,No,Ninguno,22/4/2025 10:18,,info@seguros-soluciones.com,MAURICIO ADALBERTO ALVARADO GUILLÉN,,76823600
+2220,GERARDO ERNESTO ZAMORA JUÁREZ,"$50,000",Hombre,33,Mensual,No,Ninguno,22/4/2025 10:00,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2221,ARLON JAVIER SARAVIA DOÑAN,"$250,000",Hombre,26,Mensual,No,Ninguno,22/4/2025 09:34,,operaciones@dmasesores-seguros.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,22841256
+2222,ARLON JAVIER SARAVIA DOÑAN,"$100,000",Hombre,26,Mensual,No,Ninguno,22/4/2025 09:33,,operaciones@dmasesores-seguros.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,22841256
+2223,Jorge Martínez,"$50,000",Hombre,35,Mensual,No,Ninguno,22/4/2025 09:26,rnseguros.sv@gmail.com,rnseguros.sv@gmail.com,ZAIDA ROCÍO NERIO CHICA,77420550,77420550
+2224,ANDREA VANESSA MACHUCA FLORES,"$50,000",Mujer,39,Mensual,No,Ninguno,22/4/2025 09:17,,servicioalcliente@inversegurossv.com,JULIO ALEXANDER HERRERA BELLOSO,,22231211
+2225,Andres Felie Atehortua,"$250,000",Hombre,47,Mensual,Sí,Ninguno,22/4/2025 09:13,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79510515
+2226,carolina alexandra barahona,"$50,000",Mujer,23,Mensual,No,Ninguno,22/4/2025 09:07,acoradodealvarenga@gmail.com,acoradodealvarenga@gmail.com,ANA MERCEDES CORADO DE ALVARENGA,71184945,71184945
+2227,SRTA. KARLA OSORIO,"$100,000",Mujer,35,Mensual,No,Ninguno,22/4/2025 08:47,,sebastian.arana@aranaseguros.com,SEBASTIÁN ARANA,,71604986
+2228,Noemy Elizabeth Diaz Ramos,"$250,000",Mujer,33,Mensual,No,Ninguno,22/4/2025 08:46,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79510515
+2229,Ana Teresa Perez,"$250,000",Mujer,39,Mensual,No,Ninguno,22/4/2025 08:32,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79510515
+2230,Francisco Marenco,"$250,000",Hombre,32,Mensual,No,Ninguno,22/4/2025 08:21,,Segurosyfianzas.sm@gmail.com,Francisco Marenco,,7640-6085
+2231,Doriam de Rodas,"$100,000",Mujer,42,Mensual,No,Ninguno,22/4/2025 08:16,do.zelaya@gmail.com,do.zelaya@gmail.com,DORIAM LIZBETH ZELAYA DE RODAS,79009670,79009670
+2232,Josue Ariel Marin Guerrero,"$50,000",Hombre,20,Mensual,No,Ninguno,21/4/2025 22:23,malwih.asesores@gmail.com,malwih.asesores@gmail.com,ROCÍO NOEMY ARÉVALO DE ZELAYA,72002027,72002027
+2233,Alberto Jose Maida Colindres,"$250,000",Hombre,33,Mensual,No,Ninguno,21/4/2025 16:56,cdiazduque@yahoo.com.ar,cdiazduque@yahoo.com.ar,,72203448,72203448
+2234,KAREN ALEJANDRA VEGA,"$100,000",Mujer,28,Mensual,No,Ninguno,21/4/2025 15:57,,anarosales.et@outlook.com,ANA ELIZABETH ROSALES TRUJILLO,,70064676
+2235,MARITZA TORRES,"$100,000",Mujer,59,Mensual,No,Ninguno,21/4/2025 15:50,jicesmeralda87@gmail.com,jicesmeralda87@gmail.com,jicela de perez,77418977,76015413
+2236,JORGE ROBERTO GUZMAN SOSA,"$100,000",Hombre,33,Mensual,No,Ninguno,21/4/2025 15:45,GRUPOJMSEGUROSYFIANZAS@GMAIL.COM,GRUPOJMSEGUROSYFIANZAS@GMAIL.COM,MIGUEL AREVALO COMAYAGUA,72108365,72108365
+2237,Alberto Jose Maida Colindres,"$100,000",Hombre,33,Mensual,No,Ninguno,21/4/2025 15:15,cdiazduque@yahoo.com.ar,cdiazduque@yahoo.com.ar,Carlos Ernesto Diaz Duque,72203448,72203448
+2238,ROSMENI ELIZABETH RODRIGUEZ DE RODRIGUEZ,"$250,000",Mujer,58,Mensual,Sí,Ninguno,21/4/2025 14:51,williamherrera@pyhasesores.com,alejandra.vasquez@pyhasesores.com,WILLIAM ALBERTO HERRERA PÉREZ,77449972,77473506
+2239,ROSMENI ELIZABETH RODRIGUEZ DE RODRIGUEZ,"$100,000",Mujer,58,Mensual,Sí,Ninguno,21/4/2025 14:34,williamherrera@pyhasesores.com,alejandra.vasquez@pyhasesores.com,WILLIAM ALBERTO HERRERA PÉREZ,77449972,77473506
+2240,Beatriz Carcassés Guerra,"$250,000",Mujer,62,Mensual,No,Ninguno,21/4/2025 14:30,josselinmelendez@liconsultores.com.sv,josselinmelendez@liconsultores.com.sv,"LI CONSULTORES, S.A. DE C.V.",25347506,25347506
+2241,Juan Alessandro Menjivar,"$100,000",Hombre,30,Mensual,No,1,21/4/2025 13:54,mcardoza@prointelseguros.com,mcardoza@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22222222
+2242,VIDAL ALEJANDRO HERNANDEZ AVILA,"$250,000",Hombre,31,Mensual,No,Ninguno,21/4/2025 11:48,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2243,KARLA PATRICIA CRUZ MARTINEZ,"$50,000",Mujer,30,Mensual,No,Ninguno,21/4/2025 11:25,cl@novus.sv,cl@novus.sv,NOVUS INVERSIONES. S.A. DE C.V.,7852-0928,7852-0928
+2244,LIDIA RUTH RODRIGUEZ ROJAS,"$50,000",Hombre,54,Mensual,No,Ninguno,21/4/2025 11:11,mhenriquez.seguros@gmail.com,mhenriquez.seguros@gmail.com,CINDY MELISSA HENRÍQUEZ ALFARO,79891262,79891262
+2245,SANTOS ULISES BARAHONA,"$50,000",Hombre,51,Semestral,No,Ninguno,21/4/2025 10:53,,velinkty@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78836470
+2246,GABRIELA EUGENIA RODRIGUEZ RODRIGUEZ,"$250,000",Mujer,37,Mensual,No,Ninguno,21/4/2025 10:43,williamherrera@pyhasesores.com,alejandra.vasquez@pyhasesores.com,WILLIAM ALBERTO HERRERA,77449972,77473506
+2247,GABRIELA EUGENIA RODRIGUEZ RODRIGUEZ,"$100,000",Mujer,37,Mensual,No,Ninguno,21/4/2025 10:38,williamherrera@pyhasesores.com,alejandra.vasquez@pyhasesores.com,William Alberto Herrera Perez,,77449972
+2248,SANTOS ULISES BARAHONA,"$50,000",Hombre,51,Mensual,No,1,21/4/2025 10:15,,velinkty@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78836470
+2249,RAYMUNDO ALBERTO RUIZ ARIAS,"$50,000",Hombre,49,Mensual,Sí,Ninguno,21/4/2025 09:45,,-,FLOR FLORES,7928-1073,-
+2250,ROSELIA GOMEZ,"$50,000",Mujer,37,Mensual,No,1,21/4/2025 09:30,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2251,VANESSA LORENA ALVARENGA LARIOS,"$50,000",Mujer,31,Mensual,No,Ninguno,20/4/2025 15:45,gutierrezalex8@hotmail.com,gutierrezalex8@hotmail.com,RAMON ALEXIS GUTIERREZ RAMOS,7749-3090,77493090
+2252,Manuel Alexis Benítez Sasso,"$50,000",Hombre,31,Mensual,No,Ninguno,20/4/2025 14:52,,benitezsasso@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78209476
+2253,Roselia Nataly Gomez Solorzano,"$50,000",Mujer,37,Mensual,No,1,17/4/2025 10:50,,rosengsolorzano@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,64455511
+2254,FRANCISCO ELIAS ESCOBAR LUCERO,"$250,000",Hombre,35,Mensual,No,Ninguno,16/4/2025 16:37,gutierrezalex8@hotmail.com,gutierrezalex8@hotmail.com,RAMON ALEXIS GUTIERREZ RAMOS,7749-3090,7749-3090
+2255,FRANCISCO ELIAS ESCOBAR LUCERO,"$50,000",Hombre,35,Mensual,No,Ninguno,16/4/2025 16:34,gutierrezalex8@hotmail.com,gutierrezalex8@hotmail.com,RAMON ALEXIS GUTIERREZ RAMOS,gutierrezalex8@hotmail.com,7749-3090
+2256,MARIO ESPINAL,"$500,000",Hombre,49,Mensual,Sí,2,15/4/2025 20:05,,wendydiaz@grupo-fortaleza.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,25569430
+2257,MARIO ESPINAL,"$500,000",Hombre,49,Mensual,Sí,2,15/4/2025 19:57,,wendydiaz@grupo-fortaleza.com,GRUPO FORTALEZA,,25569430
+2258,MONICA GRACIELA CALDERON MIRANDA,"$100,000",Mujer,51,Mensual,No,Ninguno,15/4/2025 17:53,wendydiaz@grupo-fortaleza.com,wendydiaz@grupo-fortaleza.com,GRUPO FORTALEZA,25569430,25569430
+2259,MARIO ESPINAL,"$500,000",Hombre,49,Mensual,Sí,2,15/4/2025 17:47,wendydiaz@grupo-fortaleza.com,wendydiaz@grupo-fortaleza.com,GRUPO FORTALEZA,25569430,25569430
+2260,FERNANDO JOSE PARADA,"$250,000",Hombre,32,Mensual,No,Ninguno,15/4/2025 17:22,lmbaraona@yahoo.com,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,7871-1579,75178411
+2261,Boris Stanley Quijano Mazariego,"$100,000",Hombre,26,Mensual,No,Ninguno,15/4/2025 16:51,,-,Cindy Melissa Henríquez,,-
+2262,JOSSELINE YAMILETH RIVAS MENJIVAR,"$50,000",Mujer,44,Mensual,No,1,15/4/2025 15:08,mhenriquez.seguros@gmail.com,mhenriquez.seguros@gmail.com,CINDY MELISSA HENRÍQUEZ ALFARO,,79891262
+2263,DIEGO ULISES BARAHONA MARTINEZ,"$100,000",Hombre,26,Semestral,No,Ninguno,15/4/2025 14:12,,velinkty@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78836470
+2264,DIEGO ULISES BARAHONA MARTINEZ,"$100,000",Hombre,26,Mensual,No,Ninguno,15/4/2025 14:10,,velinkty@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78836470
+2265,Andrea Maria Aguilar Domínguez,"$50,000",Mujer,29,Mensual,No,Ninguno,15/4/2025 11:11,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2266,NELSON OMAR MENDOZA,"$50,000",Hombre,41,Mensual,No,Ninguno,15/4/2025 09:09,,velinkty@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78836470
+2267,NELSON EDUARDO MENDOZA,"$50,000",Mujer,41,Mensual,No,Ninguno,15/4/2025 09:08,,velinkty@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78836470
+2268,CELINA BEATRIZ ESPINOLA RAMIREZ,"$250,000",Mujer,40,Mensual,No,Ninguno,15/4/2025 09:08,,sesiomconsultores@gmail.com,MOISÉS IVÁN GONZÁLEZ MARTÍNEZ,,1293135
+2269,Karla Margarita Rivera de Guzman,"$250,000",Mujer,36,Mensual,Sí,1,15/4/2025 08:49,servicioalcliente@pyhasesores.com,servicioalcliente@pyhasesores.com,KAREN LUCÍA PÉREZ DE HERNÁNDEZ,0,0
+2270,Karen Maricela Urquilla Perez,"$250,000",Mujer,35,Mensual,No,Ninguno,14/4/2025 19:04,,-,Enrique Patiño,,-
+2271,Karen Maricela Urquilla Perez,"$50,000",Mujer,35,Mensual,No,Ninguno,14/4/2025 19:02,,-,Enrique Patiño,,-
+2272,Lizandro Cornejo,"$50,000",Hombre,20,Mensual,No,Ninguno,14/4/2025 17:30,,Adm.sramirez@gmail.com,LEYLAN STEPHANIE CORNEJO DE RAMÍREZ,,75633044
+2273,Melvin Mauricio Herrera Siguenza,"$50,000",Hombre,33,Mensual,No,2,14/4/2025 16:17,,Mauryherrera503.2@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,70492709
+2274,ARIEL HUMBERTO BENITEZ BENITEZ,"$250,000",Hombre,60,Mensual,No,Ninguno,14/4/2025 15:46,gutierrezalex8@hotmail.com,gutierrezalex8@hotmail.com,RAMON ALEXIS GUTIERREZ RAMOS,7749-3090,7749-3090
+2275,Karina Melara,"$250,000",Mujer,30,Mensual,No,2,14/4/2025 15:43,reyes.josecarlos1@gmail.com,reyes.josecarlos1@gmail.com,JOSÉ CARLOS REYES ALVARADO,72222501,72222501
+2276,ARIEL HUMBERTO BENITEZ BENITEZ,"$100,000",Hombre,60,Mensual,No,Ninguno,14/4/2025 15:43,gutierrezalex8@hotmail.com,gutierrezalex8@hotmail.com,RAMON ALEXIS GUTIERREZ RAMOS,gutierrezalex8@hotmail.com,7749-3090
+2277,GUILLERMO ANDRE RAMOS HERNÁNDEZ,"$100,000",Hombre,33,Mensual,Sí,2,14/4/2025 15:27,williamherrera@pyhasesores.com,gramos2191@hotmail.com,WILLIAM ALBERTO HERRERA PÉREZ,77449972,7822-4456
+2278,marcelo,"$50,000",Hombre,33,Mensual,No,Ninguno,14/4/2025 15:11,,pemzavaleta@yahoo.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71199638
+2279,DEBBIE STEPHANIE MELGAR RIVAS,"$50,000",Mujer,23,Mensual,No,Ninguno,14/4/2025 15:07,claudyavasquez@hotmail.com,claudyavasquez@hotmail.com,CLAUDIA ISABEL VASQUEZ SOTO,70979653,70979653
+2280,MARIA MARLENE CRUZ DE ZAVALETA,"$50,000",Mujer,32,Mensual,No,2,14/4/2025 13:59,lmbaraona@yahoo.com,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,7871-1579,75178411
+2281,Damarys Esther Mendez Flores,"$50,000",Mujer,37,Mensual,No,Ninguno,14/4/2025 13:44,,ralexayalab@gmail.com,RONALD ALEXANDER ALDANA AYALA,,72102508
+2282,Damarys Mendez,"$50,000",Mujer,37,Mensual,No,Ninguno,14/4/2025 13:07,,ralexayalab@gmail.com,RONALD ALEXANDER ALDANA AYALA,,72102508
+2283,Katherine Sophia Quevedo Nieto,"$250,000",Mujer,26,Mensual,No,2,14/4/2025 12:45,reclamos.alepocasangre@gmail.com,reclamos.alepocasangre@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,70596731,70596731
+2284,PAOLA MICHELLE SIGARAN LEMUS,"$50,000",Mujer,21,Mensual,No,Ninguno,14/4/2025 11:38,Doris.G.Seguros@gmail.com,Doris.G.Seguros@gmail.com,DORA,70694771,70694771
+2285,PAOLA MICHELLE SIGARAN LEMUS,"$250,000",Mujer,21,Mensual,No,Ninguno,14/4/2025 10:22,Doris.G.Seguros@gmail.com,Doris.G.Seguros@gmail.com,DORA ALICIA GUEVARA RIVERA,70694771,70694771
+2286,FREDY ALEXANDER CASTRO MHI39,"$50,000",Hombre,26,Mensual,No,Ninguno,14/4/2025 09:37,,ahenriquez@seatlan.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78000000
+2287,FREDY ALEXANDER CASTRO,"$100,000",Hombre,26,Mensual,No,Ninguno,14/4/2025 09:33,,ahenriquez@seatlan.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78000000
+2288,FREDY ALEXANDER CASTRO MHI39,"$50,000",Hombre,26,Mensual,No,Ninguno,14/4/2025 09:32,,ahenriquez@seatlan.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79450000
+2289,FREDY ALEXANDER CASTRO GEORGE MHI-39,"$50,000",Hombre,26,Mensual,No,Ninguno,14/4/2025 09:31,,ahenriquez@seatlan.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,0
+2290,IVANNIA FABIOLA CASTRO ALVAREZ,"$250,000",Mujer,25,Mensual,No,Ninguno,14/4/2025 09:27,lmbaraona@yahoo.com,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,7871-1579,75178411
+2291,MIGUEL ANGEL ROSALES MARTINEZ,"$50,000",Hombre,43,Mensual,No,1,14/4/2025 09:06,lmbaraona@yahoo.com,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,7871-1579,75178411
+2292,ivannia castro,"$500,000",Mujer,25,Mensual,No,Ninguno,14/4/2025 08:17,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2293,Gloria María Amaya Carcamo,"$100,000",Mujer,31,Mensual,No,Ninguno,12/4/2025 15:31,,anarosales.et@outlook.com,ANA ELIZABETH ROSALES TRUJILLO,,70064676
+2294,MARLON DAVID SEGURA ARIAS,"$250,000",Hombre,33,Mensual,No,Ninguno,12/4/2025 14:53,,apocasangresps@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79510515
+2295,KENIA IVETH PINEDA CABALLERO,"$250,000",Mujer,26,Mensual,No,2,12/4/2025 14:51,,apocasangresps@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79510515
+2296,MARLON DAVID SEGURA ARIAS,"$250,000",Hombre,33,Mensual,Sí,2,12/4/2025 14:44,,apocasangresps@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79510515
+2297,Karla Marilu Gomez fabian,"$50,000",Mujer,27,Mensual,Sí,Ninguno,11/4/2025 17:26,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2298,CLAUDIA IDALIA CAMPOS DE VIERA,"$50,000",Mujer,50,Mensual,No,Ninguno,11/4/2025 16:55,carlos_orozco6@hotmail.com,elida.guevara@asegura.com.sv,CARLOS HUMBERTO OROZCO HERNÁNDEZ,7988-8797,7034-1318
+2299,HEIDY ROCIO GARCIA MARTINEZ,"$50,000",Mujer,49,Mensual,No,Ninguno,11/4/2025 16:51,carlos_orozco6@hotmail.com,elida.guevara@asegura.com.sv,CARLOS HUMBERTO OROZCO HERNÁNDEZ,7988-8797,7034-1318
+2300,ALEJANDRA MARIA FUNES RODRIGUEZ,"$50,000",Mujer,28,Mensual,No,1,11/4/2025 16:44,carlos_orozco6@hotmail.com,elida.guevara@asegura.com.sv,CARLOS HUMBERTO OROZCO HERNÁNDEZ,7988-8797,7034-1318
+2301,CLAUDIA IDALIA CAMPOS DE VIERA,"$50,000",Mujer,50,Mensual,No,Ninguno,11/4/2025 16:29,,elida.guevara@asegura.com.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7034-1318
+2302,HEIDY ROCIO GARCIA MARTINEZ,"$50,000",Mujer,49,Mensual,No,Ninguno,11/4/2025 16:17,,elida.guevara@asegura.com.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7034-1318
+2303,MARCELA ARELY PREZA,"$100,000",Mujer,35,Mensual,No,1,11/4/2025 16:08,,cjvillacorta@av-seguros.com,HECTOR VALLECILLOS,,71630943
+2304,DANIEL GALDAMEZ,"$250,000",Hombre,44,Mensual,No,Ninguno,11/4/2025 16:06,,-,"LI CONSULTORES, S.A. DE C.V.",,-
+2305,Heidy Rocio García Martinez,"$50,000",Hombre,49,Mensual,No,Ninguno,11/4/2025 15:35,carlos_orozco6@hotmail.com,elida.guevara@asegura.com.sv,CARLOS HUMBERTO OROZCO HERNÁNDEZ,7034-1318,7034-1318
+2306,MARCELA ARELY PREZA,"$250,000",Mujer,35,Mensual,No,1,11/4/2025 15:17,,cjvillacorta@av-seguros.com,HECTOR VALLECILLOS,,71630943
+2307,CLAUDIA IDALIA CAMPOS DE VIERA,"$50,000",Mujer,50,Mensual,No,Ninguno,11/4/2025 15:05,,ahenriquez@seatlan.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79565259
+2308,GABRIEL ANDRES JANKOVICS RETTICH,"$50,000",Hombre,54,Mensual,No,Ninguno,11/4/2025 11:10,,-,FLOR FLORES,,-
+2309,GABRIEL ANDRES JANKOVICS RETTICH,"$50,000",Hombre,54,Mensual,No,Ninguno,11/4/2025 11:09,,-,FLOR FLORES,,-
+2310,GABRIEL ANDRES JANKOVICS RETTICH,"$50,000",Hombre,54,Mensual,No,Ninguno,11/4/2025 11:08,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2311,GABRIEL ANDRES JANKOVICS RETTICH,"$50,000",Hombre,54,Mensual,No,Ninguno,11/4/2025 11:07,,-,FLOR FLORES,,-
+2312,SARAH EUGENIA VASQUEZ CERNA,"$50,000",Mujer,25,Mensual,No,Ninguno,11/4/2025 10:43,segurosvidadanos@gmail.com,N,MARVIN ABRAHAM SALAMANCA MORENO,78486884,N
+2313,GABRIEL ANDRES JUNKOVIES RETTICH,"$50,000",Hombre,54,Mensual,No,Ninguno,11/4/2025 10:39,,-,FLOR FLORES,,-
+2314,Vilma Elena Contreras de Sura,"$100,000",Mujer,40,Mensual,No,2,11/4/2025 10:28,copiabg@gmail.com,copiabg@gmail.com,JOSÉ ROBERTO BLANCO MONTENEGRO,78944386,78865502
+2315,Vilma Elena Contreras de Sura,"$250,000",Mujer,40,Mensual,No,2,11/4/2025 10:13,copiabg@gmail.com,copiabg@gmail.com,JOSÉ ROBERTO BLANCO MONTENEGRO,78865502,78865502
+2316,Tatiana Raquel Molina López,"$50,000",Mujer,18,Trimestral,No,Ninguno,10/4/2025 17:52,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2317,ELENA ESCOBAR,"$100,000",Mujer,29,Mensual,No,1,10/4/2025 16:22,,diegocelis_portillo92@hotmail.com,DIEGO RODOLFO CELIS PORTILLO,,26603473
+2318,DIANA ABIGAIL LOVO CORTEZ,"$50,000",Mujer,24,Mensual,No,2,10/4/2025 16:11,,kisolet_jovel@hotmail.com,KARLA ISOLET JOVEL GÁMEZ,,7882132
+2319,ELENA ESCOBAR,"$100,000",Mujer,29,Mensual,No,Ninguno,10/4/2025 15:51,,diegocelis_portillo92@hotmail.com,DIEGO CELIS,,26603473
+2320,JOSUE ROBERTO MARTINEZ FRANCO,"$250,000",Hombre,28,Mensual,No,Ninguno,10/4/2025 15:35,administracion@contactosegurossv.com,administracion@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",0,0
+2321,JOSUE ROBERTO MARTINEZ FRANCO,"$50,000",Hombre,28,Mensual,No,Ninguno,10/4/2025 15:33,administracion@contactosegurossv.com,administracion@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",0,0
+2322,Gabriela Beatriz Carranza Lagos,"$50,000",Mujer,31,Mensual,No,1,10/4/2025 15:11,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2323,Gabriela Beatriz Carranza Lagos,"$50,000",Mujer,31,Mensual,No,1,10/4/2025 15:11,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2324,Gabriela Carranza,"$100,000",Mujer,31,Mensual,No,1,10/4/2025 14:52,,christian.merroa@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71700974
+2325,Cristian Recinos,"$100,000",Hombre,23,Mensual,No,Ninguno,10/4/2025 14:47,,christian.merroa@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71700974
+2326,MILTON ENRIQUE DURAN FLAMENCO,"$100,000",Hombre,27,Mensual,No,Ninguno,10/4/2025 14:47,,hmvallecillos@av-seguros.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,72810204
+2327,Gabriela Carranza,"$100,000",Mujer,31,Mensual,No,2,10/4/2025 14:45,,christian.merroa@gmail.com,CHRISTIAN MAURICIO ERROA RODRÍGUEZ,,71700974
+2328,Cristian Alexander Recinos Lagos,"$50,000",Hombre,23,Mensual,No,Ninguno,10/4/2025 14:21,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2329,Susy Ayala,"$50,000",Mujer,61,Mensual,No,Ninguno,10/4/2025 13:14,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081
+2330,Susy Ayala,"$50,000",Mujer,61,Mensual,No,Ninguno,10/4/2025 13:14,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081
+2331,KARINA LISSTEH BURUCA ROMERO,"$50,000",Mujer,38,Mensual,No,1,10/4/2025 11:59,gutierrezalex8@hotmail.com,gutierrezalex8@hotmail.com,RAMON ALEXIS GUTIERREZ RAMOS,77493090,77493090
+2332,WILMER FRANCISCO UMANZOR MANZANARES,"$50,000",Hombre,42,Mensual,Sí,1,10/4/2025 11:54,gutierrezalex8@hotmail.com,gutierrezalex8@hotmail.com,RAMON ALEXIS GUTIERREZ RAMOS,77493090,77493090
+2333,LUCIANA MARIA ESCOBAR SANTACRUZ,"$100,000",Mujer,25,Mensual,No,Ninguno,10/4/2025 11:24,servicioalcliente@riesgoseguros.com,servicioalcliente@riesgoseguros.com,"GESTIÓN DE RIESGOS Y SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,70910573
+2334,LUCIANA MARIA ESCOBAR SANTACRUZ,"$250,000",Mujer,25,Mensual,No,Ninguno,10/4/2025 11:22,servicioalcliente@riesgoseguros.com,servicioalcliente@riesgoseguros.com,"GESTIÓN DE RIESGOS Y SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,70910573
+2335,LUIS ALEJANDRO MINERO,"$50,000",Hombre,33,Mensual,No,Ninguno,10/4/2025 10:35,pemzavaleta@yahoo.com,pemzavaleta@yahoo.com,PATRICIA MOYA DE ZAVALETA,71199638,71199638
+2336,CARLOS ALBERTO SAMOUR CASTRO,"$500,000",Hombre,54,Mensual,Sí,1,10/4/2025 09:30,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2337,THELMA PATRICIA ZEPEDA SANDOVAL,"$100,000",Mujer,32,Mensual,No,Ninguno,10/4/2025 09:29,elisaticas@gmail.com,elisaticas@gmail.com,ELISA MARIA TICAS,78555793,78555793
+2338,CARLOS ALBERTO SAMOUR CASTRO,"$50,000",Hombre,54,Mensual,Sí,1,10/4/2025 09:28,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2339,JUAN JOSE PEREZ HERRERA,"$250,000",Hombre,33,Mensual,Sí,3 o más,10/4/2025 09:10,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2340,THELMA PAR\TRICIA ZEPEDA SANDOVAL,"$250,000",Mujer,32,Mensual,No,Ninguno,10/4/2025 08:53,elisaticas@gmail.com,elisaticas@gmail.com,ELISA MARIA TICAS,78555793,78555793
+2341,THELMA PATRICIA ZEPEDA SANDOVAL,"$100,000",Mujer,32,Mensual,No,Ninguno,10/4/2025 08:49,elisaticas@gmail.com,elisaticas@gmail.com,ELISA MARIA TICAS,78555793,78555793
+2342,FRANKLIN YOALMO IGLESIAS MENBREÑO,"$500,000",Hombre,43,Mensual,Sí,3 o más,9/4/2025 19:47,malwih.asesores@gmail.com,malwih.asesores@gmail.com,ROCÍO NOEMY ARÉVALO DE ZELAYA,72002027,72002027
+2343,Giovanni Francisco Cordova,"$50,000",Hombre,49,Mensual,Sí,1,9/4/2025 18:04,daecseguros2624@gmail.com,daecseguros2624@gmail.com,DOUGLAS ARTURO ESCOBAR CORADO,76811902,76811902
+2344,SONIA LUISA REYES DE HERNANDEZ,"$100,000",Mujer,55,Mensual,No,Ninguno,9/4/2025 17:43,sarai.seguros22@gmail.com,sarai.seguros22@gmail.com,SARAÍ SIÓN VALLE DE MORÁN,75493476,75493476
+2345,LUISA CRISTINA ARGUMEDO REYES,"$100,000",Mujer,31,Mensual,No,Ninguno,9/4/2025 17:41,sarai.seguros22@gmail.com,sarai.seguros22@gmail.com,SARAÍ SIÓN VALLE DE MORÁN,,75493476
+2346,LUISA ARGUMEDO REYES,"$100,000",Mujer,55,Mensual,No,Ninguno,9/4/2025 17:38,,sarai.seguros22@gmail.com,SARAÍ SIÓN VALLE DE MORÁN,,75493476
+2347,SILVIA TENORIO,"$50,000",Mujer,40,Mensual,No,Ninguno,9/4/2025 16:30,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2348,Maria José Grande Guzmán,"$250,000",Mujer,18,Mensual,No,Ninguno,9/4/2025 15:14,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2349,María José Grande Guzmán,"$50,000",Mujer,18,Mensual,No,Ninguno,9/4/2025 15:13,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2350,Henry Alexander Muñoz Avelar,"$50,000",Hombre,41,Mensual,No,Ninguno,9/4/2025 13:46,,asistenciacomercial@segurosestrategicos.com,SABRINA ROSEMARY ESCOBAR DE GUZMÁN,,70252020
+2351,Wendy Ester Cruz de Muñoz,"$50,000",Mujer,42,Mensual,No,Ninguno,9/4/2025 13:45,,asistenciacomercial@segurosestrategicos.com,SABRINA ROSEMARY ESCOBAR DE GUZMÁN,,70252020
+2352,Natalhy Muñoz Asuncion,"$50,000",Mujer,29,Mensual,No,Ninguno,9/4/2025 13:44,,asistenciacomercial@segurosestrategicos.com,SABRINA ROSEMARY ESCOBAR DE GUZMÁN,,70252020
+2353,Katherine Guadalupe Chavez Hernandez,"$50,000",Mujer,29,Mensual,No,Ninguno,9/4/2025 13:43,,asistenciacomercial@segurosestrategicos.com,SABRINA ROSEMARY ESCOBAR DE GUZMÁN,,70252020
+2354,Jonathan Alexander Rodas,"$50,000",Hombre,38,Mensual,No,Ninguno,9/4/2025 13:42,,asistenciacomercial@segurosestrategicos.com,SABRINA ROSEMARY ESCOBAR DE GUZMÁN,,70252020
+2355,Jonathan Alexander Rodas,"$50,000",Hombre,38,Mensual,No,Ninguno,9/4/2025 13:40,,asistenciacomercial@segurosestrategicos.com,SABRINA ROSEMARY ESCOBAR DE GUZMÁN,,70252020
+2356,Katherine Guadalupe Chavez Hernandez,"$50,000",Mujer,30,Mensual,No,Ninguno,9/4/2025 13:39,,asistenciacomercial@segurosestrategicos.com,SABRINA ROSEMARY ESCOBAR DE GUZMÁN,,70252020
+2357,EMERSON ANTONIO GUANDIQUE NAVARRO,"$100,000",Hombre,39,Mensual,Sí,Ninguno,9/4/2025 12:24,,uniseguros.es@gmail.com,CRISTINA ABIGAIL MERCEDES DOMÍNGUEZ,,70423724
+2358,Oscar René Hernandez,"$50,000",Hombre,60,Mensual,No,1,9/4/2025 11:01,,georginalopez@hotmail.es,Georgina López Villavicencio,,62002421
+2359,ELIZABETH HERNANDEZ GUARDADO,"$100,000",Mujer,55,Mensual,No,1,9/4/2025 10:16,asistentepresidencia@zyhasesores.com,asistentepresidencia@zyhasesores.com,"Z Y H ASESORES, S.A. DE C.V.",,78062064
+2360,MIRIAM GABRIELA HENRIQUEZ,"$50,000",Mujer,30,Mensual,No,Ninguno,9/4/2025 10:14,,ahenriquez@seatlan.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,22831101
+2361,FRANCISCO ALFREDO JERONIMO MEJIA,"$50,000",Hombre,32,Mensual,No,Ninguno,9/4/2025 10:12,,ahenriquez@seatlan.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,22831101
+2362,XIOMARA ELISA TORRES DE LEIVA,"$250,000",Mujer,42,Mensual,No,1,9/4/2025 09:40,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+2363,Karen Alejandra Palomo de Salinas,"$50,000",Mujer,25,Mensual,Sí,Ninguno,9/4/2025 09:25,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-.
+2364,SULEYMA ABIGAIL ORELLANA RIVERA,"$50,000",Mujer,22,Mensual,No,Ninguno,8/4/2025 20:17,karlajhoanna.tenorio@gmail.com,xkdetenorio@gmail.com,Karla Tenorio de Amaya,,77484802
+2365,RAQUEL ELIZABETH PEREZ MOREIRA,"$50,000",Mujer,24,Mensual,No,1,8/4/2025 17:53,alex.27aguilar.aa@gmail.com,alex.27aguilar.aa@gmail.com,ALEX STEVEN AGUILAR TREJO,,76821044
+2366,SILVIA,"$50,000",Mujer,40,Mensual,No,Ninguno,8/4/2025 17:52,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2367,Silvia Tenorio,"$50,000",Mujer,40,Mensual,No,Ninguno,8/4/2025 17:48,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2368,William Alfredo Castro Constanza,"$50,000",Hombre,35,Mensual,No,1,8/4/2025 16:42,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2369,Claudia Maria Gonzalez Murcia,"$50,000",Mujer,43,Mensual,Sí,Ninguno,8/4/2025 16:04,,sperdomo1979@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71662986
+2370,Edith Quintanilla,"$50,000",Mujer,38,Mensual,No,Ninguno,8/4/2025 15:18,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2371,JEANNETTE STEFANY MELGAR DE POCASANGRE,"$500,000",Mujer,28,Mensual,No,1,8/4/2025 14:53,odalis.chavez.sm@gmail.com,odalis.chavez.sm@gmail.com,ODALIS YANETH CHÁVEZ DE CÁCERES,76785767,76785767
+2372,TATIANA MILAGRO GALDAMEZ DORADEA,"$50,000",Mujer,31,Mensual,No,Ninguno,8/4/2025 14:03,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+2373,Carlos Juan Merlos,"$500,000",Hombre,42,Mensual,Sí,2,8/4/2025 13:12,normadefigueroa@ffsegurosasesores.com,danilocarranza@ffsegurosasesores.co,NORMA CONCEPCIÓN FUENTES DE FIGUEROA,78852832,79306327
+2374,Guadalupe Auxiliadora Garcia,"$500,000",Mujer,38,Mensual,No,2,8/4/2025 13:09,normadefigueroa@ffsegurosasesores.com,danilocarranza@ffsegurosasesores.com,NORMA CONCEPCIÓN FUENTES DE FIGUEROA,78852832,79306327
+2375,Guadalupe Auxiliadora Garcia,"$50,000",Mujer,38,Mensual,No,2,8/4/2025 13:06,normadefigueroa@ffsegurosasesores.com,danilocarranza@ffsegurosasesores.com,NORMA CONCEPCIÓN FUENTES DE FIGUEROA,78852832,79306327
+2376,Lisbeth paz,"$50,000",Mujer,20,Mensual,No,Ninguno,8/4/2025 13:05,,Inkjetprint@hotmail.com,Manuel quezada,,7499p491
+2377,ORLANDO JOSE LOPEZ,"$50,000",Hombre,39,Mensual,No,1,8/4/2025 11:20,pemzavaleta@yahoo.com,pemzavaleta@yahoo.com,PATRICIA MOYA,71199638,71199638
+2378,Claudia Idalia Campos de Viera,"$50,000",Mujer,49,Mensual,No,Ninguno,8/4/2025 10:37,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2379,Claudia Idalia Campos de Viera,"$50,000",Mujer,50,Mensual,No,Ninguno,8/4/2025 10:36,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2380,Claudia Idalia Campos de Viera,"$50,000",Mujer,50,Mensual,No,Ninguno,8/4/2025 10:36,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2381,XIOMARA ELISA TORRES DE LEIVA,"$100,000",Mujer,42,Mensual,No,1,8/4/2025 09:53,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+2382,MIGUEL ARMANDO MIGUEL NASSER,"$50,000",Hombre,49,Mensual,Sí,2,8/4/2025 09:21,,ruben.hera3@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78415206
+2383,Judith Yanira Osegueda Soriano,"$100,000",Mujer,54,Mensual,No,Ninguno,7/4/2025 22:52,malwih.asesores@gmail.com,malwih.asesores@gmail.com,ROCÍO NOEMY ARÉVALO DE ZELAYA,72002027,72002027
+2384,Judith Yanira Osegueda Soriano,"$100,000",Mujer,54,Mensual,No,Ninguno,7/4/2025 22:52,malwih.asesores@gmail.com,malwih.asesores@gmail.com,ROCÍO NOEMY ARÉVALO DE ZELAYA,72002027,72002027
+2385,Óscar Pacheco,"$50,000",Hombre,47,Mensual,Sí,3 o más,7/4/2025 20:59,,saraip169@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79373179
+2386,Óscar Pacheco,"$50,000",Hombre,47,Mensual,Sí,3 o más,7/4/2025 20:58,,saraip169@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79373179
+2387,CLAUDIA LORENA SOTO DE ANZORA,"$250,000",Mujer,51,Mensual,No,Ninguno,7/4/2025 17:21,alepocasangreseguros@gmail.com,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2388,CLAUDIA LORENA SOTO DE ANZORA,"$250,000",Mujer,51,Mensual,No,Ninguno,7/4/2025 17:20,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2389,CLAUDIA BEATRIZ ANZORA SOTO,"$250,000",Mujer,24,Mensual,No,Ninguno,7/4/2025 16:41,alepocasangreseguros@gmail.com,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2390,CLAUDIA BEATRIZ ANZORA SOTO,"$250,000",Mujer,24,Mensual,No,Ninguno,7/4/2025 16:34,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79570431
+2391,CLAUDIA BEATRIZ ANZORA SOTO,"$250,000",Mujer,24,Mensual,No,Ninguno,7/4/2025 16:32,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2392,VELIA RUTH SOSA GOMEZ,"$100,000",Mujer,52,Mensual,No,Ninguno,7/4/2025 15:42,,atencioncliente@novus.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,76974923
+2393,GERSON GIOVANNI AZENON RIVERA,"$100,000",Hombre,26,Mensual,No,Ninguno,7/4/2025 15:37,karlajhoanna.tenorio@gmail.com,xkdetenorio@gmail.com,Karla Tenorio de Amaya,,77484802
+2394,SUJEY BRISEYDA RAMOS GIL,"$100,000",Mujer,37,Mensual,No,Ninguno,7/4/2025 15:28,,uniseguros.es@gmail.com,CRISTINA ABIGAIL MERCEDES DOMÍNGUEZ,,70423724
+2395,CARLOS MAURICIO PAREDES PINEDA,"$50,000",Hombre,27,Mensual,Sí,Ninguno,7/4/2025 15:27,,xkdetenorio@gmail.com,Karla Tenorio de Amaya,,77484802
+2396,GERSON GIOVANNI AZENON RIVERA,"$100,000",Hombre,26,Mensual,No,Ninguno,7/4/2025 15:24,,xkdetenorio@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77484802
+2397,Daniela Gutiérrez Vasconcelos,"$50,000",Mujer,26,Mensual,Sí,1,7/4/2025 15:21,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2398,Daniela Gutiérrez Vasconcelos,"$50,000",Mujer,26,Mensual,No,1,7/4/2025 15:20,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2399,Tania Stephanie Jiménez de Miranda,"$50,000",Mujer,31,Mensual,No,1,7/4/2025 15:17,,pemzavaleta@yahoo.com,Patricia Moya,,71199638
+2400,Cesar Augusto Lemus Cuellar,"$50,000",Hombre,37,Mensual,No,1,7/4/2025 14:39,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2401,Brenda Lissette Anaya Rodriguez,"$50,000",Mujer,26,Mensual,No,Ninguno,7/4/2025 14:08,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2402,CRISTINA FIDELINA REYES BURDETT,"$50,000",Mujer,64,Mensual,Sí,Ninguno,7/4/2025 13:43,mcardoza@prointelseguros.com,mcardoza@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22222222
+2403,CAMILA ALEXANDRA SALAZAR ESCALANTE,"$50,000",Mujer,24,Mensual,No,Ninguno,7/4/2025 13:02,,-,FLOR FLORES,,-
+2404,CAMILA ALEXANDRA SALAZAR ESCALANTE,"$50,000",Mujer,24,Mensual,No,Ninguno,7/4/2025 12:00,,-,FLOR FLORES,,-
+2405,MIGUEL ANGEL ELIAS PALMA,"$250,000",Hombre,51,Trimestral,No,Ninguno,7/4/2025 11:30,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2406,BORIS ARIEL ARDON TEJADA,"$250,000",Hombre,33,Mensual,No,1,7/4/2025 11:21,servicioalcliente@riesgoseguros.com,servicioalcliente@riesgoseguros.com,"GESTIÓN DE RIESGOS Y SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,70910573
+2407,BORIS ARIEL ARDON TEJADA,"$100,000",Hombre,33,Mensual,No,1,7/4/2025 11:19,servicioalcliente@riesgoseguros.com,servicioalciente@riesgoseguros.com,"GESTIÓN DE RIESGOS Y SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,70910573
+2408,albertinacoreasqhotmail.com,"$250,000",Mujer,39,Mensual,No,Ninguno,7/4/2025 11:09,,Alejandra Calles,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,61848970
+2409,MARIO ENRIQUE LOPEZ SILVA,"$250,000",Hombre,49,Mensual,Sí,2,7/4/2025 10:50,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2410,MELVIN TORRES,"$100,000",Hombre,43,Mensual,No,Ninguno,7/4/2025 10:18,,hmvallecillos@av-seguros.com,HÉCTOR MAURICIO VALLECILLOS JOVEL,,72810204
+2411,Eduardo H,"$100,000",Hombre,59,Mensual,No,Ninguno,6/4/2025 06:57,,lalo123@sbcglobal.net,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,23469317
+2412,Eduardo H,"$100,000",Hombre,59,Mensual,No,Ninguno,6/4/2025 06:56,,lalo123@sbcglobal.net,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,23469317
+2413,Ariana Montano,"$50,000",Mujer,20,Mensual,No,Ninguno,5/4/2025 22:33,,adm.sramirez@gmail.com,LEYLAN STEPHANIE CORNEJO DE RAMÍREZ,,75633044
+2414,Ariana Montero,"$50,000",Mujer,20,Mensual,No,Ninguno,5/4/2025 22:25,,adm.sramirez@gmail.com,LEYLAN STEPHANIE CORNEJO DE RAMÍREZ,,75633044
+2415,Ariana Montano,"$50,000",Mujer,20,Mensual,No,Ninguno,5/4/2025 22:24,,adm.sramirez@gmail.com,LEYLAN STEPHANIE CORNEJO DE RAMÍREZ,,75633044
+2416,Paola Montano,"$50,000",Mujer,21,Mensual,No,Ninguno,5/4/2025 22:10,,adm.sramirez@gmail.com,LEYLAN STEPHANIE CORNEJO DE RAMÍREZ,,75633044
+2417,Hodra de Montano,"$100,000",Mujer,43,Semestral,Sí,2,5/4/2025 21:50,adm.sramirez@gmail.com,adm.sramirez@gmail.com,Leylan Cornejo de Ramírez,,75633044
+2418,Mariella Teresa Figueroa Herrera,"$500,000",Mujer,47,Mensual,No,Ninguno,5/4/2025 18:15,lissettedeaguirre@gmail.com,mariella.figueroa@figueroarepuestos.com,ANA LISSETTE ÁLVAREZ DE AGUIRRE,78035741,71509026
+2419,GABRIELA ANDREA HERRERA,"$100,000",Mujer,27,Mensual,No,Ninguno,4/4/2025 15:51,directorcomercial1@riesgoseguros.com,directorcomercial1@riesgoseguros.com,"GESTION DE RIIESGOS Y SEGUROS, S.A. DE C.V",73185319,73185319
+2420,JOSE MAURICIO HERRERA GARCIA,"$100,000",Hombre,29,Mensual,No,Ninguno,4/4/2025 15:50,directorcomercial1@riesgoseguros.com,directorcomercial1@riesgoseguros.com,"GESTION DE RIESGOS Y SEGUROS, S.A.DE C.V",73185319,73185319
+2421,MORENA GUADALUPE GARCIA HERRERA,"$100,000",Mujer,56,Mensual,No,Ninguno,4/4/2025 15:48,directorcomercial1@riesgoseguros.com,directorcomercial1@riesgoseguros.com,"GESTION DE RIESGOS Y SEGUROS, S.A. DE C.V.",73185319,73185319
+2422,Rocio Yasmin Castro Vda de Bazan,"$50,000",Mujer,54,Mensual,No,Ninguno,4/4/2025 15:27,,guillermo.bazan98@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78229165
+2423,Rocio Yasmin Castro Vda de Bazan,"$50,000",Mujer,54,Mensual,No,Ninguno,4/4/2025 15:26,,guillermo.bazan98@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78229165
+2424,Rocio Yasmin Castro Vda de Bazan,"$50,000",Mujer,54,Mensual,No,Ninguno,4/4/2025 15:25,,guillermo.bazan98@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78229165
+2425,JULLYANA ESPERANZA VASQUEZ MATA,"$250,000",Mujer,40,Mensual,No,1,4/4/2025 15:15,dierctorcomercial1@riesgoseguros.com,dierctorcomercial1@riesgoseguros.com,"GESTION DE RIESGOS Y SEGUROS, S.A. DE .C.V",73185319,73185319
+2426,AMPARO EVELINA RAMIREZ TUCKER,"$250,000",Mujer,61,Mensual,No,Ninguno,4/4/2025 14:53,,xkdetenorio@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77484802
+2427,AMPARO EVELINA RAMIREZ TUCKER,"$100,000",Mujer,61,Mensual,No,Ninguno,4/4/2025 14:51,karlajhoanna.tenorio@gmail.com,xkdetenorio@gmail.com,Karla Tenorio de Amaya,,77484802
+2428,SOLEDAD ELIZABETH BAIRES LEMUS,"$100,000",Mujer,30,Mensual,No,Ninguno,4/4/2025 11:56,,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,,71609301
+2429,JOSE DAVID CORNEJO ZUÑIGA,"$100,000",Hombre,30,Mensual,No,Ninguno,4/4/2025 11:55,,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,,7160 9301
+2430,MIGUEL EDGARDO ALVARADO GARCIA,"$100,000",Hombre,29,Mensual,No,Ninguno,4/4/2025 11:53,,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,,7160 9301
+2431,NADIRA ALEJANDRA GONZALEZ ROMERO,"$100,000",Mujer,30,Mensual,No,Ninguno,4/4/2025 11:52,,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,,7160 9301
+2432,NADIRA ALEJANDRA GONZALEZ ROMERO,"$100,000",Mujer,30,Mensual,No,Ninguno,4/4/2025 11:49,,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,,7160 9301
+2433,NADIRA ALEJANDRA GONZALEZ ROMERO,"$100,000",Mujer,30,Mensual,No,Ninguno,4/4/2025 11:48,,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,,7160 9301
+2434,JOHANNA GISELA HERNANDEZ SEGURA,"$100,000",Mujer,33,Mensual,No,Ninguno,4/4/2025 11:47,,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,,7160 9301
+2435,OSCAR ANTONIO LIZAMA MEJIA,"$100,000",Hombre,32,Mensual,No,Ninguno,4/4/2025 11:45,,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,,7160 9301
+2436,JOEL SALOMON CASTILLO MARQUEZ,"$100,000",Hombre,25,Mensual,No,Ninguno,4/4/2025 11:42,,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,,7160 9301
+2437,MARIO RAFAEL SANCHEZ GIRON,"$100,000",Hombre,48,Mensual,No,Ninguno,4/4/2025 11:39,,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,,7160 9301
+2438,JORDY FABIO MARTINEZ REYES,"$250,000",Hombre,26,Mensual,No,2,4/4/2025 11:23,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2439,JESSICA LISBETH GALVEZ DE GARCIA,"$50,000",Mujer,40,Mensual,Sí,2,4/4/2025 11:09,,inkjetventas@hotmail.com,JOSÉ MANUEL QUEZADA GARCÍA,,71515769
+2440,EDGARDO AMAYA,"$50,000",Hombre,53,Mensual,Sí,Ninguno,4/4/2025 10:00,,karlajhoanna.tenorio@gmail.com,,,79675365
+2441,JUAN ALFREDO GOMEZ,"$250,000",Hombre,57,Mensual,No,Ninguno,4/4/2025 09:21,directorcomercial1@riesgoseguros.com,directorcomercial1@riesgoseguros.com,"GESTION DE RIESGOS Y SEGUROS, S.A. DE C.V",73185319,73185319
+2442,JUAN ALFREDO GOMEZ ECHEVERRIA,"$100,000",Hombre,57,Mensual,No,Ninguno,4/4/2025 09:20,directorcomercial1@riesgoseguros.com,directorcomercial1@riesgoseguros.com,"GESTION DE RIESGOS Y SEGUROS, S.A. DE C.V.",73185319,73185319
+2443,JUAN ALFREDO GOMEZ EHCHEVERRIA,"$100,000",Hombre,57,Mensual,No,Ninguno,4/4/2025 09:17,directorcomercial1@riesgoseguros.com,directorcomercial1@riesgoseguros.com,"GESTION DE RIESGOS Y SEGUROS, S.A. DE C.V.",73185319,73185319
+2444,Cesar Augusto Lemus Cuellar,"$50,000",Hombre,36,Mensual,Sí,1,3/4/2025 18:01,,cortezcortezyescicaestefania@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7756-9274
+2445,YESCICA Estefania Cortez,"$50,000",Mujer,33,Mensual,Sí,Ninguno,3/4/2025 17:57,,cortezcortezyescicaestefania@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7756-9274
+2446,Ing. Jairo Armando Gracia Sánchez,"$250,000",Hombre,55,Mensual,No,Ninguno,3/4/2025 15:31,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2447,Ing. Jairo Armando Gracia Sánchez,"$50,000",Hombre,55,Mensual,No,Ninguno,3/4/2025 15:30,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2448,Francisco Zelaya,"$50,000",Hombre,26,Mensual,Sí,Ninguno,3/4/2025 15:27,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,.
+2449,INGRID MARCELA CALDERON,"$50,000",Mujer,34,Mensual,No,1,3/4/2025 15:19,,operaciones@zyhasesores.com,zyh asesores,,73083197
+2450,MERIDA RAQUEL MARTINEZ DE PORTILLO,"$100,000",Mujer,31,Mensual,Sí,Ninguno,3/4/2025 13:43,,servicioalcliente@riesgoseguros.com,"GESTIÓN DE RIESGOS Y SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,70910573
+2451,EDWIN ERNESTO MARTELL MAGAÑA,"$250,000",Hombre,35,Mensual,No,Ninguno,3/4/2025 12:13,,seguros@dmjasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78944671
+2452,Francisco Zelaya,"$50,000",Hombre,26,Mensual,No,Ninguno,3/4/2025 12:00,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2453,MAURICIO ERNESTO MORENO PORTILLO,"$100,000",Hombre,30,Mensual,No,Ninguno,3/4/2025 11:59,,anarosales.et@outlook.com,ANA ELIZABETH ROSALES TRUJILLO,,70064676
+2454,VICTOR HUGO MORENO PORTILLO,"$100,000",Hombre,36,Mensual,No,Ninguno,3/4/2025 11:54,,anarosales.et@outlook.com,ANA ELIZABETH ROSALES TRUJILLO,,70064676
+2455,christian alexander mancia turcios,"$50,000",Hombre,32,Mensual,No,Ninguno,3/4/2025 08:56,,francamente30@gmail.com,manuelquezada,,73024099
+2456,ingrid lissette rivas,"$50,000",Mujer,45,Mensual,No,Ninguno,3/4/2025 08:52,,francamente30@gmail.com,JOSÉ MANUEL QUEZADA GARCÍA,,73024099
+2457,DIEGO MELENDEZ,"$50,000",Hombre,28,Mensual,No,Ninguno,2/4/2025 19:30,pemzavaleta@yahoo.com,pemzavaleta@yahoo.com,PATRICIA MOYA,71199638,71199638
+2458,DIEGO MELENDEZ,"$50,000",Hombre,28,Mensual,No,Ninguno,2/4/2025 19:21,pemzavaleta@yahoo.com,pemzavaleta@yahoo.com,Patricia Moya,71199638,71199638
+2459,JORDY FABIO MARTINEZ REYES,"$250,000",Hombre,26,Mensual,No,Ninguno,2/4/2025 17:27,reclamos.alepocasangre@gmail.com,reclamos.alepocasangre@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,70596731,70596731
+2460,Ana Ruth Flores Vasquez,"$50,000",Mujer,60,Mensual,No,Ninguno,2/4/2025 17:04,,-,KEVIN MC DONAL,,-
+2461,ARMANDO ANTONIO NIETO HERNANDEZ,"$250,000",Hombre,40,Mensual,No,Ninguno,2/4/2025 16:06,yanirademunguia@hotmail.com,yanirademunguia@hotmail.com,RHODESIA YANIRA MARTÍNEZ DE MUNGUÍA,78382440,78382440
+2462,KAREN IVETH HERNANDEZ LOPEZ,"$100,000",Mujer,27,Mensual,No,Ninguno,2/4/2025 16:02,directorcomercial1@riegoseguros.com,directorcomercial1@riesgoseguros.com,,73185319,7318-5319
+2463,Carlos Alfredo Barrientos Ramírez,"$50,000",Hombre,38,Mensual,No,1,2/4/2025 15:19,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2464,Alejandro Serpas,"$50,000",Hombre,27,Mensual,No,Ninguno,2/4/2025 15:00,,sfenn@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79892781
+2465,Rodrigo Cardona,"$50,000",Hombre,35,Mensual,No,Ninguno,2/4/2025 14:58,,sfenn@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79892781
+2466,CLAUDIA NAYA,"$50,000",Mujer,57,Mensual,No,Ninguno,2/4/2025 14:56,,sfenn@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79892781
+2467,ALEJANDRA SERPAS,"$50,000",Mujer,32,Mensual,No,Ninguno,2/4/2025 14:54,,sfenn@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79892781
+2468,Nahun Cortez,"$100,000",Hombre,40,Mensual,No,Ninguno,2/4/2025 10:47,,christian.merroa@gmail.com,CHRISTIAN MAURICIO ERROA RODRÍGUEZ,,71700974
+2469,Nahun Cortez,"$100,000",Hombre,40,Mensual,No,Ninguno,2/4/2025 10:46,,christian.merroa@gmail.com,CHRISTIAN MAURICIO ERROA RODRÍGUEZ,,71700974
+2470,JESSICA LISBETH GALVEZ DE GARCIA,"$50,000",Mujer,40,Mensual,Sí,2,2/4/2025 10:38,,inkjetventas@hotmail.com,MANUEL QUEZADA,,71015769
+2471,JOEL NICOLAS LOPEZ CONTRERAS,"$250,000",Hombre,44,Anual,No,1,2/4/2025 10:30,,whinsurance@outlook.es,WENDY VERÓNICA HERNÁNDEZ ESPINOZA C/P VERÓNICA HERNÁNDEZ ESPINOZA,,79287529
+2472,CESAR ORLANDO RETANA AVENDAÑO,"$500,000",Hombre,55,Mensual,Sí,2,2/4/2025 10:24,pedro.canana@aurisa.net,pedro.canana@aurisa.net,"AUDITORES DE RIESGOS INTERNACIONALES, S.A. DE C.V.",22451177,22451177
+2473,EMELY S. VILLACORTA DE SALAZAR,"$500,000",Mujer,51,Mensual,Sí,2,2/4/2025 10:22,,pedro.canana@aurisa.net,"AUDITORES DE RIESGOS INTERNACIONALES, S.A. DE C.V.",,22451177
+2474,EMELY S. VILLACORTA DE SALAZAR,"$500,000",Mujer,51,Mensual,Sí,2,2/4/2025 10:20,pedro.canana@aurisa.net,pedro.canana@aurisa.net,"AUDITORES DE RIESGOS INTERNACIONALES, S.A. DE C.V.",22451177,22451177
+2475,FERMINA CARDENAS FIGUEROA,"$500,000",Mujer,52,Mensual,No,Ninguno,2/4/2025 10:17,pedro.canana@aurisa.net,pedro.canana@aurisa.net,"AUDITORES DE RIESGOS INTERNACIONALES, S.A. DE C.V.",22451177,224511
+2476,ALVARO ARTURO MOISES ARGUELLO,"$500,000",Hombre,46,Mensual,Sí,2,2/4/2025 10:15,pedro.canana@aurisa.net,pedro.canana@aurisa.net,"AUDITORES DE RIESGOS INTERNACIONALES, S.A. DE C.V.",22451177,22451177
+2477,JUAN EDUARDO INTERIANO,"$500,000",Hombre,57,Mensual,Sí,Ninguno,2/4/2025 10:12,pedro.canana@aurisa.net,pedro.canana@aurisa.net,"AUDITORES DE RIESGOS INTERNACIONALES, S.A. DE C.V.",,78700054
+2478,JUAN EDUARDO INTERIANO,"$500,000",Hombre,57,Mensual,No,Ninguno,2/4/2025 10:07,pedro.canana@aurisa.net,pedro.canana@aurisa.net,"AUDITORES DE RIESGOS INTERNACIONALES, S.A. DE C.V.",22451177,78700054
+2479,BLANCA LAURA LOBOS DE VALDIVIESO,"$100,000",Mujer,44,Mensual,No,Ninguno,2/4/2025 10:03,,misael.seguros10@gmail.com,MISAEL ESTEBAN SÁNCHEZ MENJIVAR,,73624006
+2480,JOEL NICOLAS LOPEZ CORTEZ,"$250,000",Hombre,44,Anual,No,1,2/4/2025 10:00,,whinsurance@outlook.es,WENDY VERÓNICA HERNÁNDEZ ESPINOZA C/P VERÓNICA HERNÁNDEZ ESPINOZA,,79287529
+2481,BLANCA LAURA LOBOS DE VALDIVIESO,"$100,000",Mujer,44,Mensual,No,Ninguno,2/4/2025 10:00,,misael.seguros10@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,73624006
+2482,BLANCA LAURA LOBOS DE VALDIVIESO,"$100,000",Mujer,44,Mensual,No,Ninguno,2/4/2025 09:59,,misael.seguros10@gmail.com,MISAEL ESTEBAN SÁNCHEZ MENJIVAR,,73624006
+2483,JOEL NICOLAS LOPEZ CORTEZ,"$250,000",Hombre,44,Anual,No,1,2/4/2025 09:58,,whinsurance@outlook.es,WENDY VERÓNICA HERNÁNDEZ ESPINOZA C/P VERÓNICA HERNÁNDEZ ESPINOZA,,79287529
+2484,Amilcar Steven Efigenio Arias,"$50,000",Hombre,33,Mensual,Sí,1,2/4/2025 09:56,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2485,Juan Eduardo Interiano,"$500,000",Hombre,57,Anual,Sí,Ninguno,2/4/2025 09:32,,maboquin@aurisa.net,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79103077
+2486,Juan Eduardo Interiano,"$500,000",Hombre,57,Anual,Sí,Ninguno,2/4/2025 09:30,,maboquin@aurisa.net,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79103077
+2487,Juan Eduardo Interiano,"$500,000",Hombre,57,Anual,Sí,Ninguno,2/4/2025 09:29,maboquin@aurisa.net,maboquin@aurisa.net,Auditores de Riesgos Internacionales,79103077,79103077
+2488,Manuel,"$50,000",Hombre,50,Mensual,No,Ninguno,2/4/2025 08:59,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081
+2489,Eduardo Merino,"$50,000",Hombre,34,Mensual,Sí,1,1/4/2025 20:08,,ruben.hera3@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78415206
+2490,alejandra de merino,"$50,000",Mujer,32,Mensual,Sí,1,1/4/2025 20:01,,ruben.hera3@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78415206
+2491,EDUARDO MERINO,"$50,000",Hombre,34,Mensual,Sí,1,1/4/2025 20:00,,ruben.hera3@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78415206
+2492,EDUARO MERINO,"$50,000",Hombre,34,Mensual,Sí,1,1/4/2025 19:59,,ruben.hera3@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78415206
+2493,EDUARDO MERINO,"$50,000",Hombre,34,Mensual,No,Ninguno,1/4/2025 19:50,,ruben.hera3@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78415206
+2494,ALEJANDRA MERINO,"$50,000",Mujer,32,Mensual,No,1,1/4/2025 19:47,,ruben.hera3@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78415206
+2495,EDUARDO MERINO,"$50,000",Hombre,34,Mensual,No,1,1/4/2025 19:46,,ruben.hera3@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78415206
+2496,ELBA ALICIA LOZANO MORATAYA,"$100,000",Mujer,59,Mensual,No,Ninguno,1/4/2025 17:12,malwih.asesores@gmail.com,malwih.asesores@gmail.com,ROCÍO NOEMY ARÉVALO DE ZELAYA,72002027,72002027
+2497,Carlos Alfredo Barriento Ramirez,"$50,000",Mujer,38,Mensual,Sí,1,1/4/2025 17:11,,.,Evelyn Cea,,-
+2498,VALERIA CAROLINA BONILLA LOZANO,"$100,000",Mujer,23,Mensual,No,Ninguno,1/4/2025 16:58,malwih.asesores@gmail.com,malwih.asesores@gmail.com,ROCÍO NOEMY ARÉVALO DE ZELAYA,72002027,72002027
+2499,ANA DOLORES MARTINEZ JACINTO,"$100,000",Mujer,50,Mensual,No,Ninguno,1/4/2025 16:56,,sesiomconsultores@gmail.com,MOISÉS IVÁN GONZÁLEZ MARTÍNEZ,,71293135
+2500,BIANCA TATIANA ESQUIVEL,"$500,000",Mujer,37,Mensual,Sí,1,1/4/2025 16:39,josselinmelendez@liconsultores.com.sv,josselinmelendez@liconsultores.com.sv,"LI CONSULTORES, S.A. DE C.V.",25347506,25347506
+2501,Marta Alicia,"$500,000",Mujer,51,Anual,No,Ninguno,1/4/2025 15:44,,maboquin74@gmail.com,,,79103077
+2502,KATHERINE SARAI GALDAMEZ,"$50,000",Mujer,21,Mensual,No,Ninguno,1/4/2025 15:09,,sfenn@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79892781
+2503,Jose Gonzalez,"$50,000",Hombre,26,Mensual,No,Ninguno,1/4/2025 14:12,,jmmgonzalez94@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,75429034
+2504,Ana Gertrudis Hernández Toledo,"$50,000",Mujer,51,Mensual,No,Ninguno,1/4/2025 08:23,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2505,JOAQUIN ASCENCIO,"$100,000",Hombre,31,Mensual,No,Ninguno,31/3/2025 21:33,MIGUEL ANTONIO PEÑA CAMPOS,antoniocampos3112@gmail.com,MIGUEL ANTONIO PEÑA CAMPOS,76044100,76044100
+2506,JOAQUIN ASCENCIO,"$500,000",Hombre,31,Mensual,No,Ninguno,31/3/2025 21:31,MIGUEL ANTONIO PEÑA CAMPOS,antoniocampos3112@gmail.com,MIGUEL ANTONIO PEÑA CAMPOS,76044100,76044100
+2507,JOAQUIN ASCENCIO,"$100,000",Hombre,31,Mensual,No,Ninguno,31/3/2025 21:29,MIGUEL ANTONIO PEÑA CAMPOS,antoniocampos3112@gmail.com,MIGUEL ANTONIO PEÑA CAMPOS,76044100,76044100
+2508,ANA GERTRUDIS HERNANDEZ TOLEDO,"$250,000",Mujer,51,Mensual,No,Ninguno,31/3/2025 18:48,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79570431
+2509,MARIA ELIZABETH CHICAS HUEZO,"$250,000",Mujer,31,Mensual,No,Ninguno,31/3/2025 17:07,eguzman.seguros@gmail.com,eguzman.seguros@gmail.com,ANA ELIZABETH GUZMAN HUEZO,7856 8979,78568979
+2510,Rosario de Maria Meléndez,"$50,000",Mujer,35,Mensual,Sí,1,31/3/2025 15:22,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2511,JUAN JOSE PEREZ HERRERA,"$250,000",Hombre,33,Mensual,Sí,3 o más,31/3/2025 15:16,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79570431
+2512,JUAN JOSE PEREZ HERRERA,"$250,000",Hombre,33,Mensual,Sí,Ninguno,31/3/2025 15:14,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79570431
+2513,JORGE DAVID AGUILAR HERNANDEZ,"$250,000",Hombre,32,Mensual,Sí,2,31/3/2025 14:56,,directorcomercial1@riesgosseguros.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7318-5319
+2514,MONICA ROCIO AMAYA PARADA,"$250,000",Mujer,29,Mensual,Sí,Ninguno,31/3/2025 14:29,,reclamos.alepocasangre@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79510515
+2515,Johanna Beatriz Alegria Santamaría,"$100,000",Mujer,39,Mensual,No,Ninguno,31/3/2025 13:55,Gtsgerenciageneral@gmail.com,Gtsgerenciageneral@gmail.com,MARLON ANTONIO SÁNCHEZ CARRANZA,75982518,75982518
+2516,MARTA JULIA ESPINAL ALEMAN,"$500,000",Mujer,23,Anual,No,Ninguno,31/3/2025 13:42,administracion@contactosegurossv.com,administracion@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",77861451,0
+2517,MARTA JULIA ESPINAL ALEMAN,"$500,000",Mujer,23,Anual,No,Ninguno,31/3/2025 13:42,administracion@contactosegurossv.com,administracion@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",77861451,0
+2518,RHADAMES JOSE ESPINAL ALEMAN,"$500,000",Hombre,18,Anual,No,Ninguno,31/3/2025 13:39,administracion@contactosegurossv.com,administracion@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",77861451,0
+2519,CARMEN ELENA RIVAS DE LEIVA,"$250,000",Mujer,62,Mensual,No,Ninguno,31/3/2025 13:29,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79570431
+2520,Luis López,"$50,000",Hombre,50,Mensual,No,Ninguno,31/3/2025 13:13,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081
+2521,Luis López,"$50,000",Hombre,50,Mensual,No,Ninguno,31/3/2025 13:13,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081
+2522,GABRIELA ISABEL MARCIA JOVEL,"$250,000",Mujer,35,Mensual,No,1,31/3/2025 12:04,,whinsurance@outlook.es,WENDY VERÓNICA HERNÁNDEZ ESPINOZA C/P VERÓNICA HERNÁNDEZ ESPINOZA,,79287529
+2523,Ana Dilcia Velasquez de Torres,"$50,000",Mujer,52,Mensual,No,Ninguno,31/3/2025 10:40,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2524,Liliana Escalante,"$250,000",Mujer,32,Mensual,No,Ninguno,31/3/2025 10:02,ingrid.recinos@gmail.com,ingrid.recinos@gmail.com,Ingrid A Recinos,,73250416
+2525,YESENIA YAMILETH MARTINEZ OSORIO,"$250,000",Mujer,25,Mensual,No,1,31/3/2025 09:06,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2526,Fátima Cruz,"$50,000",Mujer,43,Mensual,No,1,29/3/2025 16:55,,Quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,710081
+2527,Fátima Cruz,"$50,000",Mujer,43,Mensual,No,1,29/3/2025 16:55,,Quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,710081
+2528,Fátima godinez,"$50,000",Mujer,43,Mensual,No,1,29/3/2025 16:51,,Fatimacruz240@yahoo.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79298721
+2529,ALBERTO DE MAIO NORVICK,"$250,000",Hombre,39,Mensual,Sí,1,29/3/2025 13:24,,pemzavaleta@yahoo.com,,,71199638
+2530,NANCY BEATRIZ GUZMAN DE MOLINA,"$50,000",Mujer,35,Mensual,No,1,29/3/2025 09:27,,gabrielmelendez@gmbrokerinsurance.com,GABRIEL DE JESÚS MELÉNDEZ MELÉNDEZ,,77567587
+2531,NANCY BEATRIZ GUZMAN DE MOLINA,"$50,000",Mujer,35,Mensual,No,1,29/3/2025 09:05,,nguzmanm10@gmail.com,GABRIEL DE JESÚS MELÉNDEZ MELÉNDEZ,,7450-8541
+2532,Miguel Angel Elias Palma,"$250,000",Hombre,51,Anual,No,Ninguno,28/3/2025 17:54,cdiazduque@yahoo.com.ar,cdiazduque@yahoo.com.ar,Carlos Ernesto DIaz Duque,72203448,72203448
+2533,Miguel Angel Elias Palma,"$100,000",Hombre,51,Anual,No,Ninguno,28/3/2025 17:18,cdiazduque@yahoo.com.ar,cdiazduque@yahoo.com.ar,Carlos Ernesto Diaz Duque,72203448,72203448
+2534,VALERIA MARIA MAESTRE ALVAREZ,"$500,000",Mujer,26,Mensual,No,Ninguno,28/3/2025 15:54,yanirademunguia@hotmail.com,yanirademunguia@hotmail.com,RHODESIA YANIRA MARTÍNEZ DE MUNGUÍA,78382440,78382440
+2535,JAQUELINE DE ALAS,"$250,000",Mujer,44,Mensual,No,Ninguno,28/3/2025 11:21,leonor_magdalena@yahoo.com,jr_chiquillo@yahoo.com,LEONOR MAGDALENA RAMÍREZ MOLINA,78862232,78944671
+2536,EDWIN MARTELL,"$250,000",Hombre,35,Mensual,No,Ninguno,28/3/2025 11:16,jr_chiquillo@yahoo.com,jr_chiquillo@yahoo.com,LEONOR MAGDALENA RAMÍREZ MOLINA,78944671,78944671
+2537,EDWIN MARTELL,"$250,000",Hombre,35,Mensual,No,Ninguno,28/3/2025 11:13,,jr_chiquillo@yahoo.com,LEONOR MAGDALENA RAMÍREZ MOLINA,,78944671
+2538,EDWIN MARTELL,"$250,000",Hombre,35,Mensual,No,Ninguno,28/3/2025 11:12,,jr_chiquillo@yahoo.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78944671
+2539,edwin martel,"$250,000",Hombre,35,Mensual,No,Ninguno,28/3/2025 11:08,,ruben.hera3@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78415206
+2540,Cristian Diaz,"$100,000",Hombre,52,Mensual,Sí,1,28/3/2025 10:48,,christian.merroa@gmail.com,CHRISTIAN MAURICIO ERROA RODRÍGUEZ,,71700974
+2541,Manuel,"$50,000",Hombre,50,Mensual,No,Ninguno,28/3/2025 10:15,,Quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081
+2542,Manuel,"$50,000",Hombre,50,Mensual,No,Ninguno,28/3/2025 10:15,,Quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081
+2543,Mónica Elvira Miccolo Breucop,"$250,000",Mujer,57,Mensual,No,Ninguno,28/3/2025 08:59,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2544,Tatiana Beltrán,"$50,000",Mujer,36,Mensual,No,Ninguno,27/3/2025 18:25,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081
+2545,Magaly Torres,"$50,000",Mujer,49,Mensual,No,1,27/3/2025 17:59,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081
+2546,Magaly Torres,"$50,000",Mujer,49,Mensual,No,Ninguno,27/3/2025 17:58,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081
+2547,KAREN ALEJANDRA RIVERA GARCÍA,"$250,000",Mujer,29,Mensual,No,Ninguno,27/3/2025 17:39,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+2548,KAREN ALEJANDRA RIVERA GARCÍA,"$100,000",Mujer,29,Mensual,No,Ninguno,27/3/2025 17:38,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+2549,DIEGO ERNESTO VELASCO GARCÍA,"$250,000",Hombre,24,Mensual,No,Ninguno,27/3/2025 17:36,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+2550,DIEGO ERNESTO VELASCO GARCÍA,"$100,000",Hombre,24,Mensual,No,Ninguno,27/3/2025 17:35,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+2551,MORENA ARELY GARCÍA,"$250,000",Mujer,47,Mensual,No,Ninguno,27/3/2025 17:31,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+2552,MORENA ARELY GARCÍA,"$100,000",Mujer,47,Mensual,No,Ninguno,27/3/2025 17:28,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+2553,Víctor Moreno,"$100,000",Hombre,36,Mensual,No,Ninguno,27/3/2025 15:38,,anarosales.et@outlook.com,ANA ELIZABETH ROSALES TRUJILLO,,70064676
+2554,Mauricio Moreno,"$100,000",Hombre,30,Mensual,No,Ninguno,27/3/2025 15:36,,anarosales.et@outlook.com,ANA ELIZABETH ROSALES TRUJILLO,,70064676
+2555,MARIA ELIZABETH CHICAS HUEZO,"$100,000",Mujer,31,Mensual,No,Ninguno,27/3/2025 15:16,eguzman.seguros@gmail.com,eguzman.seguros@gmail.com,ANA ELIZABETH GUZMAN HUEZO,7856 8979,78568979
+2556,MARCELO ALBERTO COTO,"$250,000",Hombre,32,Mensual,No,Ninguno,27/3/2025 14:15,pemzavaleta@yahoo.com,pemzavaleta@yahoo.com,PATRICIA MOYA,71199638,71199638
+2557,Glenda Larissa Carías Alvarenga,"$250,000",Mujer,53,Mensual,No,1,27/3/2025 12:27,f.valladares2@gmail.com,mariajosealfaro.segurosrpc@gmail.com,"REPRESENTACIONES Y PROMOCIONES COMERCIALES, S.A. DE C.V.",22635870,22222222
+2558,CESAR EUGENIO CALVO SALAZAR,"$100,000",Hombre,42,Mensual,Sí,1,27/3/2025 11:39,jrav.seguros@gmail.com,jwseguros@outlook.com,JOSE ABREGO,78948909,78901234
+2559,Luis Eduardo Ticas Flores,"$100,000",Hombre,37,Mensual,No,Ninguno,27/3/2025 11:33,reyac2009@hotmail.com,admonskyseguros@gmail.com,REYNALDO ERNESTO ALFARO CALDERÓN,,22790335
+2560,Luis Eduardo Ticas Flores,"$100,000",Hombre,37,Mensual,No,Ninguno,27/3/2025 11:31,admonskyseguros@gmail.com,admonskyseguros@gmail.com,Reynaldo Ernesto Alfaro Calderon,,22790335
+2561,JESSICA GALVEZ DE GARCIA,"$50,000",Mujer,40,Mensual,No,2,27/3/2025 10:03,,inkjetventas@hotmail.com,MANUEL QUEZADA,,74990491
+2562,JESSICA LISBETH GALVEZ DE GARCIA,"$50,000",Mujer,40,Mensual,Sí,2,27/3/2025 09:58,,inkjetventas@hotmail.com,MANUEL QUEZADA,,74990491
+2563,ANA SOFIA CHICAS MOLINA,"$50,000",Mujer,41,Mensual,No,Ninguno,27/3/2025 09:37,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79570431
+2564,ANA SOFIA CHICAS MOLINA,"$50,000",Hombre,41,Mensual,No,Ninguno,27/3/2025 09:36,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79570431
+2565,ANA SOFIA CHICAS MOLINA,"$250,000",Mujer,41,Mensual,No,Ninguno,27/3/2025 09:11,alepocasangreseguros@gmail.com,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79570431
+2566,Vanessa Méndez,"$100,000",Mujer,31,Mensual,No,Ninguno,27/3/2025 09:10,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2567,Andre Ciriani,"$250,000",Hombre,26,Anual,Sí,1,27/3/2025 09:00,gerencia@grupofaroblanco.com,gerencia@grupofaroblanco.com,Fabrizzio Blanco,75082639,75082639
+2568,Judith de Melara,"$100,000",Mujer,59,Mensual,No,Ninguno,26/3/2025 20:26,,Ss.melara@hotmail.com,SARA STEFANY MELARA GUEVARA,,78541312
+2569,WILLIAM ROMERO,"$250,000",Hombre,38,Mensual,No,Ninguno,26/3/2025 18:28,,gabrielmelendez@gmbrokerinsurace.com,GABRIEL DE JESÚS MELÉNDEZ MELÉNDEZ,,77567587
+2570,Juana del Carmen García de Ortega,"$250,000",Mujer,35,Mensual,No,1,26/3/2025 17:13,orellanainsurance17@gmail.com,orellanainsurance17@gmail.com,ALEJANDRO SALVADOR ORELLANA RODAS,79542161,79542161
+2571,ALBA GRACIEL SANCHEZ AGUILAR,"$500,000",Mujer,28,Mensual,No,Ninguno,26/3/2025 16:59,administracion@grupo-fortaleza.com,administracion@grupo-fortaleza.com,"GRUPO FORTALEZA, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",2556 9430,2556 9430
+2572,JENNY PEÑALVA,"$100,000",Mujer,46,Mensual,No,Ninguno,26/3/2025 16:40,,asistenteavs@av-seguros.com,HÉCTOR MAURICIO VALLECILLOS JOVEL,,72810204
+2573,Doris Elizabeth Chávez,"$50,000",Mujer,61,Mensual,No,Ninguno,26/3/2025 15:31,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2574,CONSUELO ELIZABETH ZEPEDA,"$50,000",Mujer,34,Mensual,No,2,26/3/2025 15:30,,directorcomercial1@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,73185319
+2575,CONSUELO ELIZABETH ZEPEDA,"$50,000",Mujer,34,Mensual,No,1,26/3/2025 15:28,,directorcomercial1@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,73185319
+2576,Enrique Sanchez Menjivar,"$50,000",Hombre,30,Mensual,No,Ninguno,26/3/2025 15:10,,misael.seguros10@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,73624006
+2577,Gabriela Maria Ramirez,"$50,000",Mujer,34,Mensual,Sí,1,26/3/2025 14:53,,sfenn@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79892781
+2578,Alejandra Quezada,"$50,000",Mujer,50,Mensual,No,Ninguno,26/3/2025 14:51,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010082
+2579,HAZEL ALEJANDRA PINEDA ROMERO,"$250,000",Mujer,26,Mensual,No,1,26/3/2025 14:36,renemartinex@gmail.com,renemartinex@gmail.com,RENÉ ALFREDO MARTÍNEZ RUIZ,77548723,77548723
+2580,JAVIER GOMEZ,"$50,000",Hombre,35,Mensual,No,Ninguno,26/3/2025 14:35,,sfenn@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79892781
+2581,JAVIER GOMEZ,"$50,000",Hombre,35,Mensual,No,Ninguno,26/3/2025 14:35,,sfenn@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79892781
+2582,Alejandro Alberto Domínguez Monge,"$50,000",Hombre,32,Mensual,No,Ninguno,26/3/2025 14:07,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2583,Alejandro Alberto Domínguez Monge,"$50,000",Hombre,32,Mensual,No,Ninguno,26/3/2025 14:07,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2584,KRISSIA DYANNA REYES ALEGRIA,"$50,000",Mujer,30,Mensual,No,Ninguno,26/3/2025 10:26,,ruben.hera3@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78415206
+2585,Blanca Ilvea Chicas de Osorio,"$50,000",Mujer,53,Mensual,No,Ninguno,25/3/2025 17:13,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2586,REBECA MARTINEZ,"$250,000",Mujer,46,Mensual,No,2,25/3/2025 15:52,pemzavaleta@yahoo.com,pemzavaleta@yahoo.com,PATRICIA MOYA,71199638,71199638
+2587,Josue Rigoberto Turcios Ramirez,"$50,000",Hombre,47,Mensual,No,Ninguno,25/3/2025 15:42,jrav.seguros@outlook.com,jwseguros@outlook.com,Jose Abrego,78948909,78901234
+2588,YOCELIN CLARICEL PLEITEZ BARRERA,"$250,000",Mujer,40,Mensual,No,Ninguno,25/3/2025 15:16,alepocasangreseguros@gmail.com,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2589,JUAN MIGUEL CABRERA RAFAEL,"$100,000",Hombre,49,Mensual,No,Ninguno,25/3/2025 15:02,,sfenn@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79892781
+2590,Danny Alexander Escobar Mena,"$50,000",Hombre,30,Mensual,No,Ninguno,25/3/2025 14:03,,direcciondeprocesos.sgpseguros@gmail.com,JAIME ROBERTO GÓMEZ VILLACORTA,,78946197
+2591,Danny Mena,"$50,000",Hombre,30,Mensual,No,Ninguno,25/3/2025 14:00,,direcciondeprocesos.sgpseguros@gmail.com,JAIME ROBERTO GÓMEZ VILLACORTA,,78946197
+2592,Moris Antonio Callejas Cortez,"$50,000",Hombre,54,Mensual,Sí,1,25/3/2025 12:48,misael.seguros10@gmail.com,misael.seguros10@gmail.com,MISAEL ESTEBAN SÁNCHEZ MENJIVAR,73624006,73624006
+2593,ANA GABRIELA DEL CID,"$50,000",Mujer,34,Semestral,No,2,25/3/2025 11:33,operaciones@sps.com.sv,operaciones@sps.com.sv,"JDR GROUP, S.A. DE C.V.",77188078,77188078
+2594,MARIO NELSON FLORES GONZALEZ,"$50,000",Hombre,51,Mensual,No,Ninguno,25/3/2025 11:18,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2595,IVONNE LIZZETTE FLORES GONZALEZ,"$50,000",Mujer,50,Mensual,No,Ninguno,25/3/2025 11:16,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2596,IVONNE LIZZETTE FLORES GONZALEZ,"$50,000",Mujer,50,Mensual,No,Ninguno,25/3/2025 11:16,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2597,Alejandro Alberto Domínguez Monge,"$50,000",Hombre,32,Mensual,No,Ninguno,25/3/2025 11:16,,ad_dominguez01@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78861754
+2598,FIORELA ALEJANDRA CARRILLO VASQUEZ,"$250,000",Mujer,28,Mensual,No,Ninguno,25/3/2025 11:05,administracion@contactosegurossv.com,administracion@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",22811162,0
+2599,MARIA FERNANDA SANTOS MANCIA,"$250,000",Mujer,26,Mensual,No,Ninguno,25/3/2025 10:26,,gabrielmelendez@gmbrokerinsurance.com,GABRIEL DE JESÚS MELÉNDEZ MELÉNDEZ,,77567587
+2600,JORGE LUIS LOUCEL CONTRERAS,"$100,000",Hombre,30,Mensual,No,1,24/3/2025 22:31,,anarosales.et@outlook.com,ANA ELIZABETH ROSALES TRUJILLO,,70064676
+2601,ROSA MARIA JAIME DE MONTOYA,"$50,000",Mujer,49,Trimestral,Sí,1,24/3/2025 15:57,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2602,PATRICIA SARAI MANCIA MORENO,"$250,000",Mujer,32,Mensual,No,1,24/3/2025 15:45,alepocasangreseguros@gmail.com,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2603,Wendy Veronica Hernandez Espinoza,"$250,000",Mujer,36,Semestral,No,Ninguno,24/3/2025 15:25,,whinsurance@outlook.es,WENDY VERÓNICA HERNÁNDEZ ESPINOZA C/P VERÓNICA HERNÁNDEZ ESPINOZA,,79287529
+2604,SONIA DE LOS ANGELES HERNANDEZ,"$250,000",Mujer,38,Semestral,No,Ninguno,24/3/2025 15:16,,whinsurance@outlook.es,WENDY VERÓNICA HERNÁNDEZ ESPINOZA C/P VERÓNICA HERNÁNDEZ ESPINOZA,,79287529
+2605,SHARON RAQUEL CARRILLO VASQUEZ,"$250,000",Mujer,30,Mensual,No,Ninguno,24/3/2025 13:48,administa@contactosegurossv.com,administa@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",22811162,0
+2606,BENJAMIN MENJIVAR RIVAS,"$50,000",Hombre,30,Mensual,Sí,3 o más,24/3/2025 12:32,mychacon@gmail.com,mychacon@gmail.com,MARTA YESENIA CHACÓN GONZÁLEZ,73119494,73119494
+2607,Edmundo Jose Calderon Torres,"$250,000",Hombre,48,Mensual,No,Ninguno,24/3/2025 12:00,admonskyseguros@gmail.com,admonskyseguros@gmail.com,JOSE REYNALDO ALFARO,22790335,22790335
+2608,Edmundo José Calderón,"$250,000",Hombre,48,Mensual,No,Ninguno,24/3/2025 12:00,Alfaro.reynaldo@gmail.com,Alfaro.reynaldo@gmail.com,Jose reynaldo alfaro,,77298490
+2609,ALEJANDRA GUADALUPE GOMEZ FIGUEROA,"$50,000",Mujer,30,Mensual,No,Ninguno,24/3/2025 11:59,info@crselsalvador.com.sv,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,71609301,71609301
+2610,ALEJANDRA GUADALUPE GOMEZ FIGUEROA,"$50,000",Mujer,30,Mensual,No,Ninguno,24/3/2025 11:51,info@crselsalvador.com.sv,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,7160 9301,7160 9301
+2611,ALEJANDRA GUADALUPE GOMEZ FIGUEROA,"$250,000",Mujer,30,Mensual,No,Ninguno,24/3/2025 11:50,info@crselsalvador.com.sv,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,7160 9301,7160 9301
+2612,BETSABE YAMILETH LANDAVERDE ESCOBAR,"$250,000",Mujer,32,Mensual,No,Ninguno,24/3/2025 11:44,alepocasangreseguros@gmail.com,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2613,BETSABE YAMILETH LANDAVERDE ESCOBAR,"$250,000",Mujer,32,Mensual,No,2,24/3/2025 11:38,alepocasangreseguros@gmail.com,alepocasangreseguros@gmail.com,,,79128484
+2614,BETSABE YAMILETH LANDAVERDE,"$250,000",Mujer,32,Mensual,No,Ninguno,24/3/2025 11:37,alepocasangreseguros@gmail.com,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2615,Ana Liseth Sanchez Mendez,"$50,000",Mujer,30,Mensual,No,Ninguno,24/3/2025 10:52,misael.seguros10@gmail.com,misael.seguros10@gmal.com,MISAEL ESTEBAN SÁNCHEZ MENJIVAR,73624006,73624006
+2616,Marcela Escobar de Melgar,"$250,000",Mujer,45,Mensual,No,2,24/3/2025 08:49,,georginalopez@hotmail.es,,,62002421
+2617,Karen Estela Nieto Rodriguez,"$100,000",Mujer,37,Mensual,No,1,24/3/2025 08:19,reyac2009@hotmail.com,reyac2009@hotmail.com,REYNALDO ERNESTO ALFARO CALDERÓN,71279828,71279828
+2618,SHARON RAQUEL CARRILLO VASQUEZ,"$250,000",Mujer,30,Mensual,No,Ninguno,23/3/2025 20:04,administracion@contactosegurossv.com,administracion@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",22811162,0
+2619,KEVIN AMAYA,"$50,000",Hombre,26,Mensual,Sí,1,23/3/2025 17:20,,velinkty@hotmail.com,MARÍA VELINDA ARGUETA DE PORTILLO,,78836470
+2620,TITO ALVARADO,"$50,000",Hombre,35,Mensual,No,Ninguno,22/3/2025 14:48,,claudyavasquez@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,70979653
+2621,TITO ALVARADO,"$100,000",Hombre,35,Mensual,No,Ninguno,22/3/2025 14:44,,claudyavasquez@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,70979653
+2622,Karen Estela Nieto Rodriguez,"$100,000",Mujer,37,Mensual,No,1,22/3/2025 08:58,adminskyseguros@gmail.com,reyac2009@hotmail.com,REYNALDO ERNESTO ALFARO CALDERÓN,,71279828
+2623,Karen Estela Nieto Rodriguez,"$100,000",Mujer,37,Mensual,No,1,22/3/2025 08:50,reyac2009@hotmail.com,reyac2009@hotmail.com,REYNALDO ERNESTO ALFARO CALDERÓN,,71279828
+2624,Karen Estela Nieto Rodriguez,"$100,000",Mujer,37,Mensual,No,1,22/3/2025 08:46,reyac2009@hotmail.com,reyac2009@hotmail.com,REYNALDO ERNESTO ALFARO CALDERÓN,,71279828
+2625,Oscar René Hernandez,"$250,000",Hombre,60,Mensual,No,Ninguno,21/3/2025 17:06,,georginalopez@hotmail.es,,,62002421
+2626,Oscar René Hernandez,"$250,000",Hombre,60,Mensual,No,Ninguno,21/3/2025 17:04,,georginalopez@hotmail.es,,,62002421
+2627,Oscar René Hernández,"$250,000",Hombre,60,Mensual,No,Ninguno,21/3/2025 17:04,,georginalopez@hotmail.es,,,62002421
+2628,Oscar René Hernández,"$250,000",Hombre,60,Mensual,No,1,21/3/2025 17:01,,georginalopez@hotmail.es,,,62002421
+2629,Julio Ernesto Pérez Ayala,"$100,000",Hombre,51,Mensual,Sí,Ninguno,21/3/2025 17:01,,anarosales.et@outlook.com,ANA ELIZABETH ROSALES TRUJILLO,,70064676
+2630,Julio Ernesto Pérez Ayala,"$100,000",Mujer,51,Mensual,Sí,Ninguno,21/3/2025 16:53,,anarosales.et@outlook.com,ANA ELIZABETH ROSALES TRUJILLO,,70064676
+2631,Julio Ernesto Pérez Ayala,"$100,000",Hombre,51,Mensual,Sí,Ninguno,21/3/2025 16:52,,anarosales.et@outlook.com,ANA ELIZABETH ROSALES TRUJILLO,,70064676
+2632,SANTOS ABIGAIL CASTELLON RAMOS,"$100,000",Mujer,34,Mensual,No,1,21/3/2025 16:26,,uniseguros.es@gmail.com,CRISTINA ABIGAIL MERCEDES DOMÍNGUEZ,,70423724
+2633,TATIANA MILAGRO GALDAMEZ DORADEA,"$250,000",Mujer,31,Mensual,No,Ninguno,21/3/2025 15:33,,copiabg@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,789944386
+2634,IVONNE LIZZETTE FLORES GONZÁLEZ,"$100,000",Mujer,50,Mensual,No,Ninguno,21/3/2025 15:31,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO,78944386,78944386
+2635,KATHERINE NAYELY CONTRERAS,"$100,000",Mujer,24,Mensual,No,Ninguno,21/3/2025 15:02,,awadproductores.24@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79302785
+2636,KATHERINE NAYELI CONTRERAS,"$100,000",Mujer,24,Mensual,No,Ninguno,21/3/2025 15:00,awadproductores.24@gmail.com,awadproductores.24@gmail.com,"AWAD PRODUCTORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",79302785,79302785
+2637,ADRIANA MARIA IRAHETA RODRIGUEZ,"$250,000",Mujer,26,Mensual,No,Ninguno,21/3/2025 12:22,directorcomercial1@riesgoseguros.com,directorcomercial1@riesgoseguros.com,GESTION DE RIESGOS Y SEGUROS SA DE CV,73185319,73185319
+2638,ADRIANA MARIA IRAHETA RODRIGUEZ,"$250,000",Mujer,26,Mensual,No,Ninguno,21/3/2025 12:22,directorcomercial1@riesgoseguros.com,directorcomercial1@riesgoseguros.com,GESTION DE RIESGOS Y SEGUROS SA DE CV,73185319,73185319
+2639,ADRIANA MARIA IRAHETA RODRIGUEZ,"$50,000",Hombre,26,Mensual,No,Ninguno,21/3/2025 12:20,directorcomercial1@risgoseguros.com,directorcomercial1@riesgoseguros.com,GESTION DE RIESGOS Y SEGUROS. SA DE CV,73185319,73185319
+2640,ADRIANA MARIA IRAHETA RODRIGUEZ,"$50,000",Hombre,26,Mensual,No,Ninguno,21/3/2025 12:20,directorcomercial1@risgoseguros.com,directorcomercial1@riesgoseguros.com,GESTION DE RIESGOS Y SEGUROS. SA DE CV,73185319,73185319
+2641,ADRIANA MARIA IRAHETA RODRIGUEZ,"$100,000",Mujer,26,Mensual,No,Ninguno,21/3/2025 12:18,directorcomercial1@risgoseguros.com,directorcomercia1@riesgoseguros.com,"GESTION DE RIESGOS Y SEGUROS, SA DE CV",73185319,73185319
+2642,ADRIANA MARIA IRAHETA RODRIGUEZ,"$100,000",Mujer,26,Mensual,No,Ninguno,21/3/2025 12:18,directorcomercial1@risgoseguros.com,directorcomercia1@riesgoseguros.com,"GESTION DE RIESGOS Y SEGUROS, SA DE CV",73185319,73185319
+2643,ADRIANA MARIA IRAHETA RODRIGUEZ,"$50,000",Mujer,26,Mensual,No,Ninguno,21/3/2025 12:15,directorcomercial1@riesgoseguros.com,directorcomercial1@riesgoseguros.com,"GESTION DE RIESGOS Y SEGUROS,SA DE CV",73185319,7.185319
+2644,ADRIANA MARIA IRAHETA RODRIGUEZ,"$50,000",Mujer,26,Mensual,No,Ninguno,21/3/2025 12:15,directorcomercial1@riesgoseguros.com,directorcomercial1@riesgoseguros.com,"GESTION DE RIESGOS Y SEGUROS,SA DE CV",73185319,7.185319
+2645,FLORENCE SANCHEZ,"$50,000",Mujer,24,Mensual,No,Ninguno,21/3/2025 11:11,,sfenn@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79892781
+2646,MERIDA RAQUEL MARTINEZ DE PORTILLO,"$100,000",Mujer,31,Mensual,No,Ninguno,21/3/2025 10:56,luisa.albarracin@riesgoseguros.com,servicioalcliente@riesgoseguros.com,"GESTIÓN DE RIESGOS Y SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",61737383,61737383
+2647,MERIDA RAQUEL MARTINEZ DE PORTILLO,"$50,000",Hombre,31,Mensual,No,Ninguno,21/3/2025 10:55,,servicioalcliente@riesgoseguros.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,61737383
+2648,MERIDA RAQUEL MARTINEZ DE PORTILLO,"$100,000",Hombre,31,Mensual,No,Ninguno,21/3/2025 10:47,servicioalcliente@riesgoseguros.com,servicioalcliente@riesgoseguros.com,"GESTIÓN DE RIESGOS Y SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",6173-7383,61737383
+2649,NERY JOANNE TOVAR DE PAZ,"$50,000",Mujer,50,Mensual,No,1,21/3/2025 10:07,pemzavaleta@yahoo.com,pemzavaleta@yahoo.com,PATRICIA MOYA,71199638,71199638
+2650,SARAI MANCIA,"$50,000",Mujer,32,Mensual,Sí,1,21/3/2025 10:03,lissetterosales@hotmail.com,lissetterosales@hotmail.com,LEONOR LISSETTE ALVARADO ROSALES,7622-6313,75313359
+2651,TITO AREVALO,"$100,000",Hombre,35,Mensual,No,Ninguno,21/3/2025 09:51,claudyavasquez@hotmail.com,claudyavasquez@hotmail.com,CLAUDIA ISABEL VASQUEZ SOTO,70979653,70979653
+2652,TITO AREVALO,"$100,000",Hombre,35,Mensual,No,Ninguno,21/3/2025 09:51,claudyavasquez@hotmail.com,claudyavasquez@hotmail.com,CLAUDIA ISABEL VASQUEZ SOTO,70979653,70979653
+2653,Y´ESHUA DANIEL NOCHEZ CHEVEZ,"$250,000",Hombre,34,Mensual,No,1,21/3/2025 09:27,alepocasangreseguros@gmail.com,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2654,ARACELY LAZO,"$100,000",Mujer,53,Mensual,No,1,21/3/2025 09:27,lissetterosales@hotmail.com,lissetterosales@hotmail.com,LEONOR LISSETTE ALVARADO ROSALES,7622-6313,7065-4751
+2655,Y´ESHUA DANIEL NOCHEZ CHEVEZ,"$100,000",Hombre,34,Mensual,No,1,21/3/2025 09:26,alepocasangreseguros@gmail.com,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79128484
+2656,JOSE RODRIGO CASTILLO MANCIA,"$50,000",Hombre,29,Mensual,Sí,1,20/3/2025 17:56,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2657,JOSE CALDERON,"$250,000",Hombre,48,Mensual,No,Ninguno,20/3/2025 17:40,,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,,75178411
+2658,Sandra Patricia Magaña Sandoval,"$100,000",Mujer,42,Mensual,No,1,20/3/2025 17:07,,aportillo@seatlan.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78597679
+2659,Braiam Mauricio Lopez,"$50,000",Hombre,33,Mensual,No,Ninguno,20/3/2025 16:58,,reyes.josecarlos1@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,72222501
+2660,Wuilber Ernesto Lopez,"$50,000",Hombre,37,Mensual,No,Ninguno,20/3/2025 16:55,,reyes.josecarlos1@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,72222501
+2661,Nelson Antonio Lopez,"$50,000",Hombre,62,Mensual,Sí,Ninguno,20/3/2025 16:51,,reyes.josecarlos1@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,72222501
+2662,Nelson Antonio Lopez,"$50,000",Hombre,62,Mensual,Sí,Ninguno,20/3/2025 16:46,,reyes.josecarlos1@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,72222501
+2663,ELISA NOEMI MELARA DE LEMUS,"$50,000",Mujer,42,Mensual,Sí,Ninguno,20/3/2025 15:31,,sfenn@prointelseguros.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79892781
+2664,JOSE LUIS FLORES GUERRERO,"$50,000",Hombre,24,Mensual,Sí,1,20/3/2025 14:40,administracion@contactosegurossv.com,administracion@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",0,0
+2665,ALMA MARROQUIN,"$50,000",Mujer,27,Mensual,No,Ninguno,20/3/2025 11:21,,gabrielmelendez@gmbrokerinsurance.com,GABRIEL DE JESÚS MELÉNDEZ MELÉNDEZ,,77567587
+2666,LAURA ESTEFANI DIAZ LIZAMA,"$50,000",Mujer,32,Mensual,No,1,20/3/2025 10:17,,yguzman@conasesa.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77975708
+2667,JOSE ADALBERTO MENDOZA RODRIGUEZ,"$100,000",Hombre,28,Mensual,No,Ninguno,20/3/2025 08:05,infoäcrselsalvador.com.sv,infoäcrselsalvador.com.sv,CRS SEGUROS EL SALVADOR,71609301,71609301
+2668,Moises Ignacio Gochez Gonzalez,"$50,000",Hombre,28,Mensual,Sí,1,19/3/2025 18:58,amparo.sandovalv@yahoo.com,Moisesignacio8@gmail.com,AMPARO SANDOVAL VALLEJOS,7877-8656,74376984
+2669,Claudia Yamileth Cruz de Aldana,"$50,000",Mujer,32,Mensual,No,Ninguno,19/3/2025 18:52,,ralexayalab@gmail.com,RONALD ALEXANDER ALDANA AYALA,,72102508
+2670,Rosy Johana Fernandez De Mena,"$100,000",Mujer,24,Mensual,No,1,19/3/2025 17:06,,alex.27aguilar.aa@gmail.com,ALEX STEVEN AGUILAR TREJO,,76821044
+2671,Wendy Beatriz Caballero de Ortiz,"$50,000",Mujer,33,Mensual,Sí,2,19/3/2025 16:32,quezadamanuel228@gmail.com,quezadamanuel228@gmail.com,José Manuel Quezada García,71010081,71010081
+2672,Wendy Beatriz Caballero de Ortiz,"$50,000",Mujer,33,Mensual,Sí,2,19/3/2025 16:32,quezadamanuel228@gmail.com,quezadamanuel228@gmail.com,José Manuel Quezada García,71010081,71010081
+2673,LUIS MARIO DE JESUS LARA LOPEZ,"$50,000",Hombre,43,Mensual,No,Ninguno,19/3/2025 16:19,info@crselsalvador.com.sv,info@crselsalvador.com.sv,"CRS SEGUROS EL SALVADOR, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",7160-9301,7160-9301
+2674,LUIS MARIO DE JESUS LARA LOPEZ,"$100,000",Hombre,43,Mensual,No,Ninguno,19/3/2025 15:37,info@crselsalvador.com.sv,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,71609301,71609301
+2675,LUIS MARIO DE JESUS LARA LOPEZ,"$100,000",Hombre,43,Mensual,No,Ninguno,19/3/2025 15:34,info@crselsalvador.com.sv,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,71609301,71609301
+2676,LUIS MARIO DE JESUS LARA LOPEZ,"$50,000",Hombre,43,Mensual,No,Ninguno,19/3/2025 15:31,info@crselsalvador.com.sv,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,7160-9301,7160-9301
+2677,LUIS MARIO DE JESUS LARA LOPEZ,"$50,000",Hombre,43,Mensual,No,Ninguno,19/3/2025 15:30,info@crselsalvador.com.sv,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,71609301,71609301
+2678,BRYAN MAURICIO GUTIERREZ VALDEZ,"$50,000",Hombre,31,Mensual,No,Ninguno,19/3/2025 15:17,info@crselsalvador.com.sv,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,71609301,71609301
+2679,FELIPE ISRAEL TIGERINO SUAZO,"$50,000",Hombre,53,Mensual,No,Ninguno,19/3/2025 14:26,gestiones@grupo-fortaleza.com,gestiones@grupo-fortaleza.com,,25569430,25569430
+2680,EYRA DEL CARMEN CASTILLO FUNES,"$50,000",Mujer,39,Mensual,No,Ninguno,19/3/2025 14:25,gestiones@grupo-fortaleza.com,gestiones@grupo-fortaleza.com,"GRUPO FORTALEZA, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",25569430,25569430
+2681,EYRA DEL CARMEN CASTILLO FUNES,"$50,000",Mujer,39,Mensual,No,Ninguno,19/3/2025 14:25,gestiones@grupo-fortaleza.com,gestiones@grupo-fortaleza.com,"GRUPO FORTALEZA, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",25569430,25569430
+2682,EYRA DEL CARMEN CASTILLO FUNES,"$50,000",Mujer,39,Mensual,No,Ninguno,19/3/2025 14:25,gestiones@grupo-fortaleza.com,gestiones@grupo-fortaleza.com,"GRUPO FORTALEZA, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",25569430,25569430
+2683,KARLA MARIA HERNANDEZ DE AVELAR,"$50,000",Mujer,34,Mensual,No,Ninguno,19/3/2025 14:15,gestiones@grupo-fortaleza.com,gestiones@grupo-fortaleza.com,"GRUPO FORTALEZA, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",25569430,25569430
+2684,GABRIELA LISSETT FLORES GARCIA,"$50,000",Mujer,31,Mensual,No,Ninguno,19/3/2025 14:13,gestiones@grupo-fortaleza.com,gestiones@grupo-fortaleza.com,"GRUPO FORTALEZA, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",25569430,25569430
+2685,JOSE BRYAN FLORES MELENDEZ,"$100,000",Hombre,31,Mensual,No,Ninguno,19/3/2025 13:56,info@crselsalvador.com.sv,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,71609301,71609301
+2686,JOSE BRYAN FLORES MELENDEZ,"$100,000",Hombre,31,Mensual,No,Ninguno,19/3/2025 13:53,info@crselsalvador.com.sv,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,71609301,71609301
+2687,JOSE BRYAN FLORES MELENDEZ,"$100,000",Hombre,31,Mensual,No,Ninguno,19/3/2025 13:52,info@crselsalvador.com.sv,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,7160 9301,7160 9301
+2688,STANLEY SIGUENZA,"$100,000",Hombre,26,Mensual,No,Ninguno,19/3/2025 13:47,,seguroskarlajoveloficina@hotmail.com,KARLA ISOLET JOVEL GÁMEZ,,78882132
+2689,STANLEY SIGUENZA,"$50,000",Hombre,26,Mensual,No,Ninguno,19/3/2025 12:18,,seguroskarlajoveloficina@hotmail.com,KARLA ISOLET JOVEL GÁMEZ,,78882132
+2690,STANLEY SIGUENZA,"$100,000",Hombre,26,Mensual,No,Ninguno,19/3/2025 12:17,,seguroskarlajoveloficina@hotmail.com,KARLA ISOLET JOVEL GÁMEZ,,78882132
+2691,HELEN MICHELLE FIALLOS HASBUN,"$250,000",Mujer,45,Mensual,No,1,19/3/2025 11:33,,.,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2692,SANTOS ABIGAIL CASTELLON RAMOS,"$100,000",Mujer,34,Mensual,No,Ninguno,19/3/2025 11:09,,uniseguros.es@gmail.com,CRISTINA ABIGAIL MERCEDES DOMÍNGUEZ,,70423724
+2693,EMINE NUR BATU,"$250,000",Mujer,33,Mensual,No,Ninguno,19/3/2025 10:13,alepocasangreseguros@gmail.com,alejandrapocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,7059-6731,79128484
+2694,RICARDO ALBERTO PLATERO ALVAREZ,"$50,000",Hombre,46,Mensual,No,Ninguno,19/3/2025 10:11,gestiones@grupo-fortaleza.com,gestiones@grupo-fortaleza.com,"GRUPO FORTALEZA, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",25569430,25569430
+2695,DANIELA ALEJANDRA GUTIERREZ,"$50,000",Mujer,45,Mensual,No,Ninguno,19/3/2025 09:44,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2696,SILVIA TENORIO,"$50,000",Mujer,40,Mensual,No,Ninguno,19/3/2025 09:38,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2697,RICARDO ALBERTO PLATERO ALVAREZ,"$50,000",Hombre,46,Mensual,No,Ninguno,19/3/2025 09:32,gestiones@grupo-fortaleza.com,gestiones@grupo-fortaleza.com,"GRUPO FORTALEZA, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",25569430,25569430
+2698,RICARDO ALBERTO PLATERO ALVAREZ,"$50,000",Hombre,46,Mensual,No,Ninguno,19/3/2025 09:30,gestiones@grupo-fortaleza.com,gestiones@grupo-fortaleza.com,"GRUPO FORTALEZA, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",25569430,25569430
+2699,RICARDO ALBERTO PLATERO ALVAREZ,"$50,000",Hombre,46,Mensual,No,Ninguno,19/3/2025 09:30,seguros@grupo-fortaleza.com,seguros@grupo-fortaleza.com,Grupo Fortaleza,2556-9430,2556-9430
+2700,RICARDO ALBERTO PLATERO ALVAREZ,"$50,000",Hombre,46,Mensual,No,Ninguno,19/3/2025 09:28,seguros@grupofo-fortaleza.com,seguros@grupofo-fortaleza.com,Grupo Fortaleza,2556-9430,2556-9430
+2701,RICARDO ALBERTO PLATERO ALVAREZ,"$50,000",Hombre,46,Mensual,No,Ninguno,19/3/2025 09:28,seguros@grupofo-fortaleza.com,seguros@grupofo-fortaleza.com,Grupo Fortaleza,2556-9430,2556-9430
+2702,MARGARITA DONADO,"$50,000",Mujer,56,Mensual,No,Ninguno,19/3/2025 09:15,jazsegurosyasistencias@gmail.com,expressprotections@gmail.com,MARIA ELENA VASQUEZ DE BONILLA,7847 7338,7847 7338
+2703,karla emilia,"$50,000",Mujer,47,Mensual,No,Ninguno,19/3/2025 09:05,jb_mision@hotmail.com,jb_mision@hotmail.com,"EXPRESS PROTECTION SEGUROS, S.A. DE C.V.",61135652,71986786
+2704,Karla Emilia,"$50,000",Mujer,47,Mensual,No,Ninguno,19/3/2025 09:04,grupoexproseguros@hotmail.com,jb_mision@hotmail.com,"EXPRESS PROTECTION SEGUROS, S.A. DE C.V.",,71986786
+2705,DIEGO BLANCO,"$250,000",Hombre,34,Mensual,No,Ninguno,18/3/2025 18:52,josselinmelendez@liconsultores.com.sv,josselinmelendez@liconsultores.com.sv,"LI CONSULTORES, S.A. DE C.V.",25347506,25347506
+2706,DIEGO BLANCO,"$250,000",Hombre,34,Mensual,No,Ninguno,18/3/2025 18:51,josselinmelendez@liconsultores.com.sv,josselinmelendez@liconsultores.com.sv,"LI CONSULTORES, S.A. DE C.V.",24357506,25347506
+2707,DIEGO FRANCISCO BLANCO TOBAL,"$250,000",Hombre,34,Mensual,No,Ninguno,18/3/2025 18:46,josselinmelendez@liconsultores.com.sv,josselinmelendez@liconsultores.com.sv,"LI CONSULTORES, S.A. DE C.V.",25347506,25347506
+2708,DIEGO FRANCISCO BLANCO TOBAL,"$250,000",Hombre,34,Mensual,No,Ninguno,18/3/2025 18:46,josselinmelendez@liconsultores.com.sv,josselinmelendez@liconsultores.com.sv,"LI CONSULTORES, S.A. DE C.V.",25347506,25347506
+2709,DIEGO FRANCISCO BLANCO TOBAL,"$250,000",Hombre,34,Mensual,No,Ninguno,18/3/2025 18:45,josselinmelendez@liconsultores.com.sv,josselinmelendez@liconsultores.com.sv,"LI CONSULTORES, S.A. DE C.V.",25347506,25347506
+2710,Luis Roberto Martínez,"$250,000",Hombre,44,Mensual,Sí,3 o más,18/3/2025 18:41,josselinmelendez@liconsultores.com.sv,,"LI CONSULTORES, S.A. DE C.V.",25347506,
+2711,Henry Oswaldo Galindo Machuca,"$250,000",Hombre,26,Mensual,Sí,Ninguno,5/5/2025 15:15,,malwih.asesores@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,72002027
+2712,Miguel Ángel Artiga Ferrufino,"$250,000",Hombre,45,Mensual,Sí,Ninguno,5/5/2025 16:02,,ronald.rivera@beyouasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,76202887
+2713,THELMA PATRICIA ZEPEDA SANDOVAL,"$250,000",Mujer,32,Mensual,No,Ninguno,5/5/2025 16:28,elisaticas@gmail.com,thelma930225@gmail.com,ELISA MARIA TICAS,78555793,77431163
+2714,Ernesto Velas,"$100,000",Hombre,45,Mensual,Sí,1,5/5/2025 18:24,beatriz.sorianoe@gmail.com,Ernesto Velasquez,Beatriz Soriano,77867336,77867336
+2715,JUAN CARLOS CAMPOS GONZALEZ,"$250,000",Hombre,29,Mensual,Sí,1,6/5/2025 08:42,administracion@contactosegurossv.com,administracion@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",0,0
+2716,CARLOS MIGUEL PEREZ YANEZ,"$100,000",Hombre,23,Mensual,No,Ninguno,6/5/2025 09:20,MCDONALD@SEGUROINVERSIONES.COM,MCDONALD@SEGUROINVERSIONES.COM,KEVIN MC. DONALD SOTELO GÓMEZ,,74505742
+2717,JOSUE ADALBERTO ROMERO FUENTES,"$100,000",Hombre,25,Mensual,Sí,Ninguno,6/5/2025 09:33,MCDONALD@SEGUROINVERSIONES.COM,MCDONALD@SEGUROINVERSIONES.COM,KEVIN MC. DONALD SOTELO GÓMEZ,,74505742
+2718,Guadalupe de Siguenza,"$100,000",Mujer,60,Mensual,Sí,Ninguno,6/5/2025 09:57,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+2719,Bryan Mauricio Siguenza Merino ,"$100,000",Hombre,28,Mensual,No,Ninguno,6/5/2025 10:03,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+2720,Bryan Mauricio Siguenza Merino ,"$250,000",Hombre,28,Mensual,No,Ninguno,6/5/2025 10:05,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+2721,KARLA MARIA FUENTES,"$50,000",Mujer,26,Mensual,No,Ninguno,6/5/2025 10:35,wendydiaz@grupo-fortaleza.com,wendydiaz@grupo-fortaleza.com,GRUPO FORTALEZA S.A. DE C.V.,25569430,25569430
+2722,JOHAMY LIZBETH GARCIA GOMEZ,"$50,000",Mujer,24,Mensual,No,Ninguno,6/5/2025 10:39,expressprotections@gmail.com,operativojazsegurosyasistencia@gmail.com,"EXPRESS PROTECTION SEGUROS, S.A. DE C.V.",78477338,78477338
+2723,Gustavo Adolfo Canales Velasco,"$50,000",Hombre,33,Mensual,Sí,Ninguno,6/5/2025 10:46,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2724,Lucy Abigail Ascencio,"$50,000",Mujer,22,Mensual,No,Ninguno,6/5/2025 11:08,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+2725,Iliana Yasmin Lemus Garcia,"$250,000",Hombre,47,Mensual,No,Ninguno,6/5/2025 13:13,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,7951 0515
+2726,ELMER IVAN ZELAYA CHEVEZ,"$500,000",Hombre,43,Mensual,Sí,2,6/5/2025 13:29,,kimberlymelendez@outlook.es,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78796842
+2727,Rolando Barrientos,"$50,000",Hombre,46,Mensual,Sí,2,6/5/2025 14:02,,-,Dinora de Diaz,,-
+2728,Soraya Yamileth Salazar Mejía,"$50,000",Mujer,38,Mensual,No,2,6/5/2025 15:40,cguerreromdz@gmail.com,cguerreromdz@gmail.com,Claudia María Guerrero de Mendoza,71400062,71400062
+2729,BRENDA LUZ BURGOS DE AQUINO,"$50,000",Mujer,34,Mensual,No,Ninguno,6/5/2025 15:50,wendycaro.medrano@gmail.com,burgos.brenda12@gmail.com,WENDY CAROLINA MEDRANO DÍAZ,71188491,78629664
