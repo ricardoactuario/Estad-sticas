@@ -1,0 +1,31 @@
+id,SOLICITANTE,SUMA_ASEGURADA,GÉNERO,EDAD,CLASIFICACIÓN,COBERTURAS_ADICIONALES,FECHA_Y_HORA,CORREO_DEL_ASESOR,CORREO_DEL_SOLICITANTE,NOMBRE_DEL_ASESOR,TELÉFONO_DEL_ASESOR,TELÉFONO_DEL_SOLICITANTE
+1,Ricardo Alberto Hidalgo Canjura,"$25,000",Hombre,62,Riesgo C,Sí,20/3/2025 18:16,renemartinex@gmail.com,renemartinex@gmail.com,RENÉ ALFREDO MARTÍNEZ RUIZ,77548723,77548723
+2,GRUPO CONCORDIA,"$25,000",Hombre,62,Riesgo A,Sí,21/3/2025 10:35,,-,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,-
+3,RICARDO ALBERTO HIDALGO CANJURA,"$25,000",Hombre,62,Riesgo B,Sí,21/3/2025 15:23,renemartinex@gmail.com,renemartinex@gmail.com,,77548723,77548723
+4,SILVIA TENORIO,"$25,000",Mujer,40,Riesgo A,Sí,21/3/2025 15:24,,-,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,-
+5,KARLA,"$25,000",Hombre,50,Riesgo A,No,26/3/2025 15:25,,KAZUCA@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,78872405
+6,JULIO,"$25,000",Hombre,63,Riesgo A,Sí,26/3/2025 15:30,,KAZUCA@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,78872405
+7,JULIO,"$25,000",Hombre,63,Riesgo B,Sí,26/3/2025 15:31,,KAZUCA@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,78872405
+8,JULIO,"$25,000",Hombre,63,Riesgo A,Sí,26/3/2025 15:32,,KAZUCA@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,78872405
+9,HECTOR,"$25,000",Hombre,63,Riesgo B,Sí,26/3/2025 15:37,,KAZUCA@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,78872405
+10,JUAN,"$25,000",Hombre,63,Riesgo B,Sí,26/3/2025 15:41,,KAZUCA@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,78872405
+11,PORFIRIO,"$25,000",Hombre,62,Riesgo B,Sí,26/3/2025 15:42,,KAZUCA@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,78872405
+12,KIRI,"$25,000",Hombre,62,Riesgo B,Sí,26/3/2025 15:47,,KAZUCA@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,78872405
+13,KEIRI,"$25,000",Hombre,61,Riesgo B,Sí,26/3/2025 15:47,,KAZUCA@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,78872405
+14,CRISTIAN TURCIOS,"$50,000",Hombre,32,Riesgo A,Sí,27/3/2025 10:05,,inkjetventas@hotmail.com,MANUEL QUEZADA,,73024099
+15,A&r,"$25,000",Hombre,46,Riesgo C,Sí,7/4/2025 13:42,Grconsultoresenseguros@gmail.com,Grconsultoresenseguros@gmail.com,LISSETH CAROLINA ROMERO DE GONZÁLEZ,,70918067
+16,JOSE FERNANADO QUINTANILLA VASQUEZ,"$25,000",Hombre,24,Riesgo A,Sí,11/4/2025 16:30,mhenriquez.seguros@gmail.com,jfernandoqvasquez@gmail.com,CINDY MELISSA HENRÍQUEZ ALFARO,79891262,6970-9789
+17,ROBERTO ALEJANDRO SUAREZ CANIZALEZ,"$25,000",Hombre,23,Riesgo A,Sí,11/4/2025 16:54,mhenriquez.seguros@gmail.com,rascdot@proton.me,CINDY MELISSA HENRÍQUEZ ALFARO,7989-1262,77995297
+18,ROBERTO BENJAMIN OLIVARES CLAVEL,"$25,000",Hombre,25,Riesgo A,Sí,11/4/2025 16:59,mhenriquez.seguros@gmail.com,benjamin.oclavel@gmail.com,CINDY MELISSA HENRÍQUEZ ALFARO,,+503 6430 6413
+19,SALVADOR ERNESTO ESCOBAR LARREYNAGA,"$25,000",Hombre,28,Riesgo A,Sí,14/4/2025 12:40,mhenriquez.seguros@gmail.com,salvador.77@hotmail.es,CINDY MELISSA HENRÍQUEZ ALFARO,79891262,6007-2592
+20,SALVADOR ERNESTO ESCOBAR LARREYNAGA,"$25,000",Hombre,28,Riesgo A,Sí,21/4/2025 00:05,mhenriquez.seguros@gmail.com,mhenriquez.seguros@gmail.com,CINDY MELISSA HENRÍQUEZ ALFARO,79891262,79891262
+21,ARLON JAVIER SARAVIA DOÑAN,"$25,000",Hombre,26,Riesgo A,No,22/4/2025 09:19,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+22,Rene Edgardo del Valle Coto,"$25,000",Hombre,61,Riesgo C,Sí,23/4/2025 12:14,idesalazar@ivsasesorias.com,idesalazar@ivsasesorias.com,Sonia Ivette Varela de Salazar,22460498,78385387
+23,Rene Edgardo del Valle Coto,"$25,000",Hombre,61,Riesgo C,Sí,23/4/2025 12:19,idesalazar@ivsasesorias.com,idesalazar@ivsasesorias.com,Sonia Ivette Varela de Salazar,78385387,78385387
+24,pedro,"$25,000",Hombre,63,Riesgo A,Sí,24/4/2025 12:45,,alkeor@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,78872406
+25,Claudia Hernández,"$25,000",Mujer,33,Riesgo A,Sí,24/4/2025 13:12,,clau.mediina8@gmsil.com,CLAUDIA MARÍA HERNÁNDEZ MEDINA,,77658144
+26,ROBERTO OLOVARES,"$25,000",Hombre,25,Riesgo A,Sí,28/4/2025 16:34,,AHENRIQUEZ@SEATLAN.SV,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,0
+27,roberto olivares,"$25,000",Hombre,25,Riesgo A,Sí,28/4/2025 16:35,,AHENRIQUEZ@SEASTLAN.SV,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,0
+28,ADÁN ABRAHAM ARGUETA PRUDENCIO,"$25,000",Hombre,26,Riesgo C,Sí,28/4/2025 16:52,,XXXXXX@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,XXXXXXXX
+29,Rodolfo Vladimir Henríquez Ventura,"$25,000",Hombre,38,Riesgo B,Sí,29/4/2025 20:50,,acas.servicios@gmail.com,RODOLFO VLADIMIR HENRIQUEZ VENTURA,,76272294
+30,KARLA,"$25,000",Mujer,29,Riesgo A,Sí,2/5/2025 11:52,,OBVGF@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguro de Personas",,67893443
