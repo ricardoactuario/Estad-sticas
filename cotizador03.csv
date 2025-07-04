@@ -2460,3 +2460,58 @@ id,SOLICITANTE,SUMA_ASEGURADA,GÉNERO,EDAD,FORMA_DE_PAGO,CÓNYUGE,HIJOS_DEPENDIE
 4356,KATHERINE MARTINEZ,"$100,000",Mujer,28,Mensual,Sí,Ninguno,03/07/2025 14:19:11,,sfenn@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79892781
 4357,Jessica Lizbeth Perez de Catalan,"$100,000",Mujer,27,Mensual,No,Ninguno,03/07/2025 14:24:15,,portillofercho@gmail.com,GERMAN FERNANDO PORTILLO LARA,,78034054
 4358,ANDREA ALEJANDRA MORALES MANZANO,"$500,000",Mujer,37,Mensual,No,Ninguno,03/07/2025 14:30:26,,danilocarranza@ffsegurosasesores.com,NORMA CONCEPCIÓN FUENTES DE FIGUEROA,,79306327
+4359,ANDREA ALEJANDRA MORALES MANZANO,"$100,000",Mujer,37,Mensual,No,Ninguno,03/07/2025 14:37:40,,danilocarranza@ffsegurosasesores.com,NORMA CONCEPCIÓN FUENTES DE FIGUEROA,,79306327
+4360,JOSE NAPOLEON BAIRES PORTILLO,"$250,000",Hombre,35,Mensual,Sí,2,03/07/2025 14:39:13,gerencia@rctuseguro.com,operaciones@rctuseguro.com,RODRIGO ALEJANDRO CHACÓN,78531259,78531259
+4361,MICHELLE GUARDADO,"$50,000",Mujer,39,Mensual,No,1,03/07/2025 14:48:11,,michyguardado@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,72375050
+4362,ETHEL GRACIELA RODRIGUEZ AMAYA,"$100,000",Hombre,27,Mensual,Sí,2,03/07/2025 14:58:30,,seguroskarlajoveloficina@hotmail.com,KARLA ISOLET JOVEL GÁMEZ,,79882132
+4363,ETHEL GRACIELA RODRIGUEZ AMAYA,"$100,000",Mujer,27,Mensual,Sí,2,03/07/2025 14:59:51,,seguroskarlajoveloficina@hotmail.com,KARLA ISOLET JOVEL GÁMEZ,,79882132
+4364,JENNIFER CAROLINA RECINOS,"$250,000",Mujer,28,Mensual,No,Ninguno,03/07/2025 15:21:40,copiabg@gmail.com,copiabg@gmail.com,LINDA BLANCO,78944386,78944386
+4365,JENNIFER CAROLINA RECINOS,"$500,000",Mujer,28,Mensual,No,Ninguno,03/07/2025 15:23:30,copiabg@gmail.com,copiabg@gmail.com,LINDA BLANCO,78944386,78944386
+4366,CARMEN EUGENIA TREMINIO REYES ,"$100,000",Mujer,29,Mensual,No,Ninguno,03/07/2025 15:23:48,,cjvillacorta@av-seguros.com,HECTOR VALLECILLOS ,,71630943
+4367,CRISTINA URRUTIA,"$100,000",Mujer,46,Mensual,No,Ninguno,03/07/2025 15:24:47,,hmvallecillos@av-seguros.com,HÉCTOR MAURICIO VALLECILLOS JOVEL,,72810204
+4368,RAFAEL ANTONIO TREMINIO ,"$100,000",Hombre,32,Mensual,No,Ninguno,03/07/2025 15:25:47,,cjvillacorta@av-seguros.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71630943
+4369,MARTA EUGENIA ANDRADE DE RIVERA,"$100,000",Mujer,64,Mensual,No,Ninguno,03/07/2025 15:42:57,,hmvallecillos@av-seguros.com,HÉCTOR MAURICIO VALLECILLOS JOVEL,,72810204
+4370,MARINA STEFHANNIE PAREDES LEMUS,"$50,000",Mujer,32,Mensual,No,1,03/07/2025 15:44:36,DMORALES@SEATLAN.SV,vanegasmarina24@gmail.com,DAYSI MORALES DE BENAVIDES ,7851-7460,71298074
+4371,Alexa Victoria Zelaya Reyes,"$50,000",Mujer,31,Mensual,No,1,03/07/2025 16:14:29,rquintanilla@ras.com.sv,rquintanilla@ras.com.sv,"REUNIÓN ASEGURADORA SALVADOREÑA, S.A. DE C.V.",79896108,79896108
+4372,ALMA LISSETH REYES DE ZELAYA,"$50,000",Mujer,31,Mensual,No,1,03/07/2025 16:16:06,rquintanilla@ras.com.sv,rquintanilla@ras.com.sv,"REUNIÓN ASEGURADORA SALVADOREÑA, S.A. DE C.V.",25019926,79896108
+4373,CAROLINA MARIA CARRANZA CARBALLO,"$250,000",Mujer,24,Mensual,No,Ninguno,03/07/2025 16:17:48,,info@seguros-soluciones.com,MAURICIO ADALBERTO ALVARADO GUILLÉN,,76823600
+4374,HUGO ESCOBAR ORTIZ,"$50,000",Hombre,47,Mensual,No,Ninguno,03/07/2025 16:19:35,rquintanilla@ras.com.sv,rquintanilla@ras.com.sv,"REUNIÓN ASEGURADORA SALVADOREÑA, S.A. DE C.V.",25019926,79896108
+4375,CAROLINA MARIA CARRANZA CARBALLO,"$100,000",Mujer,24,Mensual,No,Ninguno,03/07/2025 16:23:01,,info@seguros-soluciones.com,MAURICIO ADALBERTO ALVARADO GUILLÉN,,76823600
+4376,Veronica Raquel Meneses Olivares,"$50,000",Mujer,32,Mensual,No,Ninguno,03/07/2025 16:29:10,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+4377,Soraya Mariela Sanchez Estrada ,"$50,000",Mujer,47,Mensual,No,Ninguno,03/07/2025 16:30:06,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+4378,Edgar Santiago Gomez Cruz ,"$50,000",Hombre,36,Mensual,No,Ninguno,03/07/2025 16:32:12,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+4379,Emerzon Rafael Avila Garcia ,"$50,000",Hombre,32,Mensual,No,Ninguno,03/07/2025 16:34:03,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+4380,Juan Jose Fuentes Castro ,"$50,000",Hombre,45,Mensual,No,Ninguno,03/07/2025 16:34:38,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+4381,Juan Jose Fuentes Castro ,"$50,000",Hombre,45,Mensual,Sí,2,03/07/2025 16:35:54,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+4382,HENRY FLORES,"$50,000",Hombre,45,Mensual,No,Ninguno,03/07/2025 18:05:49,eguzman.seguros@gmail.com,eguzman.seguros@gmail.com,ANA ELIZABETH GUZMÁN HUEZO,78568979,78568979
+4383,SALOMON CHAVARRIA ,"$50,000",Hombre,40,Mensual,No,Ninguno,03/07/2025 18:21:19,alicianavarro.elias@gmail.com,alicianavarro.elias@gmail.com,ROSA ALICIA NAVARRO ELÍAS,76903690,76903690
+4384,JOSE NAPOLEON BAIRES PORTILLO,"$100,000",Hombre,35,Mensual,Sí,2,03/07/2025 18:47:33,gerencia@rctuseguro.com,operaciones@rctuseguro.com,RODRIGO ALEJANDRO CHACON,78531259,78531259
+4385,JENY ROXANA RIVERA ALEGRIA,"$100,000",Mujer,46,Mensual,No,2,03/07/2025 20:15:50,,code.acacu@gmail.com,HENRRY ALEXANDER VÁSQUEZ,,71808390
+4386,MIRNA GRACIELATORRES TORRES,"$100,000",Mujer,29,Mensual,No,1,03/07/2025 20:21:43,,code.acacu@gmail.com,HENRRY ALEXANDER VÁSQUEZ,,71808390
+4387,Guillermo Ernesto Hernandez Estrada ,"$50,000",Hombre,51,Mensual,Sí,2,03/07/2025 20:56:23,,hl20014@ues.edu.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,75484140
+4388,Nathaly Beatriz Mauricio Guadron,"$250,000",Mujer,20,Mensual,No,Ninguno,03/07/2025 21:22:52,,segurosyfianzas.sm@gmail.com ,FRANCISCO EDUARDO MARENCO GUZMÁN,,76406085
+4389,Daniel Eduardo Mauricio Guadron,"$250,000",Hombre,18,Mensual,No,Ninguno,03/07/2025 21:26:01,,segurosyfianzas.sm@gmail.com ,FRANCISCO EDUARDO MARENCO GUZMÁN,,7640-6085 
+4390,Lorena Alvarado,"$250,000",Mujer,45,Mensual,No,Ninguno,04/07/2025 06:38:48,,ingrid.recinos@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79892018
+4391,LUIS FIGUEROA,"$50,000",Hombre,49,Mensual,No,1,04/07/2025 09:02:43,oavalos@advanceseguros.net,oavalos@advanceseguros.net,OLIVER ALAIN AVALOS ÁLVAREZ,73199999,73199999
+4392,Mauricio Rivera,"$50,000",Hombre,32,Mensual,No,Ninguno,04/07/2025 09:04:09,,mhenriquez.seguros@gmail.com,CINDY MELISSA HENRÍQUEZ ALFARO,,79891262
+4393,Calos Edgardo Rosa Pineda ,"$100,000",Hombre,43,Mensual,Sí,2,04/07/2025 09:32:22,,Portillofercho@gmail.com,German fernando portillo ,,78034054
+4394,CLAUDIA CLARIBEL MENJIVAR TOBAR,"$50,000",Mujer,44,Mensual,No,Ninguno,04/07/2025 09:38:59,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+4395,CLAUDIA CLARIBEL MENJIVAR TOBAR,"$250,000",Mujer,44,Mensual,No,Ninguno,04/07/2025 09:40:18,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+4396,JAIME DANIEL GONZALEZ ALVARENGA,"$50,000",Hombre,20,Mensual,No,Ninguno,04/07/2025 10:01:10,,claudyavasquez@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,70979653
+4397,LAURA AURNICE RIVERA DE CHACON,"$100,000",Mujer,38,Mensual,Sí,Ninguno,04/07/2025 10:04:27,,hmvallecillos@av-seguros.com,HÉCTOR MAURICIO VALLECILLOS JOVEL,,72810204
+4398,LETICIA ESMERALDA  GONZALEZ ALVARENGA,"$50,000",Hombre,51,Mensual,No,Ninguno,04/07/2025 10:07:38,,claudyavasquez@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,70979653
+4399,LETICIA ESMERALDA GONZALEZ ALVARENGA,"$50,000",Hombre,51,Mensual,No,2,04/07/2025 10:09:48,claudyavasquez@hotmail.com,claudyavasquez@hotmail.com,CLAUDIA ISABEL VASQUEZ SOTO,,7097-9653
+4400,LETICIA ESMERALDA GONZALEZ ALVARENGA,"$50,000",Mujer,51,Mensual,No,2,04/07/2025 10:40:47,claudyavasquez@hotmail.com,claudyavasquez@hotmail.com,CLAUDIA ISABEL VASQUEZ SOTO,,70979653
+4401,Gracia Rivera,"$100,000",Mujer,39,Mensual,No,Ninguno,04/07/2025 11:16:48,mzseguros.servicioalcliente@gmail.com,mzseguros.servicioalcliente@gmail.com,Astrid Mata de Zavaleta,79407815,79407815
+4402,MARIA FERNANDA MARTINEZ SANCHEZ,"$100,000",Mujer,25,Mensual,No,Ninguno,04/07/2025 11:18:08,daguilar.seguros@gmail.com,daguilar.seguros@gmail.com,DANIEL ALEJANDRO AGUILAR GUZMÁN,77485791,77485791
+4403,Gracia Maria Rivera de Gutierrez,"$100,000",Mujer,39,Mensual,No,Ninguno,04/07/2025 11:25:50,zavaleta.seguros@gmail.com,zavaleta.seguros@gmail.com,Astrid de Zavaleta,79407815,79407815
+4404,Patricia Liseth Henriquez de Herrera ,"$100,000",Mujer,35,Mensual,No,1,04/07/2025 12:08:01,daguilar.seguros@gmail.com,daguilar.seguros@gmail.com,DANIEL ALEJANDRO AGUILAR GUZMÁN,77485791,77485791
+4405,Anabel del Rosario Henriquez Hernadez,"$50,000",Mujer,41,Mensual,No,Ninguno,04/07/2025 12:14:35,ticha32@gmail.com,roberto.benavides@confia.com,ANA LETICIA RODRÍGUEZ DE MELÉNDEZ,79899658,76078393
+4406,Anabel del Rosario Henriquez Hernandez,"$50,000",Mujer,41,Mensual,No,1,04/07/2025 12:19:43,ticha32@gmail.com,roberto.benavides@confia.com,ANA LETICIA RODRÍGUEZ DE MELÉNDEZ,79899658,76078393
+4407,Anabel del Rosario Henriquez Hernandez,"$250,000",Mujer,41,Mensual,No,1,04/07/2025 12:31:05,ticha32@gmail.com,roberto.benavides@confia.com,ANA LETICIA RODRÍGUEZ DE MELÉNDEZ,79899658,76078393
+4408,Lorena Alvarado,"$50,000",Mujer,37,Mensual,No,Ninguno,04/07/2025 12:52:44,,ingrid.recinos@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79892018
+4409,Claudia Saravia,"$50,000",Mujer,44,Mensual,No,Ninguno,04/07/2025 12:58:10,,ingrid.recinos@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,72289454
+4410,Gabriela Estefany Lainez de Rivas,"$250,000",Mujer,26,Mensual,Sí,1,04/07/2025 13:26:11,,alepocasangreseguros@gmail.com,ALEJANDRA STEFANY POCASANGRE ALDANA,,79510515
+4411,Gerson Jacobo,"$100,000",Hombre,28,Mensual,No,Ninguno,04/07/2025 14:07:19,,contacto@av-seguros.com,HÉCTOR MAURICIO VALLECILLOS JOVEL,,72810204
+4412,Gerson Jacobo,"$500,000",Hombre,28,Mensual,No,Ninguno,04/07/2025 14:09:06,,contacto@av-seguros.com,HÉCTOR MAURICIO VALLECILLOS JOVEL,,72810204
+4413,Josué Santos,"$100,000",Hombre,32,Mensual,No,Ninguno,04/07/2025 14:12:13,,contacto@av-seguros.com,HÉCTOR MAURICIO VALLECILLOS JOVEL,,72810204
