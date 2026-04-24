@@ -1132,3 +1132,686 @@ id,SOLICITANTE,SUMA_ASEGURADA,EDAD,GÉNERO,TIPO_DE_RIESGO,PLAZO_DEL_SEGURO,BENEF
 1242,KARLA YANIRA GARCIA DE MARTIR,25000,44,Mujer,No Fumador,25 años,Sí,Sí,16/01/2026 12:09:40,daecseguros2526@gmail.com,daecseguros@gmail.com,DOUGLAS ARTURO ESCOBAR CORADO,,79899012
 1243,MARIO EDUARDO MARTINEZ LIMA,25000,41,Hombre,No Fumador,25 años,Sí,Sí,16/01/2026 12:21:48,daecseguros@gmail.com,daecseguros@gmail.com,DOUGLAS ARTURO ESCOBAR CORADO,79899012,79899012
 1244,Manuel Enrique Torres Candel,20000,47,Hombre,No Fumador,10 años,Sí,No,16/01/2026 13:05:16,met.vidaconsulting@gmail.com,met.vidaconsulting@gmail.com,MANUEL ENRIQUE TORRES CANDEL,79418777,79418777
+1245,Apolinario Ailon Mendez,125000,48,Hombre,No Fumador,10 años,Sí,No,16/01/2026 16:43:51,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1246,Apolinario Ailon Mendez,125000,48,Hombre,No Fumador,10 años,No,No,16/01/2026 16:45:49,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1247,ANA MAYRA FERMINA ARTIGA POSADA,190000,58,Mujer,No Fumador,20 años,Sí,No,16/01/2026 18:04:45,eguzman.seguros@gmail.com,eguzman.seguros@gmail.com,ANA ELIZABETH GUZMAN,78568979,78568979
+1248,JOSE MORENO,78000,36,Hombre,No Fumador,25 años,Sí,No,16/01/2026 19:47:37,,josejaviles21@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,73989623
+1249,FLOR DE MARIA ESCOBAR DE GUERRERO,20000,54,Mujer,No Fumador,10 años,Sí,Sí,18/01/2026 15:57:47,,keila.alegria@beyouasesores.com,"BE YOU, S.A. DE C.V.",,78419489
+1250,Marlene Elizabeth Echegoyen Alvarado,20000,41,Mujer,No Fumador,10 años,Sí,Sí,18/01/2026 16:02:49,,KEILA.ALEGRIA@BEYOUASESORES.COM,"BE YOU, S.A. DE C.V.",,78419489
+1251,Ricardo Antonio Vasquez Lopez ,20000,55,Hombre,No Fumador,10 años,Sí,Sí,18/01/2026 17:21:11,,KEILA.ALEGRIA@BEYOUASESORES.COM,"BE YOU, S.A. DE C.V.",,78419489
+1252,Samuel Alexander Mejía Delgado,20000,33,Hombre,No Fumador,10 años,Sí,Sí,18/01/2026 17:27:16,,KEILA-ALEGRIA@BEYOUASESORES.COM,"BE YOU, S.A. DE C.V.",,78419489
+1253,Samuel Alexander Mejía Delgado,20000,33,Hombre,No Fumador,10 años,Sí,Sí,18/01/2026 17:50:16,,KEILA.ALEGRIA@BEYOUASESORES.COM,"BE YOU, S.A. DE C.V.",,78419489
+1254,Marlene Elizabeth Echegoyen Alvarado,20000,41,Mujer,No Fumador,10 años,Sí,Sí,18/01/2026 17:53:51,,KEILA.ALEGRIA@BEYOUASESORES.COM,"BE YOU, S.A. DE C.V.",,78419489
+1255,JOSUE RIGOBERTO PORTILLO LOPEZ,50000,38,Hombre,No Fumador,10 años,Sí,Sí,19/01/2026 09:26:03,-,-,"ARTOLA ASESORÍA DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",-,-
+1256,JOSUE OBED ORTEZ HERNANDEZ,195000,37,Hombre,No Fumador,10 años,Sí,No,19/01/2026 09:40:17,expressprotections@gmail.com,expressprotections@gmail.com,"EXPRESS PROTECTION SEGUROS, S.A. DE C.V.",22616129,22616129
+1257,JAIME ALFARO,169500,55,Hombre,No Fumador,20 años,No,No,19/01/2026 11:29:41,JRAV.SEGUROS@GMAIL.COM,JWSEGUROS@OUTLOOK.COM,JOSE ABREGO,78948909,78901234
+1258,JAIME ALFARO,169500,55,Hombre,No Fumador,15 años,No,No,19/01/2026 12:02:09,JRAV.SEGUROS@GMAIL.COM,JWSEGUROS@OUTLOOK.COM,JOSE ABREGO,78948909,78901234
+1259,Ana Evelyn Cano Cortez,200000,34,Mujer,No Fumador,30 años,Sí,Sí,19/01/2026 12:25:43,,rarenivar@gmail.com,,,78947912
+1260,Jaime Alfaro Villegas,169500,55,Hombre,No Fumador,15 años,No,No,19/01/2026 13:55:35,jrav.seguros@gmail.com,info@terramarerestaurant .com,Jose Roberto Abrego Viana,78948909,78901234
+1261,CARLOS ALVAREZ,157500,39,Hombre,No Fumador,20 años,No,No,19/01/2026 14:22:41,JRAV.SEGUROS@GMAIL.COM,JWSEGUROS@OUTLOOK.COM,JOSE ABREGO,78948909,78901234
+1262,ALLISON NICOLE FRANCIA LEIVA,232300,29,Mujer,No Fumador,30 años,Sí,Sí,19/01/2026 16:48:17,daecseguros2526@gmail.com,daecseguros2526@gmail.com,DOUGLAS ARTURO ESCOBAR CORADO,,79899012
+1263,Roberto Eduardo Galindo Orellana ,250000,46,Hombre,No Fumador,30 años,Sí,Sí,19/01/2026 17:31:05,amm.vidaconsulting@gmail.com,amm.vidaconsulting@gmail.com,MANUEL ENRIQUE TORRES CANDEL,79418777,79418777
+1264,Roberto Eduardo Galindo Orellana ,250000,46,Hombre,No Fumador,30 años,Sí,No,19/01/2026 17:33:05,met.vidaconsulting@gmail.com,amm.vidaconsulting@gmail.com,MANUEL ENRIQUE TORRES CANDEL,79418777,79418777
+1265,ALLISON NICOLE FRANCIA GRANDE,232300,29,Mujer,No Fumador,30 años,Sí,Sí,19/01/2026 17:40:46,daecseguros2526@gmail.com,daecseguros2526@gmail.com,DOUGLAS ARTURO ESCOBAR CORADO,,79899012
+1266,JAIME ALFARO VILLEGAS,172000,55,Hombre,No Fumador,15 años,No,No,20/01/2026 11:40:50,jrav.seguros@gmail.com,info@terramarerestaurant.com,Jose Roberto Abrego Viana,78948909,78901234
+1267,SALVADOR FRANCISCO ROMERO MATA,475000,41,Hombre,No Fumador,15 años,Sí,Sí,20/01/2026 13:43:01,info@rctuseguro,info@rctuseguro.com,RODRIGO ALEJANDRO CHACÓN CAMPOS,,70895772
+1268,SALVADOR FRANCISCO ROMERO MATA ,475000,41,Hombre,No Fumador,15 años,Sí,Sí,20/01/2026 13:45:20,info@rctuseguro.com,info@rctuseguro.com,RODRIGO ALEJANDRO CHACÓN CAMPOS,70895772,70895772
+1269,Jose Gilberto Magaña Ronquillo,25000,60,Hombre,No Fumador,10 años,No,No,20/01/2026 14:26:43,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411815
+1270,MARGARITA ELIZABETH GARCIA,50000,51,Mujer,No Fumador,10 años,Sí,Sí,20/01/2026 14:57:44,,rarenivar@gmail.com,,,78947912
+1271,MARGARITA ELIZABETH GARCIA,50000,51,Mujer,No Fumador,20 años,Sí,Sí,20/01/2026 14:58:58,,rarenivar@gmail.com,,,78947912
+1272,Salvador Francisco Romero Mata,475000,41,Hombre,No Fumador,15 años,Sí,Sí,20/01/2026 15:52:21,info@rctuseguro.com,info@rctuseguro.com,RC Tu Seguro,70895772,70895772
+1273,XXXXX,150000,41,Hombre,No Fumador,10 años,Sí,Sí,21/01/2026 10:01:57,,XXXXXX@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,XXXXXXXX
+1274,Aldo Iván Rodas Morales,200000,35,Hombre,No Fumador,30 años,Sí,Sí,21/01/2026 10:43:28,veronica.escamilla@asserisa.com,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,76229093,78947912
+1275,Aldo Iván Rodas Morales,200000,35,Hombre,No Fumador,30 años,Sí,Sí,21/01/2026 10:46:55,veronica.escamilla@asserisa.com,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,76229093,78947912
+1276,Aldo Iván Rodas Morales,150000,35,Hombre,No Fumador,30 años,Sí,Sí,21/01/2026 10:47:35,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1277,Mario Ernesto Orellana,100000,29,Hombre,No Fumador,30 años,No,No,21/01/2026 11:00:55,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1278,Mario Ernesto Orellana,100000,29,Hombre,No Fumador,30 años,Sí,No,21/01/2026 11:02:55,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1279,Jose Eduardo Sanchez Lopez,200000,61,Hombre,No Fumador,10 años,No,No,21/01/2026 13:54:22,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411815
+1280,Marlene del Rosario Méndez Alas,250000,19,Mujer,No Fumador,30 años,Sí,Sí,21/01/2026 16:53:46,recepcion@segurosyfinanzas.com.sv,recepcion@segurosyfinanzas.com.sv,,,77411806
+1281,Marlene del Rosario Méndez Alas,500000,19,Mujer,No Fumador,30 años,Sí,Sí,21/01/2026 16:58:35,recepcion@segurosyfinanzas.com.sv,recepcion@segurosyfinanzas.com.sv,SEGURIDAD Y FINANZAS,,77411806
+1282,Brenda Guillermina Ramírez de Quinteros,200000,28,Mujer,No Fumador,20 años,Sí,Sí,21/01/2026 18:34:45,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1283,Kenia Iveth López Ventura,100000,38,Mujer,No Fumador,30 años,Sí,Sí,21/01/2026 20:59:07,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1284,Kenia Iveth López Ventura,100000,38,Mujer,No Fumador,20 años,Sí,Sí,21/01/2026 21:01:15,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1285,Kenia Iveth López Ventura,125000,38,Mujer,No Fumador,20 años,Sí,Sí,21/01/2026 21:01:56,,rarenivar@gmail.com,,,78947912
+1286,OSCAR GUILLERMO MORALES BARAHONA,40000,49,Hombre,No Fumador,10 años,Sí,Sí,21/01/2026 21:06:22,,rarenivar@gmail.com,,,78947912
+1287,DIEGO ALONSO ROMERO,250000,39,Hombre,No Fumador,30 años,Sí,Sí,22/01/2026 08:19:38,DAISYCHAFOYA@LICONSULTORES.COM.SV,DAISYCHAFOYA@LICONSULTORES.COM.SV,"LI CONSULTORES, S.A. DE C.V.",25347506,25347506
+1288,CARLOS FERNANDO GARCIA LEIVA ,33000,66,Hombre,No Fumador,10 años,Sí,Sí,22/01/2026 09:04:59,,JULI@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78894556
+1289,Mario Orellana,500000,39,Hombre,No Fumador,30 años,No,No,22/01/2026 09:55:34,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1290,Evelyn Martinez,150000,23,Mujer,No Fumador,15 años,No,No,22/01/2026 09:56:41,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411815
+1291,Mario Ernesto Orellana,500000,29,Hombre,No Fumador,10 años,No,No,22/01/2026 11:09:10,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1292,juan,33000,68,Hombre,No Fumador,10 años,Sí,Sí,22/01/2026 11:21:38,,JULI@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78896369
+1293,CARLOS FERNANDO GARCIA LEIVA,33000,66,Hombre,No Fumador,10 años,Sí,Sí,22/01/2026 11:30:20,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1294,RODRIGO JAVIER LI SIU AVENDAÑO,232000,32,Hombre,No Fumador,30 años,Sí,Sí,22/01/2026 12:07:45,DAISYCHAFOYA@LICONSULTORES.COM.SV,RODRIGO JAVIER LI SIU AVENDAÑO,"LI CONSULTORES, S.A. DE C.V.",25347506  ,25347506  
+1295,RODRIGO JAVIER LI SIU AVENDAÑO,261000,32,Hombre,No Fumador,30 años,Sí,Sí,22/01/2026 12:11:35,DAISYCHAFOYA@LICONSULTORES.COM.SV,DAISYCHAFOYA@LICONSULTORES.COM.SV,"LI CONSULTORES, S.A. DE C.V.",25347506,25347506
+1296,Mario Antonio Canjura Melendez ,50000,56,Hombre,No Fumador,20 años,Sí,Sí,22/01/2026 15:32:24,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77410548
+1297,Mario Antonio Canjura Melendez  ,50000,56,Hombre,No Fumador,20 años,Sí,No,22/01/2026 15:35:45,,sefi,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77410548
+1298,Mario Antonio Canjura Melendez ,50000,56,Hombre,No Fumador,20 años,No,No,22/01/2026 15:37:21,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77410548
+1299,Mario Antonio Canjura ,50000,56,Hombre,No Fumador,10 años,Sí,No,22/01/2026 16:53:44,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77410548
+1300,Mario Antonio Canjura Melendez ,50000,56,Hombre,No Fumador,20 años,Sí,No,22/01/2026 16:54:46,,sefi@segurosyfinanzas.com.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77410548
+1301,Mario Antonio Canjura Melendez ,50000,56,Hombre,No Fumador,20 años,No,No,22/01/2026 17:03:34,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77410548
+1302,Mauricio Antonio Reyes,100000,60,Hombre,No Fumador,15 años,No,No,23/01/2026 08:43:11,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1303,Mauricio Antonio Reyes,165000,60,Hombre,No Fumador,15 años,No,No,23/01/2026 08:50:10,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1304,Mauricio Antonio Reyes,165000,60,Hombre,No Fumador,15 años,No,No,23/01/2026 09:19:09,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1305,TERESA DE JESUS LINARES DE NAVARRO,100000,54,Mujer,No Fumador,10 años,Sí,Sí,23/01/2026 10:34:34,tony.chavez@aragondeseguros.com,info@aragondeseguros.com,,77874300,226618000
+1306,SERGIO ARMANDO NAVARRO APARICIO,100000,59,Hombre,No Fumador,10 años,Sí,No,23/01/2026 10:39:07,TONY.CHAVEZ@ARAGONDESEGUROS.COM,INFO@ARAGONDESEGUROS.COM,TONY CHÁVEZ ARAGÓN,77874300,22661800
+1307,SERGIO ARMANDO NAVARRO APARICIO,100000,59,Hombre,No Fumador,10 años,No,No,23/01/2026 10:44:53,TONY.CHAVEZ@ARAGONDESEGUROS.COM,INFO@ARAGONDESEGUROS.COM,TONY CHÁVEZ ARAGÓN,77874300,22661800
+1308,TERESA DE JESUS LINARES DE NAVARRO,100000,54,Hombre,No Fumador,10 años,No,No,23/01/2026 10:54:50,TONY.CHAVEZ@ARAGONDESEGUROS.COM,INFO@ARAGONDESEGUROS.COM,TONY CHÁVEZ ARAGÓN,77874300,22661800
+1309,Roberto Herrera ,100000,39,Hombre,No Fumador,30 años,Sí,Sí,23/01/2026 11:34:41,dmonge@dmasesores-seguros.com,dmonge@dmasesores-seguros.com,DM Asesores de Seguros S. A. de C.V.,,77367000
+1310,Roberto Herrera,100000,39,Hombre,No Fumador,30 años,No,No,23/01/2026 11:37:11,dmonge@dmasesores-seguros.com,dmonge@dmasesores-seguros.com,"DM Asesores de Seguros, S.A. de C.V.",,77367000
+1311,ARLON,10000,27,Hombre,No Fumador,15 años,Sí,Sí,23/01/2026 12:00:22,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1312,Mario Canjura,50000,56,Hombre,No Fumador,20 años,Sí,No,23/01/2026 12:38:44,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1313,YESENIA SOFIA ALVARENGA,10000,34,Mujer,No Fumador,10 años,Sí,Sí,23/01/2026 16:16:49,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1314,SALVADOR FRANCISCO ROMERO MATA,500000,41,Hombre,No Fumador,15 años,Sí,Sí,23/01/2026 16:42:33,info@rctuseguro.com,info@rctuseguro.com,RODRIGO ALEJANDRO CHACÓN CAMPOS,70895772,70895772
+1315,CARLOS RODRIGUEZ,109500,29,Hombre,No Fumador,30 años,Sí,Sí,26/01/2026 08:53:20,,carlos.majano@outlook.com,GABRIEL ANTONIO RIVERA RAMOS,,78387601
+1316,GABRIEL RIVERA,50000,29,Hombre,No Fumador,30 años,Sí,No,26/01/2026 09:09:01,,productoslocales@resuelve.com.sv,GABRIEL ANTONIO RIVERA RAMOS,,78765780
+1317,CARLOS MAJANO,109500,29,Hombre,No Fumador,30 años,Sí,No,26/01/2026 09:23:01,,gabriel130296@gmail.com,GABRIEL ANTONIO RIVERA RAMOS,,71279993
+1318,CHRITIAN CLAROS,123000,45,Hombre,No Fumador,10 años,Sí,No,26/01/2026 09:42:20,expressprotections@gmail.com,expressprotections@gmail.com,"EXPRESS PROTECTION SEGUROS, S.A. DE C.V.",22616129,22616129
+1319,Virginia Gomez Elias,20000,56,Mujer,No Fumador,15 años,Sí,Sí,26/01/2026 17:43:21,,gomezeliasjudith@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77464445
+1320,carlos canas,50000,56,Hombre,No Fumador,15 años,No,Sí,26/01/2026 18:23:35,,carlos@magaluci.info,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78401589
+1321,a,100000,44,Hombre,No Fumador,10 años,Sí,No,27/01/2026 12:40:48,,a,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77777777
+1322,ERIK MIRANDA,220000,33,Hombre,No Fumador,25 años,Sí,No,27/01/2026 13:56:28,danny.hperez@outlook.com,danny.hperez@outlook.com,DANNY ISRAEL HERNÁNDEZ PÉREZ,77302704,77302704
+1323,Yolanda Esperanza Garcia,50000,66,Mujer,No Fumador,10 años,No,No,27/01/2026 14:47:36,,admon@segurosyfinanzas.com.sv,,,77411815
+1324,Yolanda Esperenza Garcia,50000,66,Mujer,No Fumador,10 años,No,No,27/01/2026 14:49:38,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1325,Yolanda Esperanza Garcia,50000,66,Mujer,No Fumador,10 años,No,No,27/01/2026 14:49:45,,admon@segurosyfinanzas.com.sv,,,77411815
+1326,MIRIAN YANIRA COLINDRE DE CASTELLANO,55000,67,Mujer,No Fumador,10 años,Sí,Sí,27/01/2026 15:10:02,,-,"ARTOLA ASESORÍA DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,-
+1327,LISSETTE CAMPOS,100000,37,Mujer,No Fumador,10 años,Sí,Sí,27/01/2026 20:02:10,,lissgonzalez6@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,70000000
+1328,ELMER OCTAVIO HERNANDEZ REYES ,100000,63,Hombre,No Fumador,10 años,Sí,No,27/01/2026 22:41:01,gutierrezalex8@hotmail.com,gutierrezalex8@hotmail.com,RAMÓN ALEXIS GUTIÉRREZ RAMOS,77493090,77493090
+1329,ELMER OCTAVIO HERNANDEZ REYES ,200000,63,Hombre,No Fumador,10 años,Sí,No,27/01/2026 22:44:39,gutierrezalex8@hotmail.com,gutierrezalex8@hotmail.com,RAMÓN ALEXIS GUTIÉRREZ RAMOS,77493090,77493090
+1330,ELMER OCTAVIO HERNANDEZ REYES ,150000,63,Hombre,No Fumador,10 años,Sí,No,27/01/2026 22:45:46,gutierrezalex8@hotmail.com,gutierrezalex8@hotmail.com,RAMÓN ALEXIS GUTIÉRREZ RAMOS,77493090,77493090
+1331,JESSEL GUADALUPE ALEMAN ORELLANA ,200000,30,Mujer,No Fumador,30 años,Sí,Sí,28/01/2026 08:47:50,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1332,Jose David Funes Gomez ,50000,30,Hombre,No Fumador,10 años,Sí,Sí,28/01/2026 10:16:23,,Josefunesgomez96@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,6844 7672 
+1333,José David Funes Gómez,50000,30,Hombre,No Fumador,10 años,Sí,Sí,28/01/2026 10:23:53,,josefunesgomez96@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,68447672
+1334,LORENA PATRICIA ROMERO,250000,64,Mujer,No Fumador,25 años,Sí,No,28/01/2026 11:30:35,,whinsurance@outlook.es,JULIO CESAR CANIZÁLEZ HENRÍQUEZ,,79287529
+1335,Luis Noyola,100000,36,Hombre,No Fumador,20 años,Sí,No,28/01/2026 15:50:42,,ljnoyolap@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78592229
+1336,CESAR RONY CALEB CANIZALEZ LOPEZ,250000,39,Hombre,No Fumador,25 años,Sí,Sí,29/01/2026 09:46:25,rcanizalez@ibrokergroup.com,info@ibrokergroup.com,CÉSAR RONY CALEB CANIZALEZ LÓPEZ,7112-4978,7112-4978
+1337,FREDDYS WINN MARTINEZ,65350,58,Hombre,No Fumador,15 años,No,Sí,29/01/2026 11:13:12,,seguroskarlajoveloficina@hotmail.com,KARLA ISOLET JOVEL GÁMEZ,,79882132
+1338,FREDDYS WINN MARTINEZ,65350,58,Hombre,No Fumador,15 años,No,Sí,29/01/2026 11:14:11,,seguroskarlajoveloficina@hotmail.com,KARLA ISOLET JOVEL GÁMEZ,,79882132
+1339,Carlos Ernesto Osegueda Alvarez,100000,45,Hombre,No Fumador,30 años,No,No,29/01/2026 15:15:27,francisco.alvarez@segurosam.net,francisco.alvarez@segurosam.net,FRANCISCO ALONSO ALVAREZ CAMPOS,79234094,79234094
+1340,ANA CECILIA PALACIOS ,50000,64,Mujer,No Fumador,25 años,Sí,Sí,29/01/2026 15:29:47,,marian.ubau@gmail.com,Marian Ubau,,76779521
+1341,Christian Claros ,141805,45,Hombre,No Fumador,10 años,Sí,Sí,30/01/2026 09:04:48,grupoexproseguros@hotmail.com,jb_mision@hotmail.com,"EXPRESS PROTECTION SEGUROS, S.A. DE C.V.",22616129,71986786
+1342,Christian Claros ,141805,45,Hombre,No Fumador,10 años,Sí,No,30/01/2026 09:08:47,grupoexproseguros@gmail.com,jb_mision@hotmail.com,"EXPRESS PROTECTION SEGUROS, S.A. DE C.V.",22616129,71986786
+1343,Carlos Augusto Rivera Cuellar,38000,19,Hombre,No Fumador,10 años,Sí,Sí,30/01/2026 10:28:55,,jr0584487@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,75402367
+1344,Carlos Augusto Rivera Cuellar,38000,19,Hombre,No Fumador,10 años,Sí,Sí,30/01/2026 10:33:01,,jr0584487@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,75402367
+1345,WALTER MORAN,25000,50,Hombre,No Fumador,25 años,Sí,Sí,30/01/2026 15:11:32,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1346,Walter Moran revelo ,20000,50,Hombre,No Fumador,25 años,No,No,30/01/2026 15:19:29,,asistentepresidencia@zyhasesores.com,"Z Y H ASESORES, S.A. DE C.V.",78062064,78062064
+1347,walter Moran revelo,30000,50,Hombre,No Fumador,25 años,No,No,30/01/2026 15:21:04,,asistentepresidencia@zyhasesores.com,"Z Y H ASESORES, S.A. DE C.V.",78062064,78062064
+1348,Walter Moran revelo,30000,50,Hombre,No Fumador,25 años,No,Sí,30/01/2026 15:24:55,,asistentepresidencia@zyhasesores.com,"Z Y H ASESORES, S.A. DE C.V.",78062064,78062064
+1349,GUILLERMO MAURICIO RODRIGUEZ MARTINEZ,500000,41,Hombre,No Fumador,30 años,Sí,Sí,30/01/2026 19:11:58,LU-CH-ORTIZ@HOTMAIL.COM,lu-ch-ortiz@hotmal.com,LUIS ERNESTO ORTIZ ALFARO,77456498,77456498
+1350,Alma,10000,40,Mujer,No Fumador,10 años,Sí,Sí,31/01/2026 23:35:28,,seguroatorres@gmail.com,ALMA LILA TORRES DE BOQUÍN,,72030036
+1351,juan portillo,10000,47,Hombre,No Fumador,10 años,Sí,Sí,01/02/2026 22:26:52,,japort2018@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,72090732
+1352,FRANCISCO JOSE QUINTANILLA CASTRO,103000,46,Hombre,No Fumador,25 años,Sí,No,02/02/2026 08:22:56,,info@crselsalvador.com.sv,CRS SEGUROS EL SALVADOR,,7160 9301
+1353,MOISES WILFREDO LEIVA RAMIREZ,10000,24,Hombre,No Fumador,10 años,Sí,Sí,02/02/2026 10:09:20,,moises251314@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71446696
+1354,MOISES WILFREDO LEIVA RAMIREZ,10000,24,Hombre,No Fumador,10 años,Sí,Sí,02/02/2026 10:32:49,,moises251314@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71446696
+1355,MOISES WILFREDO LEIVA RAMIREZ,15000,24,Hombre,No Fumador,10 años,Sí,Sí,02/02/2026 10:36:58,,moises251314@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71446696
+1356,EDUARDO JOSE BENITEZ GOMEZ ,100000,30,Hombre,No Fumador,15 años,Sí,Sí,02/02/2026 13:06:21,,segurosyfianzas.sm@gmail.com,FRANCISCO EDUARDO MARENCO GUZMÁN,,76406085
+1357,Bernie,10000,59,Mujer,No Fumador,10 años,Sí,Sí,02/02/2026 13:40:16,,sergio.segurosrpc@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,22635911
+1358,vanessa vasquez,100000,35,Mujer,No Fumador,15 años,Sí,Sí,02/02/2026 13:40:34,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1359,Berni,10000,59,Mujer,No Fumador,10 años,No,No,02/02/2026 13:41:35,,sergio.segurosrpc@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,22635911
+1360,Juan Carlos Rodríguez,150000,52,Hombre,No Fumador,20 años,No,No,02/02/2026 14:30:25,,sergio.segurosrpc@gmail.cm,"REPRESENTACIONES Y PROMOCIONES COMERCIALES, S.A. DE C.V.",,2263-5911
+1361,ARMANDO CHAVEZ MAYORGA,100000,64,Hombre,No Fumador,25 años,Sí,Sí,02/02/2026 15:48:50,,whinsurance@outlook.es,WENDY VERÓNICA HERNÁNDEZ ESPINOZA C/P VERÓNICA HERNÁNDEZ ESPINOZA,,79287529
+1362,Berni,25000,59,Mujer,No Fumador,10 años,No,No,02/02/2026 16:04:02,,sergio.segurosrpc@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,22635911
+1363,Berni,25000,59,Mujer,No Fumador,20 años,No,No,02/02/2026 16:05:00,,sergio.segurosrpc@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,22635911
+1364,WENDY LISSETTE CASTILLO LOPEZ,25000,46,Mujer,No Fumador,20 años,Sí,Sí,02/02/2026 18:42:34,,mbcorredores3@gmail.com,"MASTER BROKER, S.A. DE C.V.",,71881889
+1365,Ricardo Monterroza,100000,69,Hombre,No Fumador,10 años,Sí,Sí,02/02/2026 22:30:42,,ryp.asesoresdeseguros@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78506925
+1366,CARLOS ENRIQUE VASQUEZ LAINEZ,25000,34,Hombre,No Fumador,25 años,Sí,Sí,03/02/2026 10:11:42,,cevasquez3491@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,75863780
+1367,LUIS ALONSO RODRIGUEZ MELENDEZ ,430000,59,Hombre,No Fumador,15 años,Sí,Sí,03/02/2026 13:04:57,,-,CARLOS HUMBERTO OROZCO HERNÁNDEZ,,-
+1368,LUIS ALONSO RODRIGUEZ MELENDEZ ,430000,59,Hombre,No Fumador,15 años,No,No,03/02/2026 13:32:57,,-,CARLOS HUMBERTO OROZCO HERNÁNDEZ,,-
+1369,Joel Romeo Martínez Rubio,150000,60,Hombre,No Fumador,20 años,No,No,03/02/2026 15:14:19,,admonskyseguros@gmail.com,Reynaldo Ernesto Alfaro Calderon,,22790335
+1370,Joel Romeo Martínez Rubio,75000,60,Hombre,No Fumador,20 años,No,No,03/02/2026 15:16:50,,admonskyseguros@gmail.com,Reynaldo Ernesto Alfaro Calderon,,22790335
+1371,JAIME OTONIEL ESQUIVEL RAMOS,25000,62,Hombre,No Fumador,30 años,Sí,No,03/02/2026 21:18:45,mirnaorozco67@gmail.com,mirnaorozco67@gmail.com,Mirna Elizabeth Orozco Hernández,79079735,79079735
+1372,Mirna Elizabeth Orozco Hernández,25000,58,Mujer,No Fumador,20 años,Sí,No,03/02/2026 21:34:45,mirnaorozco67@gmail.com,mirnaorozco67@gmail.com,Mirna Elizabeth Orozco Hernádez,79079735,79079735
+1373,JAIME OTONIEL ESQUIVEL RAMOS,25000,62,Hombre,No Fumador,25 años,Sí,No,03/02/2026 21:44:06,mirnaorozco67@gmail.com,mirnaorozco67@gmail.com,Mirna Elizabeth Orozco Hernández,79079735,79079735
+1374,MIRNA ELIZABETH OROZCO HERNANDEZ,25000,58,Mujer,No Fumador,30 años,Sí,Sí,03/02/2026 22:42:36,mirnaorozco67@gmail.com,mirnaorozco67@gmail.com,Mirna Elizabeth Orozco Hernández,79079735,79079735
+1375,LUIS ALONSO RODRIGUEZ MELENDEZ,430000,59,Hombre,No Fumador,15 años,No,No,04/02/2026 08:38:17,,--,CARLOS HUMBERTO OROZCO HERNÁNDEZ,,-
+1376,CARLOS ALBERTO CRUZ HERNANDEZ,400000,50,Hombre,No Fumador,15 años,Sí,Sí,04/02/2026 09:43:07,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1377,CARLOS ALBERTO CRUZ HERNANDEZ,400000,50,Hombre,No Fumador,15 años,No,No,04/02/2026 09:50:36,,-,ROSA ALICIA NAVARRO ELÍAS,,-
+1378,Sonia Karina Tesorero de Vides,152000,56,Mujer,No Fumador,25 años,No,No,04/02/2026 12:18:43,,sergio.segurosrpc@gmail.com,"REPRESENTACIONES Y PROMOCIONES COMERCIALES, S.A. DE C.V.",,22635911
+1379,MANUEL ANTONIO CAMPOS FUENTES,70000,38,Hombre,No Fumador,10 años,Sí,No,04/02/2026 16:19:59,operativojazsegurosyasistencia@gmail.com,operativojazsegurosyasistencia@gmail.com,MARÍA ELENA VÁSQUEZ DE BONILLA,22616129,22616129
+1380,BYRON MELECIO BENITEZ CONTRERAS,200000,36,Hombre,No Fumador,20 años,Sí,Sí,04/02/2026 16:36:45,,whinsurance@outlook.es,JULIO CESAR CANIZÁLEZ HENRÍQUEZ,,79287529
+1381,Rodolfo Rodriguez Recinos,179000,52,Hombre,No Fumador,10 años,No,No,04/02/2026 16:45:46,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1382,MARIA JOSE TOBAR DE MONTOYA,150000,43,Mujer,No Fumador,25 años,No,Sí,05/02/2026 09:22:39,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1383,MARIA JOSE TOBAR DE MONTOYA,150000,43,Mujer,No Fumador,25 años,No,Sí,05/02/2026 09:25:42,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1384,ANGEL JOSE MONTOYA GONZALEZ,150000,46,Hombre,No Fumador,25 años,No,Sí,05/02/2026 09:27:17,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1385,WALTER ALEXANDER DELGADO SALMERON,73000,44,Hombre,No Fumador,10 años,No,No,05/02/2026 09:28:18,,gmarmol.asesores@gmail.com,Wilfredo Marmol Platero,,72332269
+1386,ANGEL JOSE MONTOYA GONZALEZ,150000,46,Hombre,No Fumador,25 años,No,No,05/02/2026 09:28:23,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1387,MARIA JOSE TOBAR DE MONTOYA,150000,43,Mujer,No Fumador,25 años,No,No,05/02/2026 09:29:38,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1388,Walter Alexander Delgado Salmeron,75000,44,Hombre,No Fumador,10 años,Sí,No,05/02/2026 09:31:24,,gmarmol.asesores@gmail.com,Wilfredo Marmol Platero,,72332269
+1389,Walter Alexander Delgado Salmeron,75000,44,Hombre,No Fumador,10 años,No,No,05/02/2026 09:33:44,,wal_delgado2009@yahoo.es74802638,Wilfredo Marmol Platero,,74802638
+1390,LINDA ESPERANZA CASTANEDA RODRIGUEZ ,15000,25,Mujer,No Fumador,10 años,Sí,Sí,05/02/2026 09:42:03,,lcastaneda@tecniseguros.com,"TECNI SEGUROS, S.A. DE C.V.",,22507400
+1391,BLANCA RODRIGUEZ,250000,51,Mujer,No Fumador,25 años,Sí,No,05/02/2026 12:53:57,lu-ch-ortiz@hotmail.com,lu-ch-ortiz@hotmal.com,LUIS ERNESTO ORTIZ ALFARO,77456498,77456498
+1392,PEDRO ANTONIO ZELAYA PARADA,100000,68,Hombre,No Fumador,20 años,Sí,Sí,05/02/2026 15:16:24,gutierrezalex8@hotmaiil.com,gutierrezalex8@hotmail.com,RAMÓN ALEXIS GUTIÉRREZ RAMOS,77493090,77493090
+1393,CESAR BALMORE RAMOS ROMERO,140000,38,Hombre,No Fumador,30 años,Sí,Sí,05/02/2026 16:48:02,,lu-ch-ortiz@hotmal.com,LUIS ERNESTO ORTIZ ALFARO,,77456498
+1394,CESAR BALMORE RAMOS ROMERO,140000,38,Hombre,No Fumador,15 años,Sí,No,05/02/2026 16:49:24,LU-CH-ORTIZ@HOTMAIL.COM,lu-ch-ortiz@hotmal.com,LUIS ERNESTO ORTIZ ALFARO,77456498,77456498
+1395,MARIA GOMEZ,25000,64,Mujer,No Fumador,25 años,Sí,Sí,06/02/2026 01:07:50,infomultipleseguros@gmail.com,code.acacu@gmail.com,HENRRY ALEXANDER VÁSQUEZ,71808390,71808390
+1396,Roman Zaldivar Molina,100000,67,Hombre,No Fumador,10 años,No,No,06/02/2026 09:05:00,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1397,Carlos Alexander Quiñonez Monroy,75000,49,Hombre,No Fumador,10 años,Sí,Sí,06/02/2026 09:17:06,,-,Roberto A.,,-
+1398,Tania Alejandra Garay de Quiñonez,75000,45,Mujer,No Fumador,10 años,Sí,Sí,06/02/2026 09:18:28,,-,Roberto A.,,-
+1399,Edwin Stanley Jimenez Mejía,360000,50,Hombre,No Fumador,20 años,Sí,Sí,06/02/2026 10:16:11,,mnunez@protecseg.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79883866
+1400,Edwin Stanley Jimenez Mejía,360000,50,Hombre,No Fumador,20 años,Sí,No,06/02/2026 10:17:59,,mnunez@protecseg.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79883866
+1401,William Diaz,250000,57,Hombre,No Fumador,15 años,Sí,Sí,06/02/2026 21:58:13,ryp.asesoresdeseguro@gmail.com,ryp.asesoresdeseguros@gmail.com,FLOR DEL ROSARIO RIVAS DE PANAMEÑO,78506925,78506925
+1402,William Diaz,25000,57,Hombre,No Fumador,15 años,Sí,Sí,06/02/2026 21:59:59,ryp.asesoresdeseguro@gmail.com,ryp.asesoresdeseguros@gmail.com,FLOR DEL ROSARIO RIVAS DE PANAMEÑO,78506925,78506925
+1403,Blanca Ordoñez,99975,60,Mujer,No Fumador,20 años,Sí,Sí,08/02/2026 19:14:36,,georginalopez@hotmail.es,Georgina Lopez,,62002421
+1404,Salvador Romero,475000,41,Hombre,No Fumador,15 años,Sí,Sí,09/02/2026 09:29:45,,gerencia@rctuseguro.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79851067
+1405,ALFREDO NAPOLEON NAVAS DUARTE,275000,47,Hombre,No Fumador,20 años,Sí,No,09/02/2026 10:32:23,,info@crselsalvador.com.sv,CRS SEGUROS,,7160 9301
+1406,ALFREDO NAVAS,200000,47,Hombre,No Fumador,20 años,Sí,No,09/02/2026 10:48:22,,info@crselsalvador.com.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7160 9301
+1407,ALFREDO NAPOLEON NAVAS DUARTE,200000,47,Hombre,No Fumador,20 años,Sí,No,09/02/2026 10:57:51,,info@crselsalvador.com.sv,CRS SEGUROS ,,7160 9301
+1408,Mujer 60,25000,59,Mujer,No Fumador,10 años,No,No,09/02/2026 11:31:17,,sergio.segurosrpc@gmail.com,"REPRESENTACIONES Y PROMOCIONES COMERCIALES, S.A. DE C.V.",,78780707
+1409,SALVADOR FRANCISCO ROMERO MATA,475000,41,Hombre,No Fumador,15 años,Sí,Sí,09/02/2026 14:39:55,info@rctuseguro.com,info@rctuseguro.com,RODRIGO ALEJANDRO CHACÓN CAMPOS,70895772,70895772
+1410,BRENDA ESTHER FLORES,250000,33,Mujer,No Fumador,10 años,Sí,No,09/02/2026 15:43:17,,comercial@asrconsultores.com,"ASESORES DE SEGUROS Y RECLAMOS, S.A. DE C.V.",,22543500
+1411,BRENDA FLORES,250000,33,Mujer,No Fumador,20 años,Sí,No,09/02/2026 15:45:28,,comercial@asrconsultores.com,"ASESORES DE SEGUROS Y RECLAMOS, S.A. DE C.V.",,22543500
+1412,DINORA ESCOBAR,25000,63,Mujer,No Fumador,15 años,No,No,09/02/2026 16:38:47,,Patricia.grande@egseguros.net,EVELIN PATRICIA GRANDE SOTO,,78443857
+1413,Walter Sandoval,50000,69,Hombre,No Fumador,30 años,No,No,09/02/2026 18:56:45,reyes.josecarlos1@gmail.com,reyes.josecarlos1@gmail.com,José Carlos Reyes,72222501,72222501
+1414,Carlo Manuel Aguilar Valdivieso,250000,55,Hombre,No Fumador,20 años,Sí,Sí,09/02/2026 19:15:06,,georginalopez@hotmail.es,GEORGINA JEANETTE XIOMARA LÓPEZ VILLAVICENCIO,,62002421
+1415,Rene Manuel Perez Montiel,50000,49,Hombre,No Fumador,30 años,Sí,Sí,09/02/2026 20:05:38,freddy.montiel@gmail.com,seguros360plus@gmail.com,FREDDY ARMANDO PEREZ MONTIEL C/P FREDDY ARMANDO MONTIEL PEREZ,75920680,75920680
+1416,HENRY WILLIAM OSWALDO MENDOZA CALDERON,100000,49,Hombre,No Fumador,20 años,No,No,10/02/2026 08:47:43,,info@crselsalvador.com.sv,CRS SEGUROS,,7160 9301
+1417,Patricia Elizabeth Alberto Guido,75000,54,Mujer,No Fumador,10 años,Sí,Sí,10/02/2026 09:56:42,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1418,Patricia Elizabeth Alberto Guido,125000,54,Mujer,No Fumador,10 años,Sí,Sí,10/02/2026 09:57:12,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1419,Patricia Elizabeth Alberto Guido,100000,54,Mujer,No Fumador,10 años,Sí,Sí,10/02/2026 09:57:49,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1420,jorge Alberto Gomez Ceron ,165000,48,Hombre,No Fumador,20 años,No,No,10/02/2026 13:41:55,gruposiongerencia@gmail.com,gruposiongerencia@gmail.com,Xiomara Ayala ,,79887718
+1421,Jorge Alberto Gomez Ceron ,200000,48,Hombre,No Fumador,20 años,No,No,10/02/2026 14:00:58,,gruposiongerencia@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79887718
+1422,ROBERTO MENJIVAR,100000,45,Hombre,No Fumador,10 años,Sí,Sí,10/02/2026 15:11:29,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1423,ROBERTO MENJIVAR,100000,45,Hombre,No Fumador,30 años,Sí,Sí,10/02/2026 15:12:33,,-,FLOR FLORES,,-
+1424,KARLA DE MENJIVAR,100000,44,Mujer,No Fumador,30 años,Sí,Sí,10/02/2026 15:19:51,,-,FLOR FLORES,,-
+1425,Silvia Romero de Lozano,100000,51,Mujer,No Fumador,30 años,Sí,Sí,10/02/2026 18:06:00,,seguros.silviaromero@gmail.com,,,60049374
+1426,JOSE E ALFARO,205000,55,Hombre,No Fumador,20 años,No,No,10/02/2026 18:37:34,,malwih.asesores@gmail.com,ROCÍO NOEMY ARÉVALO DE ZELAYA,,72002027
+1427,ALVARO ERNESTO DAURA AHUES,30000,54,Hombre,No Fumador,10 años,Sí,Sí,11/02/2026 09:31:03,csanchez@ras.com.sv,csanchez@ras.com.sv,RAS,7729-2409,7729-2409
+1428,RICARDO ALFREDO RODRIGUEZ MORA ,25000,50,Hombre,No Fumador,25 años,Sí,Sí,11/02/2026 10:35:12,asistentepresidencia@zyhasesores.com,asistentepresidencia@zyhasesores.com,"Z Y H ASESORES, S.A. DE C.V.",78062064,78062064
+1429,LEANDRO JEOVANNY RODRIGUEZ MARINERO,250000,42,Hombre,No Fumador,25 años,Sí,No,11/02/2026 12:18:49,,whinsurance@outlook.es,JULIO CESAR CANIZÁLEZ HENRÍQUEZ,,79287529
+1430,JENNIFER STEPHANIE AYALA CLAVEL,275000,35,Mujer,No Fumador,30 años,Sí,Sí,11/02/2026 15:16:11,,JENNIAYALA@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78560011
+1431,JENNIFER STEPHANIE AYALA CLAVEL,275000,35,Mujer,No Fumador,10 años,Sí,Sí,11/02/2026 15:21:21,,JENNIAYALA@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78560011
+1432,Manuel Quezada ,50000,51,Hombre,No Fumador,10 años,Sí,Sí,11/02/2026 15:30:11,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081 
+1433,DOUGLAS EDUARDO MONGE CORNEJO,125000,52,Hombre,No Fumador,20 años,No,No,12/02/2026 09:23:56,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1434,SR. MICHAEL PACHECO HERNANDEZ,50000,46,Hombre,No Fumador,15 años,Sí,Sí,12/02/2026 11:25:47,,sebastian.arana@aranaseguros.com,SEBASTIÁN ARANA,,71604986
+1435,SR. MICHAEL PACHECO HERNANDEZ,50000,46,Hombre,No Fumador,15 años,No,Sí,12/02/2026 11:27:20,,sebastian.arana@aranaseguros.com,SEBASTIÁN ARANA,,71604986
+1436,SR. MICHAEL PACHECO HERNANDEZ,50000,46,Hombre,No Fumador,15 años,Sí,Sí,12/02/2026 11:29:03,,sebastian.arana@aranaseguros.com,SEBASTIÁN ARANA,,71604986
+1437,SR. MICHAEL PACHECO HERNANDEZ,50000,46,Hombre,No Fumador,15 años,Sí,No,12/02/2026 11:37:07,,sebastian.arana@aranaseguros.com,SEBASTIÁN ARANA,,71604986
+1438,JAIME FRANCISCO VIGIL RECINOS,180000,60,Hombre,No Fumador,25 años,Sí,No,12/02/2026 11:51:01,mhenriquez.seguros@gmail.com,mhenriquez.seguros@gmail.com,Cindy Melissa Henriquez Alfaro,79891262,79891262
+1439,Wilber Alfredo Rodriguez Barrientos,100000,52,Hombre,No Fumador,10 años,No,No,12/02/2026 14:25:25,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1440,Isaac David Ramos Quintanilla ,25000,34,Hombre,No Fumador,10 años,Sí,Sí,12/02/2026 15:28:34,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081 
+1441,keila alegria,20000,23,Mujer,No Fumador,10 años,Sí,Sí,12/02/2026 15:59:36,,KEILA.ALEGRIA@BEYOUASESORES.COM,"BE YOU, S.A. DE C.V.",,78419489
+1442,Maria Teresa Carranza de Cardoza ,144000,40,Mujer,No Fumador,10 años,No,No,12/02/2026 16:12:38,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77410548
+1443,BRENDA ESTHER FLORES,200000,33,Mujer,No Fumador,20 años,Sí,No,12/02/2026 17:12:07,,comercial@asrconsultores.com,"ASESORES DE SEGUROS Y RECLAMOS, S.A. DE C.V.",,22543500
+1444,JORGE SANTAMARIA,160000,26,Hombre,No Fumador,10 años,No,No,13/02/2026 12:22:29,JRAV.SEGUROS@GMAIL.COM,JWSEGUROS@OUTLOOK.COM,JOSÉ ROBERTO ABREGO VIANA,78948909,78901234
+1445,MARIO ALONSO BAIRES RODRIGUEZ,100000,57,Hombre,No Fumador,10 años,No,No,13/02/2026 16:36:19,orellanaarnoldotodosegurosv@gmail.com,orellanaarnoldotodosegurosv@gmail.com,ARNOLDO DE JESÚS ORELLANA GÓMEZ,64319095,64319095
+1446,MARIO CARLOS AMAYA AMAYA,100000,45,Hombre,No Fumador,10 años,Sí,Sí,13/02/2026 17:11:38,rblancomt@gmail.com,rblancomt@gmail.com,ROBERTO BLANCO,78865502,78865502
+1447,Roberto blanco ,100000,47,Hombre,No Fumador,10 años,Sí,Sí,16/02/2026 08:24:58,copiabg@gmail.com,Copiabg@gamil.com,Linda blanco ,,78944386
+1448,ISMAEL GUSTACO GUARDADO,200000,28,Hombre,No Fumador,30 años,Sí,Sí,16/02/2026 09:05:35,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1449,Daniela Aronet Barrera Umaña,38000,31,Mujer,No Fumador,30 años,Sí,Sí,16/02/2026 10:37:31,mercadeo@lvseguros.net,mercadeo@lvseguros.net,ALEXANDER ANTONIO LINARES VÁSQUEZ,61657182,61657182
+1450,ITALO AREVALO,10000,54,Hombre,No Fumador,30 años,Sí,Sí,16/02/2026 10:40:09,,sfenn@prointelseguros.com,"PROINTEL CORREDOR DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,79892781
+1451,FRANCISCO VIANA,50000,68,Hombre,No Fumador,25 años,No,No,16/02/2026 11:24:08,,productoslocalesfwm@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71279993
+1452,FRANSICSCO VIANA,50000,68,Hombre,No Fumador,20 años,No,No,16/02/2026 11:32:32,,productoslocalesfwm@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7127993
+1453,DANIELA ARONET BARRERA,38000,31,Mujer,No Fumador,30 años,Sí,Sí,16/02/2026 11:54:57,mercadeo@lvseguros.net,Mercadeo@lvseguros.net,ALEXANDER ANTONIO LINARES VÁSQUEZ,61657182,61657182
+1454,jorge Alberto Gomez Ceron ,200000,48,Hombre,No Fumador,20 años,No,No,16/02/2026 12:13:06,gruposiongerencia@gmail.com,gruposiongerencia@gmail.com,Xiomara Ayala,,79887718
+1455,ROBERTO ANTONIO RIVAS MARQUEZ,40000,54,Hombre,No Fumador,15 años,Sí,No,16/02/2026 12:51:12,,carlos_orozco6@hotmail.com,CARLOS HUMBERTO OROZCO HERNÁNDEZ,,79888797
+1456,Jorge Alberto Mendez Benitez,250000,37,Hombre,No Fumador,30 años,Sí,No,16/02/2026 14:26:49,,fmasis@mlcorredores.com,OSCAR FERNANDO MASIS LÓPEZ,,76044883
+1457,ROBERTO ANTONIO RIVAS MARQUEZ,40000,51,Hombre,No Fumador,15 años,Sí,No,16/02/2026 14:39:55,,carlos_orozco6@hotmail.com,CARLOS HUMBERTO OROZCO HERNÁNDEZ,,79888797
+1458,FRANCISCO VIANA,25000,68,Hombre,No Fumador,20 años,No,No,16/02/2026 14:46:01,,productoslocalesfwm@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71279993
+1459,JUDITH ELEONORA QUINTANILLA,150000,41,Mujer,No Fumador,20 años,Sí,Sí,16/02/2026 15:50:18,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1460,JUDITH ELEONORA QUINTANILLA,175000,41,Mujer,No Fumador,30 años,Sí,Sí,16/02/2026 16:06:27,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1461,JUDITH ELEONORA QUINTANILLA,175000,41,Mujer,No Fumador,20 años,Sí,Sí,16/02/2026 16:07:00,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1462,SOFIA VASQUEZ,100000,30,Mujer,No Fumador,15 años,Sí,No,16/02/2026 18:29:51,,hazclick.encontacto@gmail.com,HUGO ERNESTO ORDÓÑEZ GÓMEZ,,71189847
+1463,Jorge Alberto Mendez Benitez,200000,37,Hombre,No Fumador,30 años,Sí,No,17/02/2026 10:04:44,,fmasis@mlcorredores.com,OSCAR FERNANDO MASIS LÓPEZ,,76044883
+1464,Cristian Jonathan Osorio Rivera,200000,30,Hombre,No Fumador,30 años,Sí,Sí,17/02/2026 11:40:21,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1465,ELIO ALBERTO LARA GONZALEZ,75000,40,Hombre,No Fumador,20 años,Sí,Sí,17/02/2026 11:48:20,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1466,ELIO ALBERTO LARA GONZALEZ,75000,40,Hombre,No Fumador,20 años,Sí,Sí,17/02/2026 11:48:20,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1467,Reyna Isabel Martínez de Cañenguez,150000,39,Mujer,No Fumador,30 años,Sí,Sí,17/02/2026 11:59:41,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1468,Reyna Isabel Martínez de Cañenguez,100000,39,Mujer,No Fumador,20 años,Sí,Sí,17/02/2026 12:01:19,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1469,Reyna Isabel Martínez de Cañenguez,125000,39,Mujer,No Fumador,20 años,Sí,Sí,17/02/2026 12:03:40,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1470,PEDRO ANTONIO RODRIGUEZ LOPEZ ,325000,46,Hombre,No Fumador,10 años,Sí,No,17/02/2026 13:36:14,,orellanaarnoldotodosegurosv@gmail.com,ARNOLDO DE JESÚS ORELLANA GÓMEZ,,64319095
+1471,PEDRO ANTONIO RODRIGUEZ LOPEZ,200000,46,Hombre,No Fumador,10 años,Sí,No,17/02/2026 14:01:12,,orellanaarnoldotodosegurosv@gmail.com,ARNOLDO DE JESÚS ORELLANA GÓMEZ,,64319095
+1472,HAZEL EDELMIRA JUAREZ DE BARAHONA ,100000,58,Mujer,No Fumador,10 años,No,No,17/02/2026 15:35:36,info@rctuseguro.com,info@rctuseguro.com,RODRIGO ALEJANDRO CHACÓN CAMPOS,70895772,70895772
+1473,STEVEN ERNESTO HERRERA ESCOBAR,100000,27,Hombre,No Fumador,30 años,Sí,Sí,17/02/2026 17:25:51,,raque.aparicio30@gmail.com,SILVIA RAQUEL LOPEZ APARICIO,,79857027
+1474,ROLANDO ALBERTO HERNANDEZ DIAZ,324000,36,Hombre,No Fumador,20 años,Sí,No,18/02/2026 14:46:13,SEGUROS@PREVISION.COM.SV,SEGUROS@PREVISION.COM.SV,"PREVISIÓN DE RIESGOS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",22746206,22746206
+1475,Edwin Mauricio Rivas Vasquez,300000,35,Hombre,No Fumador,20 años,No,No,18/02/2026 15:13:08,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1476,JAVIER SOLIS ,100000,48,Hombre,No Fumador,15 años,Sí,Sí,18/02/2026 15:34:43,,orellanaarnoldotodosegurosv@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,64319095
+1477,JAVIER SOLIS ,100000,48,Hombre,No Fumador,10 años,Sí,Sí,18/02/2026 15:36:22,,orellanaarnoldotodosegurosv@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,64319095
+1478,MANUEL ANTONIO MELENDEZ RIVERA,50000,32,Hombre,No Fumador,10 años,Sí,Sí,18/02/2026 15:49:09,,segurosrodas@yahoo.com,ANA RUTH RODAS DE ARIAS,,78554384
+1479,Ismael Gustavo Guardado Márquez,200000,28,Hombre,No Fumador,30 años,Sí,Sí,18/02/2026 16:14:17,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1480,MANUEL ANGEL CRUZ ALAS,198000,60,Hombre,No Fumador,15 años,Sí,Sí,18/02/2026 16:29:32,Mercadeo@lvseguros.net,Mercadeo@lvseguros.net,ALEXANDER ANTONIO LINARES VÁSQUEZ,25376700,25376700
+1481,MANUEL ANGEL CRUZ ALAS,198000,60,Hombre,No Fumador,15 años,No,No,18/02/2026 16:54:34,mercadeo@lvseguros.net,mercadeo@lvseguros.net,ALEXANDER ANTONIO LINARES VÁSQUEZ,61657182,61657182
+1482,Jonathan Francisco Pietropaolo Duanes,200000,31,Hombre,No Fumador,30 años,Sí,Sí,18/02/2026 18:40:27,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1483,ROXANA ELIZABETH RODRIGUEZ DE GUATEMALA,100000,39,Mujer,No Fumador,20 años,Sí,Sí,19/02/2026 09:47:16,gutierrezalex8@hotmail.com,gutierrezalex8@hotmail.com,RAMÓN ALEXIS GUTIÉRREZ RAMOS,77493090,77493090
+1484,Melvin Alexander Martinez,100000,43,Hombre,No Fumador,15 años,No,No,19/02/2026 10:27:19,,cofcofmartinez24@gmail.com,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1485,Evelyn Martinez,100000,23,Mujer,No Fumador,20 años,No,No,19/02/2026 10:29:13,,cofcofmartinez24@gmail.com,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1486,HENRY WILLIAM OSWALDO MENDOZA CALDERON,100000,49,Hombre,No Fumador,25 años,Sí,Sí,19/02/2026 12:24:01,,portillofercho@gmail.com,GERMAN FERNANDO PORTILLO LARA,,78034054
+1487,Yajaira Mariela De León Hernández ,200000,29,Mujer,No Fumador,30 años,Sí,Sí,19/02/2026 14:33:08,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1488,Carlos Leopoldo Argueta Medina ,134000,44,Hombre,No Fumador,30 años,Sí,Sí,19/02/2026 14:51:32,DAISYCHAFOYA@LICONSULTORES.COM.SV,DAISYCHAFOYA@LICONSULTORES.COM.SV,"LI CONSULTORES, S.A. DE C.V.",25347506,25347506
+1489,CRISTHIAN ALBERTO QUINTEROS ORELLANA,20000,41,Hombre,No Fumador,25 años,Sí,Sí,19/02/2026 15:19:38,,orellanaarnoldotodosegurosv@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,64319095
+1490,CCRISTHIAN ALBERTO QUINTEROS ORELLANA,20000,41,Hombre,No Fumador,30 años,Sí,Sí,19/02/2026 15:22:13,,orellanaarnoldotodosegurosv@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,64319095
+1491,Wilber Alfredo Rodriguez Barrientos,70000,52,Hombre,No Fumador,10 años,No,No,19/02/2026 15:46:15,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1492,Wilber Alfredo Rodriguez Barrientos,70000,52,Hombre,No Fumador,10 años,No,No,19/02/2026 15:50:19,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1493,Oscar Kevin Sánchez García,200000,28,Hombre,No Fumador,30 años,Sí,Sí,19/02/2026 16:46:21,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1494,Juan Pablo Botzoc But,200000,31,Hombre,No Fumador,30 años,Sí,Sí,19/02/2026 16:53:10,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1495,Hilcías Isai Vela Cox,100000,41,Hombre,No Fumador,30 años,Sí,Sí,19/02/2026 17:07:31,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1496,HENRY WILLIAM OSWALDO MENDOZA,80000,49,Hombre,No Fumador,25 años,Sí,Sí,20/02/2026 09:12:12,,portillofercho@gmail.com,GERMAN FERNANDO PORTILLO LARA,,78034054
+1497,Herbert Ouver Lobos,100000,57,Hombre,No Fumador,15 años,Sí,Sí,20/02/2026 10:17:56,,azaharseguros.sv@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79867836
+1498,JAMES ESCOBAR,160650,38,Hombre,No Fumador,30 años,Sí,No,20/02/2026 11:34:24,,CRAZYMAMI_1@HOTMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,70000000
+1499,Jorge Alberto Lazo Perla,100000,54,Hombre,No Fumador,20 años,Sí,No,20/02/2026 13:21:15,acabrera@asrconsultores.com,acabrera@asrconsultores.com,"ASESORES DE SEGUROS Y RECLAMOS, S.A. DE C.V.",acabrera@asrconsultores.com,6062-4590
+1500,adasd,62222,20,Hombre,No Fumador,10 años,Sí,Sí,20/02/2026 13:38:34,,dmasdoka,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,",,sdflds"
+1501,Jorge Alberto Lazo Perla,100000,54,Hombre,No Fumador,15 años,Sí,No,20/02/2026 13:53:48,acabrera@asrconsultores.com,acabrera@asrconsultores.com,"ASESORES DE SEGUROS Y RECLAMOS, S.A. DE C.V.",60624590,60624590
+1502,DFDSFAS,50000,25,Hombre,No Fumador,10 años,Sí,Sí,20/02/2026 15:34:07,,ADASDASDADADSAADAD,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,ADASD
+1503,GVXCZXV ZCXV,500000,25,Hombre,No Fumador,10 años,Sí,Sí,20/02/2026 15:59:32,,ACAXA,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,CXcXCZ
+1504,Rodolfo Rodriguez Recinos,179000,52,Hombre,No Fumador,10 años,No,No,20/02/2026 16:40:51,,admon@segurosyfinanzas.com.sv,ADMINISTRADORES DE SEGUROS Y FINANZAS,,77411815
+1505,Rodolfo Rodriguez Recinos,93000,52,Hombre,No Fumador,10 años,No,No,20/02/2026 16:44:55,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1506,Rodolfo Recinos Rodriguez,93000,52,Hombre,No Fumador,10 años,No,No,20/02/2026 16:45:33,,admon@segurosyfinanzas.com.sv,,,77411815
+1507,Tomasa del Carmen Linares,240000,54,Hombre,No Fumador,10 años,Sí,No,20/02/2026 19:10:22,met.vidaconsulting@gmail.com,amm.vidaconsulting@gmail.com,MANUEL ENRIQUE TORRES CANDEL,79418777,79418777
+1508,MAURICIO ECHEVERRIA,200000,46,Hombre,No Fumador,25 años,Sí,No,23/02/2026 09:40:20,wendydiaz@grupo-fortaleza.com,seguros@grupo-fortaleza.com,grupo fortaleza,,25569430
+1509,CARLOS LEOPOLDO ARGUETA MEDINA,134000,44,Hombre,No Fumador,25 años,Sí,No,23/02/2026 09:52:40,,alex.27aguilar.aa@gmail.com,ALEX STEVEN AGUILAR TREJO,,76821044
+1510,BLANCA RODRIGUEZ,100000,51,Mujer,No Fumador,20 años,Sí,Sí,23/02/2026 13:02:58,LU-CH-ORTIZ@HOTMAIL.COM,lu-ch-ortiz@hotmal.com,LUIS ERNESTO ORTIZ ALFARO,77456498,77456498
+1511,Jaime Chavez,135000,34,Hombre,No Fumador,30 años,Sí,No,23/02/2026 14:11:58,,sergio.segurosrpc@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,22635911
+1512,WILLIAN KELVIN HERNANDEZ,315000,47,Hombre,No Fumador,10 años,Sí,No,23/02/2026 16:04:31,,orellanaarnoldotodosegurosv@gmail.com,ARNOLDO ,,64319095
+1513,Rodolfo Rodriguez Recinos,93000,54,Hombre,No Fumador,10 años,No,No,23/02/2026 16:11:59,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1514,WILLIAN KELVIN HERNANDEZ,150000,47,Hombre,No Fumador,10 años,Sí,No,23/02/2026 18:06:17,ARNOLDO ORELLANA,orellanaarnoldotodosegurosv@gmail.com,,,64319095
+1515,WILLIAN KELVIN HERNANDEZ,165000,47,Hombre,No Fumador,10 años,Sí,No,23/02/2026 18:10:33,,orellanaarnoldotodosegurosv@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,64319095
+1516,Helmer José León Saquic,200000,23,Hombre,No Fumador,30 años,Sí,Sí,23/02/2026 20:17:42,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1517,CARMEN ELIZABETH RAMOS VDA DE RAMIREZ,10000,61,Mujer,No Fumador,10 años,Sí,No,24/02/2026 08:34:52,info@rctuseguro.com,info@rctuseguro.com,RODRIGO ALEJANDRO CHACÓN CAMPOS,70895772,70895772
+1518,CARMEN ELIZABETH RAMOS VDA DE RAMIREZ,10000,61,Mujer,No Fumador,10 años,Sí,No,24/02/2026 08:37:38,info@rctuseguro.com,info@rctuseguro.com,RODRIGO ALEJANDRO CHACÓN CAMPOS,70895772,70895772
+1519,Karla Guadalupe Cerna de Menjivar,50000,50,Mujer,No Fumador,20 años,Sí,Sí,24/02/2026 10:47:38,,kcerna@bancatlan.sv,FREDDY ARMANDO PEREZ MONTIEL C/P FREDDY ARMANDO MONTIEL PEREZ,,78705710
+1520,Karla Guadalupe Cerna de Menjiva,100000,50,Mujer,No Fumador,20 años,Sí,Sí,24/02/2026 10:49:18,,kcerna@bancatlan.sv,FREDDY ARMANDO PEREZ MONTIEL C/P FREDDY ARMANDO MONTIEL PEREZ,,78705710
+1521,Karla Guadalupe Cerna de Menjivar,100000,50,Mujer,No Fumador,15 años,Sí,Sí,24/02/2026 10:50:56,,kcerna@bancatlan.sv,FREDDY ARMANDO PEREZ MONTIEL C/P FREDDY ARMANDO MONTIEL PEREZ,,78705710
+1522,Jose Amilcar Chiguen Cheguen,94500,40,Hombre,No Fumador,10 años,No,No,24/02/2026 12:07:33,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1523,JOSE AMILCAR CHIGUEN CHEGUEN,94500,40,Hombre,No Fumador,10 años,Sí,No,24/02/2026 12:19:13,,sefi@segurosyfinanzas.com.sv,,,77413435
+1524,Brenda Judith Orellana de Reyes,25000,54,Mujer,No Fumador,20 años,No,No,24/02/2026 15:27:46,Brenda Judith Orellana de Reyes,brenda.orellana2017@gmail.com,Brenda Judith Orellana de Reyes,70595214,70595214
+1525,LUIS OMAR LOPEZ,193750,44,Hombre,No Fumador,10 años,Sí,No,24/02/2026 21:38:51,,josejaviles21@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,73989623
+1526,Jennifer Stephanie Ayala Clavel,245000,35,Mujer,No Fumador,30 años,Sí,Sí,25/02/2026 16:43:06,,jenniayala@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78560011
+1527,SALVADOR ELMER LANDAVERDE FLORES,291000,61,Hombre,No Fumador,15 años,No,No,26/02/2026 08:35:31,,negocios@scalaconsultores.com.sv,"SERVICIOS DE CALIDAD, CONSULTORES S.A. DE C.V.",,22785544
+1528,RODRIGO QUINTANILLA,50000,43,Hombre,No Fumador,30 años,Sí,Sí,26/02/2026 11:38:42,,ATENCIONALCLIENTE@BIENESTARSV.COM,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78738059
+1529,Mario Eduardo González,50000,40,Hombre,No Fumador,20 años,Sí,No,26/02/2026 12:00:29,,-,Felix Patiño,,-
+1530,FLOR LACAYO,250000,38,Mujer,No Fumador,10 años,Sí,No,26/02/2026 14:07:46,JRAV.SEGUROS@GMAIL.COM,JWSEGUROS@OUTLOOK.COM,JOSE ABREGO,78948909,78948909
+1531,FLOR LACAYO,250000,38,Mujer,No Fumador,15 años,Sí,No,26/02/2026 14:09:30,JRAV.SEGUROS@GMAIL.COM,JWSEGUROS@OUTLOOK.COM,JOSE ABREGO,78948909,78901234
+1532,FLOR LACAYO,250000,38,Mujer,No Fumador,10 años,No,No,26/02/2026 14:11:14,JRAV.SEGUROS@GMAIL.COM,JWSEGUROS@OUTLOOK.COM,JOSE ABREGO,78948909,78901234
+1533,FLOR LACAYO,250000,38,Mujer,No Fumador,15 años,No,No,26/02/2026 14:12:46,JRAV.SEGUROS@GMAIL.COM,JWSEGUROS@GMAIL.COM,JOSE ABREGO,78948909,78901234
+1534,FLOR LACAYO,250000,38,Mujer,No Fumador,30 años,No,No,26/02/2026 14:13:54,JRAV.SEGUROS@GMAIL.COM,JWSEGUROS@OUTLOOK.COM,JOSE ABREGO,78948909,78901234
+1535,GUILLERMO ANDRE RAMOS HERNANDEZ,115000,34,Hombre,No Fumador,30 años,Sí,Sí,26/02/2026 15:02:45,,alevasquez@seguroshv.com,WILLIAM ALBERTO HERRERA PÉREZ,,77473506
+1536,Margarita ,50000,56,Mujer,No Fumador,20 años,Sí,Sí,26/02/2026 15:02:46,,normaf0104@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71440502
+1537,Margarita ,25000,56,Mujer,No Fumador,20 años,Sí,Sí,26/02/2026 15:06:10,,normaf0104@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71440503
+1538,BESSY MARIA MERINO HENRIQUEZ,115000,34,Mujer,No Fumador,30 años,Sí,Sí,26/02/2026 15:14:57,,alevasquez@seguroshv.com,WILLIAM ALBERTO HERRERA PÉREZ,,77473506
+1539,HUGO ORDOÑEZ,50000,51,Hombre,No Fumador,10 años,Sí,No,26/02/2026 15:51:36,,limonychile@gmail.com,HUGO ERNESTO ORDÓÑEZ GÓMEZ,,71189847
+1540,HUGO ORDONEZ,50000,51,Hombre,No Fumador,20 años,Sí,No,26/02/2026 16:06:32,,limonychile@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71189847
+1541,Ramon de Jesus Melendez Magarin,250000,28,Hombre,No Fumador,30 años,Sí,No,26/02/2026 17:18:08,,eliasescobar253@gmail.com,JOSE ELIAS ESCOBAR FLORES ,,79448272
+1542,Jimmy David Torres Solano,110000,33,Hombre,No Fumador,15 años,No,No,27/02/2026 10:22:31,,sefi@segurosyfinanzas.com.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77413435
+1543,Jimmy David Torres Solano,110000,33,Hombre,No Fumador,15 años,Sí,No,27/02/2026 10:31:16,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1544,Jimmy David Torres Solano ,105000,33,Hombre,No Fumador,15 años,No,No,27/02/2026 10:53:33,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1545,Kenia Veronica Paredes de Palacios,200000,48,Mujer,No Fumador,15 años,No,No,27/02/2026 11:13:38,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1546,hugo ordonez,50000,51,Hombre,No Fumador,10 años,Sí,No,27/02/2026 11:14:24,,limonychile@gmail.com,HUGO ERNESTO ORDÓÑEZ GÓMEZ,,71189847
+1547,Kenia Veronica Paredes de Palacios,200000,48,Mujer,No Fumador,15 años,Sí,No,27/02/2026 11:18:48,,sefi@segurosyfinanzas.com,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1548,ESTELA GUADALUPE CAÑAS DE AGUILAR,50000,54,Mujer,No Fumador,30 años,Sí,Sí,27/02/2026 16:06:06,,gestiones.segurossv@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71721369
+1549,EM,10000,54,Hombre,No Fumador,30 años,No,Sí,27/02/2026 16:10:17,,gestiones.segurossv@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,72741369
+1550,RUYH ELISA MERCADO MARROQUIN,10000,62,Mujer,No Fumador,10 años,No,No,27/02/2026 16:25:17,aeintermediarios@gmail.com,aeintermediarios@gmail.com,ANYELLY MARBETH PREZA,75105125,75105125
+1551,RUTH ELISA MERCADO MARROQUIN,50000,62,Mujer,No Fumador,15 años,No,No,27/02/2026 16:28:17,aeintermediarios@gmail.com,aeintermediarios@gmail.com,ANYELLY MARBETH PREZA,75105125,75105125
+1552,RUTH ELISA MERCADO MARROQUIN,25000,62,Mujer,No Fumador,15 años,Sí,Sí,27/02/2026 16:31:45,aeintermediarios@gmail.com,infocorredoresdeseguros@gmail.com,ANYELLY MARBETH PREZA,75105125,75105125
+1553,RUTH ELISA MERCADO MARROQUIN,25000,62,Hombre,No Fumador,15 años,No,No,27/02/2026 16:34:16,aeintermediario@gmail.com,infocorredoresdeseguros@gmail.com,Ivonne Siliezar,75105125,75105125
+1554,RUTH ELISA MERCADO MARROQUIN,20000,62,Mujer,No Fumador,15 años,No,No,27/02/2026 16:35:29,,infocorredoresdeseguros@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,75105125
+1555,Henry Porfirio Alvarenga ,100000,35,Hombre,No Fumador,20 años,Sí,No,02/03/2026 14:38:09,,normaf0104@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71440503
+1556,Henrry Porfirio Alvarenga,100000,35,Hombre,No Fumador,20 años,Sí,No,02/03/2026 14:45:52,,normaf0104@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71440503
+1557,Caroline Michelle Ayala Clavel,56000,30,Mujer,No Fumador,30 años,Sí,Sí,02/03/2026 16:41:57,,carolineayala2@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78560033
+1558,LANDY ELENILSON TORRES FUENTES,62500,33,Hombre,No Fumador,10 años,Sí,Sí,02/03/2026 17:07:41,,segurosyfianzas.sm@gmail.com,FRANCISCO EDUARDO MARENCO GUZMÁN,,76406085
+1559,FRANCISCO,500000,39,Hombre,No Fumador,10 años,No,No,02/03/2026 17:58:55,,lju@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,89898989
+1560,GUSTAVO ERNESTO REALES,33600,43,Hombre,No Fumador,20 años,Sí,Sí,03/03/2026 09:05:58,daisychafoya@liconsultores.com.sv,daisychafoya@liconsultores.com.sv,"LI CONSULTORES, S.A. DE C.V.",25347506,25347506
+1561,Carlos Enedilson Romero Ortiz,200000,56,Hombre,No Fumador,10 años,Sí,Sí,03/03/2026 12:01:02,,agencia.asegura@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77238293
+1562,DANIELA ARONET BARRERA UMAÑA,34000,31,Mujer,No Fumador,30 años,Sí,Sí,03/03/2026 14:27:18,mercadeo@lvseguros.net,Mercadeo@lvseguros.net,ALEXANDER ANTONIO LINARES VÁSQUEZ,25376700,61657182
+1563,Melvin Alexander Martinez Garcia,100000,43,Hombre,No Fumador,25 años,No,No,04/03/2026 11:14:31,,cofcofmartinez24@gmail.com,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,73645910
+1564,MAURICIO OSWALDO URIAS,200000,62,Hombre,No Fumador,15 años,Sí,Sí,04/03/2026 11:31:11,hortiz@avanteasesores.com,hortiz@avanteasesores.com,HEDY LORENA ORTIZ HERRERA,70539766,70539766
+1565,Claudia Susana Alvarez de Duarte,100000,56,Mujer,No Fumador,10 años,No,No,04/03/2026 11:48:09,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1566,Claudia Susana Alvarez de Duarte,150000,56,Mujer,No Fumador,15 años,No,No,04/03/2026 11:51:06,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1567,Luis Alfonso Chicas Arias,220000,52,Hombre,No Fumador,25 años,Sí,No,04/03/2026 12:18:48,francisco.alvarez@segurosam.net,francisco.alvarez@segurosam.net,FRANCISCO ALONSO ALVAREZ CAMPOS,7923-4094,7923-4094
+1568,William Xiomar Ayala Mejia ,50000,36,Hombre,No Fumador,30 años,No,No,04/03/2026 13:51:26,,beverlyabarcaseguros@gmail.com,DYLCIA BEVERLY ABARCA,,76444967
+1569,William Xiomar Ayala Mejia,50000,36,Hombre,No Fumador,20 años,No,No,04/03/2026 13:52:45,,beverlyabarcaseguros@gmail.com,DYLCIA BEVERLY ABARCA,,76444967
+1570,DAISY LOPEZ,74385,62,Mujer,No Fumador,10 años,Sí,No,04/03/2026 14:26:44,jazsegurosyasistencias@gmail.com,jazsegurosyasistencias@gmail.com,MARÍA ELENA VÁSQUEZ DE BONILLA,22616129,22616129
+1571,EDGAR EDUARDO ALVAREZ,150000,50,Hombre,Fumador,30 años,Sí,Sí,04/03/2026 17:46:45,,carlos-vasquez@ipl.com.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,75863780
+1572,EDGAR EDUARDO ALVAREZ,150000,50,Hombre,No Fumador,30 años,Sí,Sí,04/03/2026 17:48:24,,carlos-vasquez@ipl.com.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,75863780
+1573,EDGAR EDUARDO ALVAREZ,150000,50,Hombre,No Fumador,20 años,Sí,Sí,04/03/2026 17:49:29,,carlos-vasquez@ipl.com.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,75863780
+1574,RICARDO OVIDIO LOPEZ GONZALEZ,144334,48,Hombre,No Fumador,30 años,Sí,Sí,05/03/2026 08:21:30,,abigail.debeltran@besafeasesores.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7841-2139
+1575,PEDRO ANTONIO RODRIGUEZ LOPEZ,325000,46,Hombre,No Fumador,10 años,Sí,Sí,05/03/2026 11:19:53,,orellanaarnoldotodosegurosv@gmail.com,ARNOLDO DE JESÚS ORELLANA GÓMEZ,,64319095
+1576,CARLOS ROBERTO JOVEL MUNGUIA,160000,47,Hombre,No Fumador,20 años,Sí,No,05/03/2026 11:31:52,,admon@segurosyfinanzas.com.sv,,,77411815
+1577,PEDRO ANTONIO RODRIGUEZ LOPEZ,325000,46,Hombre,No Fumador,10 años,Sí,No,05/03/2026 12:23:54,,orellanaarnoldotodosegurosv@gmail.com,ARNOLDO DE JESÚS ORELLANA GÓMEZ,,64319095
+1578,LUIS CHICAS ARIAS,220000,52,Hombre,No Fumador,25 años,No,No,05/03/2026 13:35:12,,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,,75178411
+1579,FLOR CRISTINA FUENTES ORTIZ,200000,38,Mujer,No Fumador,10 años,Sí,Sí,05/03/2026 13:53:24,,velinkty@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78836470
+1580,SANTIAGO MARTINEZ BONILLA,100000,55,Hombre,No Fumador,15 años,Sí,No,05/03/2026 14:25:30,,TONY.CHAVEZ@ARAGONDESEGUROS.COM,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77874300
+1581,OMAR ROMERO,278315,35,Hombre,No Fumador,30 años,Sí,Sí,05/03/2026 14:42:26,,william.herrera0408@hotmail.com,WILLIAM ALBERTO HERRERA PÉREZ,,77449972
+1582,OMAR ROMERO,278315,35,Hombre,No Fumador,30 años,Sí,No,05/03/2026 14:43:46,,williamherrera@pyhasesores.com,WILLIAM ALBERTO HERRERA PÉREZ,,77449972
+1583,DANIEL CASTILLO,100000,49,Hombre,No Fumador,30 años,Sí,Sí,05/03/2026 15:40:26,gomezeliasjudith@gmail.com,gomezeliasjudith@gmail.com,judith gomez,77464445,77464445
+1584,MARIA ELENA RAMIREZ DOMINGUEZ,60000,63,Mujer,No Fumador,10 años,No,No,05/03/2026 21:54:37,,Patricia.grande@egseguros.net,EVELIN PATRICIA GRANDE SOTO,,78443857
+1585,OMAR ROMERO,278315,35,Hombre,No Fumador,30 años,Sí,No,05/03/2026 22:40:12,,williamherrera@seguroshv.com,WILLIAM ALBERTO HERRERA PÉREZ,,77449972
+1586,Alberto Arene,17000,60,Hombre,No Fumador,10 años,No,No,06/03/2026 08:48:06,,mlopez@conri.com.sv,"CONSULTANTS OF RISKS, S.A. DE C.V.",,76079722
+1587,SONIA MARITZA FLORES AYALA,100000,54,Mujer,No Fumador,10 años,Sí,Sí,06/03/2026 09:24:00,,negocios@scalaconsultores.com.sv.,"SERVICIOS DE CALIDAD, CONSULTORES S.A. DE C.V.",,22785544
+1588,JOSE ISAAC RODRIGUEZ GALEAS,276000,61,Hombre,No Fumador,15 años,Sí,No,06/03/2026 09:29:42,,mnunez@protecseg.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79883866
+1589,Carlos Martinez,100000,47,Hombre,Fumador,25 años,Sí,No,06/03/2026 09:43:55,met.vidaconsulting@gmail.com,amm.vidaconsulting@gmail.com,MANUEL ENRIQUE TORRES CANDEL,79418777,79418777
+1590,Henry Porfirio Alvarenga Hernández ,100000,35,Hombre,No Fumador,30 años,Sí,Sí,06/03/2026 09:48:52,,normaf0104@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71440503
+1591,DIANA ESTHEFANY RAMIREZ ROCHAC,50000,28,Mujer,No Fumador,20 años,Sí,No,06/03/2026 09:59:28,,info@crselsalvador.com.sv,CRS SEGUROS,,6168-6617
+1592,JOSE ISAAC RODRIGUEZ GALEAS,276000,61,Hombre,No Fumador,20 años,Sí,No,06/03/2026 10:42:22,,mnunez@protecseg.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79883866
+1593,William Xiomar Ayala Mejia,50000,36,Hombre,No Fumador,20 años,No,No,06/03/2026 11:22:09,,beverly.3105@gmail.com,DYLCIA BEVERLY ABARCA,,76444967
+1594,Jose Luis Boza Chamorro,240000,55,Hombre,No Fumador,20 años,Sí,Sí,06/03/2026 11:40:31,jlbozach@aenseguros.com,jlbozach@aenseguros.com,"INTERMEDIARIOS DE SEGUROS, S.A. DE C.V.",25053300,72103383
+1595,RICARDO DELFINO RODRIGUEZ SANCHEZ,50000,36,Hombre,No Fumador,20 años,Sí,No,06/03/2026 13:54:52,,info@crselsalvador.com.sv,CRS SEGUROS,,7160 9301
+1596,XXXXX,245000,35,Mujer,No Fumador,30 años,No,No,06/03/2026 14:43:56,,XXXXXX@GMAIL.COM,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,XXXXXXXX
+1597,JACKELYN JOHANA MURCIA QUIJADA,37000,30,Mujer,No Fumador,30 años,Sí,No,06/03/2026 15:14:34,,orellanainsurance17@gmail.com,ALEJANDRO SALVADOR ORELLANA RODAS,,79542161
+1598,SERGIO ARMANDO NAVARRO APARICIO,100000,59,Hombre,No Fumador,10 años,No,No,06/03/2026 15:21:58,,TONY.CHAVEZ@ARAGONDESEGUROS.COM,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77874300
+1599,TERESA DE JESUS LINARES DE NAVARRO,100000,54,Mujer,No Fumador,10 años,No,No,06/03/2026 15:24:41,TONY.CHAVEZ@ARAGONDESEGUROS.COM,TONY.CHAVEZ@ARAGONDESEGUROS.COM,TONY CHAVEZ ARAGON,77874300,77874300
+1600,Claudia Lorena Corleto ,50000,55,Mujer,No Fumador,30 años,Sí,Sí,06/03/2026 18:12:58,,claudiacorletto.clc@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7180 7339
+1601,Claudia Lorena Corleta ,50000,55,Mujer,No Fumador,10 años,Sí,Sí,06/03/2026 18:18:17,,claudiacorletto.clc@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7180 7339
+1602,Jose Guillermo Salazar Urrutia,135000,55,Hombre,No Fumador,10 años,No,No,07/03/2026 08:21:29,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1603,LUIS ISABEL BLANCO ARANDA,50000,45,Hombre,No Fumador,30 años,Sí,Sí,09/03/2026 06:47:28,GUADALUPE FLORES _IVD2148,info.guadalupeflores@gmail.com,,,77100028
+1604,Raúl Enrique Urrutia Rodríguez,100000,47,Hombre,No Fumador,20 años,No,No,09/03/2026 10:02:42,,Reyac2009@hotmail.com,REYNALDO ERNESTO ALFARO CALDERÓN,,71279828
+1605,Raúl Enrique Urrutia Rodríguez,100000,47,Hombre,No Fumador,20 años,No,No,09/03/2026 10:17:03,,reyac2009@hotmail.com,REYNALDO ERNESTO ALFARO CALDERÓN,,71279828
+1606,Raúl Enrique Urrutia Rodríguez,75000,47,Hombre,No Fumador,20 años,No,No,09/03/2026 10:25:02,,reyac2009@hotmail.com,REYNALDO ERNESTO ALFARO CALDERÓN,,71279828
+1607,Raul Urrutia,150000,47,Hombre,No Fumador,20 años,No,No,09/03/2026 10:25:06,reyac2009@hotmail.com,reyac2009@hotmail.com,Reynaldo Alfaro,71279828,71279828
+1608,Diego Alcides Guardado Peraza ,200000,22,Hombre,No Fumador,30 años,Sí,Sí,09/03/2026 18:07:04,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1609,LINDA BERENICE BLANCO DE GONZÁLEZ,50000,47,Mujer,No Fumador,25 años,Sí,Sí,09/03/2026 18:09:29,copiabg@gmail.com,copiabg@gmail.com,LINDA BLANCO,78944386,78944386
+1610,LINDA BERENICE BLANCO DE GONZALEZ,40000,47,Mujer,No Fumador,25 años,Sí,Sí,09/03/2026 18:26:13,copiabg@gmail.com,copiabg@gmail.com,LINDA BLANCO,78944386,78944386
+1611,Jose Ezequiel Aguilar Pineda,150000,44,Hombre,No Fumador,10 años,No,No,10/03/2026 09:26:40,,admon@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411815
+1612,Susana Elizabeth Rodríguez ,20000,41,Mujer,No Fumador,10 años,Sí,Sí,10/03/2026 10:15:32,,normaf0104@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71440503
+1613,Susana Elizabeth Rodríguez ,15000,41,Mujer,No Fumador,10 años,Sí,Sí,10/03/2026 10:17:29,,normaf0104@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71440503
+1614,EFRAIN EDUARDO PACHECO RAMIREZ,68295,49,Hombre,No Fumador,30 años,Sí,Sí,10/03/2026 10:20:41,,-,JULIO HERRERA,,-
+1615,Efrain Eduardo Pacheco Ramírez,68295,49,Hombre,No Fumador,20 años,Sí,Sí,10/03/2026 10:29:33,servicioalcliente@inversegurossv.com,servicioalcliente@inversegurossv.com,Inverseguros,74711601,74711601
+1616,Efrain Eduardo Pacheco Ramírez,68295,49,Hombre,No Fumador,30 años,Sí,Sí,10/03/2026 10:36:09,servicioalcliente@inversegurossv.com,servicioalcliente@inversegurossv.com,INVERSEGUROS,74711601,74711601
+1617,SANTIAGO MARTINEZ BONILLA,100000,55,Hombre,No Fumador,10 años,Sí,No,10/03/2026 11:31:23,TONY.CHAVEZ@ARAGONDESEGUROS.COM,TONY.CHAVEZ@ARAGONDESEGUROS.COM,TONY CHAVEZ ARAGON,77874300,77874300
+1618,SUNG HYUK LEE,100000,60,Hombre,No Fumador,15 años,Sí,Sí,10/03/2026 11:32:42,JFGSEGUROS@GMAIL.COM,JFGSEGUROS@GMAIL.COM,JORGE ALBERTO FERNÁNDEZ GUZMÁN,79106313,79106313
+1619,SANTIAGO MARTINEZ BONILLA,50000,55,Hombre,No Fumador,10 años,Sí,No,10/03/2026 11:33:36,TONY.CHAVEZ@ARAGONDESEGUROS.COM,TONY.CHAVEZ@ARAGONDESEGUROS.COM,TONY CHÁVEZ ARAGÓN,77874300,77874300
+1620,SUNG HYUK LEE,100000,60,Hombre,No Fumador,20 años,Sí,Sí,10/03/2026 11:41:42,JFGSEGUROS@GMAIL.COM,JFGSEGUROS@GMAIL.COM,JORGE ALBERTO FERNÁNDEZ GUZMÁN,7910-6313,7910-6313
+1621,JOSE EZEQUIEL AGUILAR PINEDA,150000,44,Hombre,No Fumador,10 años,Sí,No,10/03/2026 12:21:02,,admonQsegurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411815
+1622,JOSE EZEQUIEL AGUILAR,250000,44,Hombre,No Fumador,10 años,Sí,No,10/03/2026 12:24:49,,admon@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411815
+1623,LUIS CHICAS ARIAS ,220000,52,Hombre,No Fumador,25 años,No,No,10/03/2026 14:54:17,,seguroslbaraona37@gmail.com,LIANA MIREYA BARAONA BOLAÑOS,,75178411
+1624,Verónica Martinez ,25000,39,Mujer,No Fumador,20 años,Sí,Sí,10/03/2026 15:09:50,,normaf0104@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71440503
+1625,Joe Doe,100000,37,Hombre,No Fumador,20 años,No,No,10/03/2026 17:28:59,,ljnoyolap@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78592229
+1626,Joe,100000,41,Hombre,No Fumador,10 años,No,No,10/03/2026 17:32:34,,ljnoyolap@gmail.com,CARMEN LEONOR MONTESINO ALVARADO,,78592229
+1627,Joe Doe,100000,37,Hombre,No Fumador,10 años,No,No,10/03/2026 17:33:31,,ljnoyolap@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78592229
+1628,STEVEN ERNESTO HERRERA ESCOBAR ,46000,27,Hombre,No Fumador,30 años,Sí,Sí,10/03/2026 17:50:29,,raque.aparicio30@gmail.com,SILVIA RAQUEL LOPEZ APARICIO,,79857027
+1629, CATHERINE MELANY CHAVEZ MEJIA ,46000,27,Mujer,No Fumador,30 años,Sí,Sí,10/03/2026 18:05:25,,raque.aparicio30@gmail.com,SILVIA RAQUEL LOPEZ APARICIO,,79857027
+1630,SONIA MARITZA FLORES AYALA ,100000,54,Mujer,No Fumador,10 años,Sí,No,11/03/2026 11:30:11,,negocios@scalaconsultores.com.sv,"SERVICIOS DE CALIDAD, CONSULTORES S.A. DE C.V.",,22785544
+1631,SONIA MARITZA FLORES AYALA,100000,54,Mujer,Fumador,10 años,Sí,No,11/03/2026 12:19:09,,negocios@scalaconsultores.com.sv,"SERVICIOS DE CALIDAD, CONSULTORES S.A. DE C.V.",,22785544
+1632,José Martínez ,50000,38,Mujer,No Fumador,20 años,Sí,Sí,11/03/2026 13:49:43,,normaf0104@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71440503
+1633,JOSE RAUL HERNANDEZ,500000,25,Hombre,No Fumador,10 años,Sí,Sí,11/03/2026 14:03:40,,FNNAKPVNAKFNE,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,6542225
+1634,GLENDA MARIA REALEGEÑO,10000,41,Mujer,No Fumador,10 años,Sí,Sí,11/03/2026 21:41:01,dinora.dediaz1963@gmail.com,dinora.dediaz1963@gmail.com,soila dinora perez de diaz,69961561,69961561
+1635,ANDREA RACHEL POLANCO DUEÑAS,50000,23,Mujer,No Fumador,10 años,Sí,No,12/03/2026 09:29:04,asistente.individuales@crediseguros.com.sv,asistente.individuales@crediseguros.com.sv,"CREDI-SEGUROS, S.A. DE C.V.",22016409,22016409
+1636,LINDA VALERIA RODRIGUEZ BLANCO,50000,18,Mujer,No Fumador,30 años,Sí,Sí,12/03/2026 09:59:26,,copiabg@gmail.com,LINDA BLANCO,,78944386
+1637,LINDA VALERIA RODRIGUEZ BLANCO,100000,18,Mujer,No Fumador,30 años,Sí,Sí,12/03/2026 10:02:52,,copiabg@gmail.com,LINDA BLANCO,,78944386
+1638,MARIA EUGENIA DUEÑAS ARRIAZA,50000,49,Mujer,No Fumador,20 años,Sí,Sí,12/03/2026 10:07:11,,individuales@crediseguros.com.sv,"CREDI-SEGUROS, S.A. DE C.V.",,75229526
+1639,LINDA VALERIA RODRIGUEZ BLANCO,200000,18,Mujer,No Fumador,30 años,Sí,Sí,12/03/2026 10:07:55,,copiabg@gmail.com,LINDA BLANCO,,78944386
+1640,LINDA VALERIA RODRIGUEZ BLANCO,150000,18,Mujer,No Fumador,30 años,Sí,Sí,12/03/2026 10:09:00,,copiabg@gmail.com,LINDA BLANCO,,78944386
+1641,TONY ALBERTO PEREZ,150000,62,Hombre,No Fumador,10 años,Sí,Sí,12/03/2026 11:07:36,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1642,ERIC ULISES MOLINA,50000,46,Hombre,No Fumador,30 años,Sí,Sí,12/03/2026 11:38:15,,marian.ubau@gmail.com,Marian Ubau,,76779521
+1643,FRAN NELSON SANTOS ESCOBAR,30000,56,Hombre,No Fumador,10 años,Sí,Sí,12/03/2026 13:37:46,,segurosrodas@yahoo.com,ANA RUTH RODAS DE ARIAS,,78554384
+1644,Juan Pablo Botzoc But,200000,31,Hombre,No Fumador,30 años,Sí,Sí,12/03/2026 14:16:49,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1645,GERMAN ENRIQUE SI XOL,100000,37,Hombre,No Fumador,20 años,Sí,Sí,12/03/2026 14:29:38,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1646,Roman Zaldivar Molina,500000,67,Hombre,No Fumador,10 años,No,No,12/03/2026 15:08:18,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1647,LINDA VALERIA RODRÍGUEZ BLANCO,100000,18,Mujer,No Fumador,30 años,Sí,Sí,12/03/2026 17:02:51,copiabg@gmail.com,copiabg@gmail.com,LINDA BERENICE BLANCO DE GONZÁLEZ,78944386,78944386
+1648,STEVEN ERNESTO HERRERA ESCOBAR,46000,27,Hombre,No Fumador,30 años,Sí,No,12/03/2026 18:23:10,,raque.aparicio30@gmail.com,SILVIA RAQUEL LOPEZ APARICIO,,79857027
+1649,CATHERINE MELANY CHAVEZ MEJÍA ,46000,27,Mujer,No Fumador,30 años,Sí,No,12/03/2026 18:30:55,,raque.aparicio30@gmail.com,SILVIA RAQUEL LOPEZ APARICIO,,79857027
+1650,Karla Barreintos,50000,46,Mujer,No Fumador,25 años,Sí,Sí,13/03/2026 09:07:08,,tejas.39@hotmail.com,SONIA MERY RIVERA TEJADA,,79699414
+1651,Karla Barrientos,50000,46,Mujer,No Fumador,25 años,No,No,13/03/2026 09:10:10,,tejas.39@hotmail.com,SONIA MERY RIVERA TEJADA,,79699414
+1652,DIANA LOPEZ BEDOYA ,282000,54,Mujer,No Fumador,20 años,Sí,Sí,13/03/2026 09:28:46,asistencia.gerencia.nasser@gmail.com,asistencia.gerencia.nasser@gmail.com,"NASSER GARCÍA, S.A. DE C.V.",70695533,70695533
+1653,JUAN MANUEL BONILLA AGUILUZ,300000,34,Hombre,No Fumador,25 años,Sí,No,13/03/2026 12:16:28,ticha32@gmail.com,ticha32@gmail.com,ANA LETICIA DE MELENDEZ,79899658,79899658
+1654,NELSON ANTONIO VANEGAS,150000,55,Hombre,No Fumador,30 años,Sí,No,13/03/2026 15:47:22,,oyrseguros@outlook.es,SONIA MERY RIVERA TEJADA,,69799414
+1655,Oswaldo Antonio Magaña Barillas,150000,45,Hombre,No Fumador,10 años,Sí,No,13/03/2026 17:00:05,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1656,LYBNI ABIMELEC TOCHEZ MOLINA,260000,45,Hombre,No Fumador,30 años,Sí,No,13/03/2026 17:44:38,JFGSEGUROS@GMAIL.COM,JFGSEGUROS@GMAIL.COM,JORGE ALBERTO FERNÁNDEZ GUZMÁN,79106313,79106313
+1657,Christopher José Lazo Villatoro,500000,28,Hombre,No Fumador,30 años,Sí,Sí,14/03/2026 19:57:13,,Segurosyfianzas.sm@gmail.com,FRANCISCO EDUARDO MARENCO GUZMÁN,,7640-6085 
+1658,Christopher José Lazo Villatoro,500000,28,Hombre,No Fumador,10 años,Sí,Sí,14/03/2026 19:59:04,,Segurosyfianzas.sm@gmail.com,FRANCISCO EDUARDO MARENCO GUZMÁN,,7640-6085 
+1659,Christopher José Lazo Villatoro,250000,28,Hombre,No Fumador,10 años,Sí,Sí,14/03/2026 20:00:52,,Segurosyfianzas.sm@gmail.com,FRANCISCO EDUARDO MARENCO GUZMÁN,,7640-6085 
+1660,KARLA MILADY ROMERO DE CASTRO,250000,44,Mujer,No Fumador,30 años,Sí,Sí,15/03/2026 17:12:00,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081 
+1661,Karla Milady Romero de Castro ,250000,44,Mujer,No Fumador,30 años,No,No,15/03/2026 17:14:27,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081 
+1662,ANA ESTELA PEREZ ZEPEDA,100000,36,Mujer,No Fumador,30 años,No,Sí,16/03/2026 08:34:44,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1663,ANA ESTELA PEREZ ZEPEDA,100000,36,Mujer,No Fumador,30 años,No,No,16/03/2026 08:35:45,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1664,VICTOR MANUEL REYES ALVARENGA,100000,40,Hombre,No Fumador,30 años,No,No,16/03/2026 08:38:46,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1665,Helen Edith Garcia Guevara,10000,40,Hombre,No Fumador,10 años,Sí,Sí,16/03/2026 11:15:35,,tejas.39@hotmail.com,SONIA MERY RIVERA TEJADA,,79699414
+1666,Helen Edith Garcia Guevara,10000,40,Mujer,No Fumador,10 años,Sí,No,16/03/2026 11:19:01,,-,SONIA MERY RIVERA TEJADA,,-
+1667,Helen Edith Garcia Guevara,10000,40,Mujer,No Fumador,20 años,Sí,No,16/03/2026 11:21:43,,-,SONIA MERY RIVERA TEJADA,,-
+1668,Helen Edith Garcia Guevara,10000,40,Mujer,No Fumador,10 años,Sí,No,16/03/2026 11:24:29,,-,SONIA MERY RIVERA TEJADA,,-
+1669,Luis Javier Hernandez Gonzalez,10000,34,Hombre,No Fumador,10 años,Sí,No,16/03/2026 11:26:01,,-,SONIA MERY RIVERA TEJADA,,-
+1670,Byron Leonel Morales Rosas,10000,59,Hombre,No Fumador,10 años,Sí,No,16/03/2026 11:28:02,,-,SONIA MERY RIVERA TEJADA,,-
+1671,Fatima Guadalupe Regalado Oliva,10000,38,Mujer,No Fumador,10 años,Sí,No,16/03/2026 11:29:24,,-,SONIA MERY RIVERA TEJADA,,-
+1672,A,200000,44,Hombre,No Fumador,10 años,Sí,No,16/03/2026 15:15:47,,A@A.COM,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77777777
+1673,JUAN MANUEL BONILLA GUANDIQUE,300000,34,Hombre,No Fumador,10 años,Sí,No,17/03/2026 11:41:07,ticha32@gmail.com,ticha32@gmail.com,ANA LETICIA DE MELENDEZ,79899658,79899658
+1674,DANIEL OVIDIO LEIVA AGUILAR,150000,47,Hombre,No Fumador,10 años,Sí,No,17/03/2026 11:42:54,OPERACIONES@SCALACONSULTORES.COM.SV,OPERACIONES@SCALACONSULTORES.COM.SV,"SERVICIOS DE CALIDAD, CONSULTORES S.A. DE C.V.",77405569,77405569
+1675,ANA DAYSI SOLIS ,61000,51,Mujer,No Fumador,15 años,Sí,Sí,17/03/2026 15:31:52,,orellanaarnoldotodosegurosv@gmail.com,ARNOLDO ORELLANA,,64319095
+1676,ANA DAYSI SOLIS ,61000,51,Mujer,No Fumador,15 años,Sí,No,17/03/2026 15:35:47,ARNOLDO ORELLANA,orellanaarnoldotodosegurosv@gmail.com,,,64319095
+1677,ANA DAYSI SOLIZ ,61000,51,Mujer,No Fumador,20 años,Sí,No,17/03/2026 15:37:48,ARNOLDO ORELLANA,orellanaarnoldotodosegurosv@gmail.com,,,64319095
+1678,ANA DAYSI SOLIS ,61000,51,Mujer,No Fumador,20 años,Sí,No,17/03/2026 15:48:26,ARNOLDO ORELLANA,orellanaarnoldotodosegurosv@gmail.com,,,64319095
+1679,ANA DAYSI SOLIS ,61000,51,Mujer,No Fumador,20 años,Sí,No,17/03/2026 15:48:27,ARNOLDO ORELLANA,orellanaarnoldotodosegurosv@gmail.com,,,64319095
+1680,MARIA JOSE VELAZQUEZ SOLORZANO ,110000,32,Mujer,No Fumador,25 años,Sí,Sí,17/03/2026 16:07:51,claudia.ventura013@gmail.com,claudia.ventura013@gmail.com,CLAUDIA IVONNE VENTURA DE LÓPEZ,76460637,76460637
+1681,JUAN PABLO MERINO SOSA,10000,28,Hombre,No Fumador,10 años,No,Sí,17/03/2026 18:03:41,sagconsultoreseguros@gmail.com,sagconsultoreseguros@gmail.com,carolina chicas,73185319,7318-5319
+1682,JUAN PABLO MERINO SOSA,25000,28,Hombre,No Fumador,10 años,Sí,Sí,17/03/2026 18:05:41,sagconsultoreseguros@gmail.com,sagconsultoreseguros@gmail.com,carolina chicas,73185319,73195319
+1683,JUAN PABLO MERINO SOSA,15000,28,Hombre,No Fumador,10 años,No,Sí,17/03/2026 18:06:33,sagconsultoreseguros@gmail.com,sagconsultoreseguros@gmail.com,carolina chicas,73185319,73185319
+1684,Juan Pablo Merino Sosa,15000,28,Hombre,No Fumador,10 años,Sí,Sí,18/03/2026 08:05:11,,comercial@segurosv.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77437088
+1685,JOSE EDGARDO AVELAR AVILA,200000,64,Hombre,No Fumador,10 años,Sí,No,18/03/2026 10:42:29,info@rctuseguro.com,info@rctuseguro.com,RODRIGO ALEJANDRO CHACÓN CAMPOS,70895772,70895772
+1686,IRMA MARITZA OCHOA DE OLMEDO ,500000,51,Mujer,No Fumador,15 años,Sí,No,18/03/2026 11:22:24,,negocios@scalaconsultores.com.sv,"SERVICIOS DE CALIDAD, CONSULTORES S.A. DE C.V.",,22785544
+1687,JUAN CARLOS HERNANDEZ MELGAR,175000,46,Hombre,No Fumador,20 años,Sí,Sí,18/03/2026 11:31:16,irmajorellana@gmail.com,irmajorellana@gmail.com,"TODO SEGURO, SOCIEDAD ANONIMA DE CAPITAL VARIABLE",64319094,64319094
+1688,JUAN CARLOS HERNANDEZ MELGAR,175000,46,Hombre,No Fumador,20 años,Sí,Sí,18/03/2026 11:33:31,irmajorellana@gmail.com,irmajorellana@gmail.com,"TODO SEGURO, SOCIEDAD ANONIMA DE CAPITAL VARIABLE",64319094,64319094
+1689,Joyce Garcia,10000,52,Hombre,No Fumador,25 años,Sí,Sí,18/03/2026 14:54:23,asistentepresidencia@zyhasesores.com,rivasjacqueline522@gmail.com,"Z Y H ASESORES, S.A. DE C.V.",78062064,77728433
+1690,EDGAR ALEXANDER CARRERO MENJIVAR,50000,47,Hombre,No Fumador,25 años,Sí,Sí,18/03/2026 15:19:01,,-,FLOR FLORES,,-
+1691,REINA MARISOL BONILLA MELGAR,500000,40,Mujer,No Fumador,30 años,Sí,Sí,18/03/2026 15:20:43,Mercadeo@lvseguros.net,Mercadeo@lvseguros.net,ALEXANDER ANTONIO LINARES VÁSQUEZ,61657182,61657182
+1692,REINA MARISOL BONILLA MELGAR,500000,40,Mujer,No Fumador,30 años,No,No,18/03/2026 15:34:53,mercadeo@lvseguros.net,mercadeo@lvseguros.net,ALEXANDER ANTONIO LINARES VÁSQUEZ,25376700,25376700
+1693,MONICA GUADALUPE AGUILAR DE AMAYA,10000,38,Mujer,No Fumador,10 años,Sí,Sí,18/03/2026 17:58:54,,KARGUETA@CONASESA.COM,CONASESA,,77215330
+1694,Amanda ,100000,69,Mujer,No Fumador,15 años,No,No,18/03/2026 21:56:24,,eliasescobar253@gmail.com,Elias Escobar,,79448272
+1695,VILMA NOEMY DE QUINTANILLA,50000,54,Mujer,No Fumador,10 años,Sí,Sí,19/03/2026 13:37:32,patriciadecornejo_@hotmail.com,patriciadecornejo_@hotmail.com,PATRICIA ELIZABETH RIVAS DE CORNEJO,78732626,78732626
+1696,MIGUEL ANGEL QUINTANILLA,35000,59,Hombre,No Fumador,10 años,Sí,Sí,19/03/2026 13:44:04,patriciadecornejo_@hotmail.com ,patriciadecornejo_@hotmail.com,PATRICIA ELIZABETH RIVAS DE CORNEJO,78732626,78732626
+1697,GILBERTO HERNANDEZ SANTACRUZ,25000,46,Hombre,No Fumador,15 años,Sí,Sí,19/03/2026 13:54:58,patriciadecornejo_@hotmail.com,patriciadecornejo_@hotmail.com,PATRICIA ELIZABETH RIVAS DE CORNEJO,78732626,78732626
+1698,MARVIN JEOVANY RODRIGUEZ PINEDA,15000,25,Hombre,No Fumador,10 años,Sí,Sí,19/03/2026 15:32:19,,-,FLOR FLORES,,-
+1699,WILBER LARIN,30000,42,Hombre,No Fumador,30 años,Sí,Sí,19/03/2026 16:26:53,,alexlarinrivera@gmail.com,WILBER ALEXANDER LARÍN RIVERA,,76810464
+1700,Helen Edith García Guevara ,10000,41,Mujer,No Fumador,10 años,Sí,No,20/03/2026 08:05:01,,oyrseguros@outlook.es,SONIA MERY RIVERA TEJADA,,69799414
+1701,Monica Geraldine Garcia Martinez,25000,26,Mujer,No Fumador,10 años,Sí,Sí,20/03/2026 10:12:58,,mg5366257@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,60691556
+1702,Monica Geraldine Garcia Martinez,50000,26,Mujer,No Fumador,10 años,Sí,Sí,20/03/2026 10:15:29,,mg5366257@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,60591556
+1703,ana maria portillo,350000,63,Mujer,No Fumador,20 años,No,Sí,20/03/2026 12:55:10,,orlando.arevalo@besafeasesores.com,"BE SAFE ASESORES, S.A. DE C.V.",,71188180
+1704,Ricardo Driotez ,50000,52,Hombre,No Fumador,30 años,Sí,Sí,20/03/2026 15:26:41,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,78927756
+1705,JOSE ISRAEL APARICIO MATA,30000,66,Hombre,No Fumador,10 años,Sí,No,20/03/2026 17:55:02,gutierrezalex8@hotmail.com,gutierrezalex8@hotmail.com,RAMÓN ALEXIS GUTIÉRREZ RAMOS,77493090,77493090
+1706,JOSE ISRAEL APARICIO MATA,28000,66,Hombre,No Fumador,10 años,No,No,20/03/2026 18:03:25,gutierrezalex8@hotmail.com,gutierrezalex8@hotmail.com,RAMÓN ALEXIS GUTIÉRREZ RAMOS,77493090,77493090
+1707,MARIA JACKELYNE DE LOS ANGELES AYALA DE MORAN,400000,63,Mujer,No Fumador,10 años,Sí,No,21/03/2026 11:45:12,ticha32@gmail.com,ticha32@gmail.com,ANA LETICIA DE MELENDEZ,79899658,79899658
+1708,RAFAEL ANTONIO MORAN ORELLANA,400000,65,Hombre,No Fumador,10 años,Sí,No,21/03/2026 11:48:16,ticha32@gmail.com,ticha32@gmail.com,ANA LETICIA DE MELENDEZ,79899658,79899658
+1709,OSCAR MIRANDA,500000,55,Hombre,No Fumador,25 años,Sí,No,21/03/2026 22:39:48,,williamherrera@seguroshv.com,WILLIAM ALBERTO HERRERA PÉREZ,,77449972
+1710,DIANA LOPEZ BEDOYA,282000,54,Mujer,No Fumador,20 años,Sí,Sí,23/03/2026 07:31:27,asistencia.gerencia.nasser@gmail.com,asistencia.gerencia.nasser@gmail.com,"NASSER GARCÍA, S.A. DE C.V.",70695533,70695533
+1711,CARLOS RENE SANCHEZ,200000,52,Hombre,No Fumador,20 años,Sí,Sí,23/03/2026 09:37:36,eguzman.seguros@gmail.com,eguzman.seguros@gmail.com,Ana Elizabeth Guzmán Huezo,78568979,78568979
+1712,EDGAR EDUARDO ALVAREZ,150000,50,Hombre,Fumador,20 años,Sí,Sí,23/03/2026 10:46:08,,carlos-vasquez@ipl.com.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,75863780
+1713,EDGAR ALVAREZ,100000,50,Hombre,Fumador,20 años,Sí,Sí,23/03/2026 10:47:29,,carlos-vasquez@ipl.com.sv,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,75863780
+1714,Edwin salmeron ,50000,36,Hombre,No Fumador,10 años,Sí,Sí,23/03/2026 11:27:26,,edwin_1621@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,77261394
+1715,ROGES NAPOLEON VILLATORO NUÑEZ,91000,67,Hombre,No Fumador,10 años,Sí,No,23/03/2026 11:42:19,tony.chavez@aragondeseguros.com,info@aragondeseguros.com,,77874300,77874300
+1716,SANTIAGO MARTINEZ BONILLA,100000,55,Hombre,No Fumador,10 años,Sí,No,23/03/2026 11:56:03,tony.chavez@argondeseguros.com,info@aragondeseguros.com,TONY CHÁVEZ ARAGÓN,77874300,7787-4300
+1717,SANTIAGO MARTINEZ BONILLA,150000,55,Hombre,No Fumador,10 años,Sí,No,23/03/2026 12:07:49,tony.chavez@aragondeseguros.com,tony.chavez@aragondeseguros.com,TONY CHÁVEZ ARAGÓN,77874300,7787-4300
+1718,CESAR ALBERTO LAINEZ JIMENEZ,165000,53,Hombre,No Fumador,25 años,Sí,Sí,23/03/2026 12:09:52,c.bseguros@hotmail.com,c.bseguros@hotmail.com,Ileana Carolina Ayala,79850683,79850683
+1719,Claudia Irene Echeverría Hernández,180000,42,Mujer,No Fumador,20 años,Sí,No,24/03/2026 08:38:28,,decheverria@ras.com.sv,RAS,,25019999
+1720,CLAUDIA IRENE ECHEVERRIA HERNANDEZ,180000,42,Mujer,No Fumador,20 años,Sí,No,24/03/2026 08:47:30,,decheverria@ras.com.sv,RAS,,25019999
+1721,Paola Reyes,50000,28,Mujer,No Fumador,10 años,Sí,Sí,24/03/2026 09:23:41,,ale.roques07@gmail.com,Alejandra Roque,,7881 9125 
+1722,Silvia Roque,30000,33,Mujer,No Fumador,15 años,Sí,Sí,24/03/2026 09:26:56,,ale.roques07@gmail.com,Alejandra Roque,,7881 9125 
+1723,Gustavo Francisco Rivas Delgado ,225000,50,Hombre,No Fumador,30 años,Sí,No,24/03/2026 12:05:24,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77410548
+1724,Jose Clemente Sibrian Rivas,81900,55,Hombre,No Fumador,15 años,No,No,24/03/2026 15:19:00,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1725,Mártir Joel Escobar Rivera,500000,55,Hombre,No Fumador,10 años,No,No,24/03/2026 21:10:54,Tony.chavez@aragondeseguros.com,Tony.chavez@aragondeseguros.com,Tony Chávez,,77874300
+1726,MIGUEL ANGEL ZEPEDA ,82000,61,Hombre,No Fumador,10 años,Sí,Sí,25/03/2026 10:46:31,,cjvillacorta@av-seguros.com,HECTOR VALLECILLOS ,,71630943
+1727,Elias Guevara,150000,45,Hombre,No Fumador,15 años,Sí,Sí,25/03/2026 11:23:16,,rommelseguros@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71267002
+1728,Elias Guevara,150000,45,Hombre,No Fumador,15 años,Sí,No,25/03/2026 11:27:31,rommelseguros@hotmail.com,rommelseguros@hotmail.com,Rommel Iraherta,,71267002
+1729,Elias Guevara,100000,45,Hombre,No Fumador,15 años,Sí,No,25/03/2026 11:33:18,rommelseguros@hotmail.com,rommelseguros@hotmail.com,Rommel iraheta,,71267002
+1730,Flor de Maria Duarte de Galdamez,45000,58,Mujer,No Fumador,10 años,No,Sí,25/03/2026 11:34:19,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1731,Flor de Maria Duarte de Galdamez,45000,58,Mujer,No Fumador,10 años,No,No,25/03/2026 11:35:07,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1732,Flor de Maria Duarte de Galdamez,45000,58,Mujer,No Fumador,10 años,Sí,No,25/03/2026 11:37:05,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1733,Jaime Arnulfo Mejia Arevalo,60000,56,Hombre,No Fumador,10 años,No,No,25/03/2026 14:39:39,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1734,JENIFFER ALEJANDRA SANDOVAL BLANCO ,120000,27,Mujer,No Fumador,25 años,Sí,Sí,25/03/2026 15:24:19,lartiga@adrisa.com.sv,lartiga@adrisa.com.sv,"ADMINISTRADORA DE SEGUROS, S.A. DE C.V.",2660-1722,2560-1722
+1735,FERNANDO JOSE LANDAVERDE ,395000,27,Hombre,No Fumador,15 años,Sí,No,25/03/2026 15:56:56,,negocios@scalaconsultores.com.sv,"SERVICIOS DE CALIDAD, CONSULTORES S.A. DE C.V.",,22785544
+1736,ADRIANA  GONZALEZ DE MEJIA,40000,63,Mujer,No Fumador,15 años,Sí,Sí,25/03/2026 16:44:21,marta.eugenia@asegura.com.sv,martita19951@hotmail.com,MARTA EUGENIA RODRÍGUEZ,71189324,68299193
+1737,ADRIANA GONZALEZ DE MEJIA,25000,63,Mujer,No Fumador,15 años,Sí,Sí,25/03/2026 16:49:04,marta.eugenia@asegura.com.sv,martita19951@hotmail.com,MARTA EUGENIA RODRÍGUEZ,68299193,68299193
+1738,CARLOS RENE SANCHEZ,200000,52,Hombre,No Fumador,20 años,No,No,26/03/2026 06:21:40,eguzman.seguros@gmail.com,eguzman.seguros@gmail.com,Ana Elizabeth Guzmán,78568979,78568979
+1739,Lilian Del Carmen Alvarez,125000,59,Mujer,No Fumador,10 años,No,No,26/03/2026 09:35:56,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1740,Oscar Alexander Mata,155000,32,Hombre,No Fumador,15 años,Sí,No,26/03/2026 09:36:41,,adm.sramirez@gmail.com,LEYLAN STEPHANIE CORNEJO DE RAMÍREZ,,75633044
+1741,Herbert Ouver Lobos,500000,57,Hombre,No Fumador,10 años,Sí,No,26/03/2026 10:18:15,,Tony.chavez@aragondeseguros.com,Tony Chávez Aragón ,,77874300
+1742,Deysi Elizabeth Martinez de Vasquez,100000,56,Mujer,No Fumador,20 años,Sí,No,26/03/2026 10:34:48,,misael.seguros10@gmail.com,MISAEL ESTEBAN SÁNCHEZ MENJIVAR,,73624006
+1743,Herbert Ouver Lobos,500000,57,Hombre,No Fumador,10 años,Sí,No,26/03/2026 14:09:41,,Tony.chavez@aragondeseguros.com,Tony Chávez Aragón ,,77874300
+1744,MARIO ARMANDO RODRIGUEZ CASTILLO,100000,58,Hombre,No Fumador,10 años,Sí,Sí,26/03/2026 16:40:32,,orellanaarnoldotodosegurosv@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,64319095
+1745,MARIO ARMANDO RODRIGUEZ,100000,58,Hombre,No Fumador,10 años,Sí,No,26/03/2026 16:42:14,,orellanaarnoldotodosegurosv@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,64319095
+1746,MANUEL CORDOVA MELGAR,100000,47,Hombre,No Fumador,25 años,No,Sí,27/03/2026 10:57:56,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1747,EVELIN NOHEMI QUIJADA FUENTES,100000,30,Mujer,No Fumador,30 años,Sí,No,27/03/2026 12:01:44,,beverlyabarcaseguros@gmail.com,DYLCIA BEVERLY ABARCA,,76444967
+1748,EVELIN NOHEMI QUIJADA FUENTES,150000,30,Mujer,No Fumador,30 años,Sí,No,27/03/2026 12:02:49,,beverlyabarcaseguros@gmail.com,DYLCIA BEVERLY ABARCA,,76444967
+1749,GERARDO VEGA,100000,25,Hombre,No Fumador,30 años,Sí,No,27/03/2026 12:03:59,,beverlyabarcaseguros@gmail.com,DYLCIA BEVERLY ABARCA,,76444967
+1750,GERARDO VEGA,150000,25,Hombre,No Fumador,30 años,Sí,No,27/03/2026 12:04:51,,beverlyabarcaseguros@gmail.com,DYLCIA BEVERLY ABARCA,,76444967
+1751,ELMER ALEXANDER MELGAR MEJIA ,100000,32,Hombre,No Fumador,30 años,Sí,No,27/03/2026 13:10:07,,oyrseguros@outlook.es,SONIA MERY RIVERA TEJADA,,79699414
+1752,ALEXIS JAVIER MELGAR CALLES,100000,25,Mujer,No Fumador,30 años,Sí,No,27/03/2026 13:16:54,,oyrseguros@outlook.es,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79699414
+1753,ELMER ALEXANDER MELGAR,50000,32,Hombre,No Fumador,30 años,Sí,No,27/03/2026 13:19:05,,oyrseguros@outlook.es,SONIA MERY RIVERA TEJADA,,79699414
+1754,ALEXIS JAVIER MELGAR ,50000,25,Hombre,No Fumador,30 años,Sí,No,27/03/2026 13:21:14,,oyrseguros@outlook.es,SONIA MERY RIVERA TEJADA,,79699414
+1755,ALEXIS J. MELGAR ,100000,25,Hombre,No Fumador,10 años,Sí,No,27/03/2026 13:24:20,,oyrseguros@outlook.es,SONIA MERY RIVERA TEJADA,,79699414
+1756,ALEXIS JAVIER MELGAR,100000,25,Hombre,No Fumador,30 años,Sí,No,27/03/2026 13:27:47,,oyrseguros@outlook.es,SONIA MERY RIVERA TEJADA,,79699414
+1757,ZAYDA I. LEIVA,50000,35,Mujer,No Fumador,30 años,Sí,No,27/03/2026 13:29:23,,oyrseguros@outlook.es,SONIA MERY RIVERA TEJADA,,79699414
+1758,ZAYDA I. LEIVA,100000,35,Mujer,No Fumador,30 años,Sí,No,27/03/2026 13:31:52,,oyrseguros@outlook.es,SONIA MERY RIVERA TEJADA,,79699414
+1759,MARIA A. MEJIA CASCO,30000,51,Mujer,No Fumador,20 años,Sí,No,27/03/2026 13:33:52,,oyrseguros@outlook.es,SONIA MERY RIVERA TEJADA,,79699414
+1760,MARIA ANGELA MEJIA CASCO,30000,51,Mujer,No Fumador,25 años,Sí,No,27/03/2026 13:35:55,,oyrseguros@outlook.es,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79699414
+1761,FELIPA LEIVA ALVARENGA,10000,64,Mujer,No Fumador,20 años,Sí,No,27/03/2026 13:37:26,,oyrseguros@outlook.es,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79699414
+1762,FELIPA LEIVA ALVARENGA,20000,64,Mujer,No Fumador,20 años,No,No,27/03/2026 13:40:53,,oyrseguros@outlook.es,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79699414
+1763,CAMACHO,500000,50,Hombre,No Fumador,10 años,No,No,27/03/2026 15:28:51,,lju@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,89898989
+1764,XX,500000,50,Hombre,No Fumador,20 años,No,No,27/03/2026 15:29:38,,lju@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,89898989
+1765,Felipa Leiva Alvarenga,30000,64,Mujer,No Fumador,20 años,Sí,Sí,27/03/2026 17:24:34,,tejas.39@hotmail.com,SONIA MERY RIVERA TEJADA,,79699414
+1766,Felipa Leiva Alvarenga,30000,64,Mujer,No Fumador,25 años,Sí,Sí,27/03/2026 17:28:13,,tejas.39@hotmail.com,SONIA MERY RIVERA TEJADA,,79699414
+1767,Jose Alexander Aguilar Borja,349411,28,Hombre,No Fumador,25 años,Sí,Sí,27/03/2026 17:43:02,,tejas.39@hotmail.com,SONIA MERY RIVERA TEJADA,,79699414
+1768,ESTELA AGUILAR,20000,54,Mujer,No Fumador,30 años,Sí,Sí,28/03/2026 19:47:52,,gestiones.segurossv@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,72741369
+1769,Melvin Geovanny Fernandez Cano,75000,57,Hombre,No Fumador,15 años,No,No,30/03/2026 08:20:12,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1770,Francisco Oswaldo Orellana Mariona ,25000,63,Hombre,No Fumador,10 años,Sí,Sí,30/03/2026 09:49:51,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77410548
+1771,JOSE ANTONIO BERMUDEZ GUZMAN,200000,50,Hombre,No Fumador,15 años,Sí,No,30/03/2026 11:17:59,ssantos91seguros@gmail.com,ssantos91seguros@gmail.com,GRACIELA STEPHANIE SANTOS FUNES,77407326,77407326
+1772,Elizabeth Trabanino,125000,69,Mujer,No Fumador,15 años,No,No,30/03/2026 15:23:19,idesalazar@ivsasesorias.com,idesalazar@ivsasesorias.com,Sonia Ivette Varela de Salazar ,78385387,78385387
+1773,Elizabeth Trabanino,125000,69,Mujer,Fumador,15 años,No,No,30/03/2026 15:38:13,idesalazar@ivsasesorias.com,idesalazar@ivsasesorias.com,Sonia Ivette Varewla de Salazar,78385387,78385387
+1774,Elezabeth Trabanino,125000,69,Mujer,No Fumador,15 años,No,No,30/03/2026 15:41:12,idesalazar@ivsasesorias.com,idesalazar@ivsasesorias.com,Sonia Ivette Varela de Salazar,78385387,78385387
+1775,Jose Francisco Mendez Osorio,60000,51,Hombre,No Fumador,10 años,No,No,31/03/2026 08:12:08,,sefi@segurosyfinanzas.com,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1776,Elizabeth Trabanino Suarez ,125000,69,Mujer,No Fumador,20 años,No,No,31/03/2026 08:43:06,idesalazar@ivsasesorias.com,idesalazar@ivsasesorias.com,Sonia Ivette Varela de Salazar,78385387,78385387
+1777,OSCAR ADAN BURGOS,190000,61,Hombre,No Fumador,15 años,Sí,No,31/03/2026 14:55:52,,fbaires@siiessv.com,FABIO BENJAMIN BAIRES VAQUERANO,,73804888
+1778,Fredis Astul Alemán Bonilla,450000,49,Hombre,No Fumador,20 años,Sí,No,31/03/2026 22:46:45,,Tony.chavez@aragondeseguros.com,Tony Chávez Aragón ,,77874300
+1779,Erick Josue Ventura Umaña,40000,29,Hombre,No Fumador,10 años,Sí,Sí,06/04/2026 09:15:15,,Segurosyfianzas.sm@gmail.com,FRANCISCO EDUARDO MARENCO GUZMÁN,,7640-6085 
+1780,Gabriel Alexander Evora,50000,32,Hombre,No Fumador,10 años,No,No,06/04/2026 09:33:41,,adm.sramirez@gmail.com,LEYLAN STEPHANIE CORNEJO DE RAMÍREZ,,75633044
+1781,SEBASTIAN ALBERTO COTO MOLINA,150000,32,Hombre,No Fumador,25 años,No,No,06/04/2026 09:42:27,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1782,KEVIN HERNANDEZ,50000,32,Hombre,No Fumador,10 años,Sí,Sí,06/04/2026 09:45:56,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1783,SEBASTIAN ALBERTO COTO MOLINA,200000,32,Hombre,No Fumador,25 años,No,No,06/04/2026 09:53:06,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1784,Felipa Leiva Alvarenga,20000,64,Mujer,No Fumador,20 años,No,No,06/04/2026 10:35:47,,-,SONIA MERY RIVERA TEJADA,,-
+1785,ERICK JOSUE VENTURA UMAÑA,40000,29,Hombre,No Fumador,30 años,Sí,Sí,06/04/2026 10:41:01,,segurosyfianzas.sm@gmail.com,FRANCISCO EDUARDO MARENCO GUZMÁN,,76406085
+1786,MIRNA ESTELA SALAZAR DE ROFRIGUEZ,112000,54,Hombre,No Fumador,15 años,Sí,No,06/04/2026 15:57:28,asistentepresidencia@zyhasesores.com,asistentepresidencia@zyhasesores.com,"Z Y H ASESORES, S.A. DE C.V.",78062064,78062064
+1787,Gabriel Alexander Evora Urbina,50000,32,Hombre,No Fumador,10 años,No,No,06/04/2026 16:09:16,,adm.sramirez@gmail.com,LEYLAN STEPHANIE CORNEJO DE RAMÍREZ,,75633044
+1788,FREDIS ASTUL ALEMAN BONILLA,450000,49,Hombre,No Fumador,20 años,Sí,No,06/04/2026 16:30:16,tony.chavez@aragondeseguros.com,tony.chavez@aragondeseguros.com,TONY CHÁVEZ ARAGÓN,77874300,77874300
+1789,KATHERINE LISBETH FLORES TREJO,25000,29,Mujer,No Fumador,10 años,Sí,Sí,06/04/2026 18:24:12,,Patricia.grande@egseguros.net,EVELIN PATRICIA GRANDE SOTO,,78443857
+1790,GEOVANNY ALEJANDRO DIAZ MARTINEZ,10000,26,Hombre,No Fumador,10 años,Sí,Sí,07/04/2026 10:44:55,aduran@contactosegurossv.com,aduran@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",72168067,00000000
+1791,GEOVANNY ALEJANDRO DIAZ MARTINEZ,10000,26,Hombre,No Fumador,15 años,Sí,Sí,07/04/2026 10:47:03,aduran@contactosegurossv.com,aduran@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",72168067,00000000
+1792,LORENA GUADALUPE ROSALES RAMOS,10000,25,Mujer,No Fumador,10 años,Sí,Sí,07/04/2026 10:48:12,aduran@contactosegurossv.com,aduran@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",72168067,00000000
+1793,LORENA GUADALUPE ROSALES RAMOS,10000,25,Mujer,No Fumador,15 años,Sí,Sí,07/04/2026 10:57:40,aduran@contactosegurossv.com,aduran@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",72168067,00000000
+1794,MARIO ARMANDO RODRIGUEZ CASTILLO,55700,58,Hombre,No Fumador,10 años,Sí,No,07/04/2026 10:59:40,,orellanaarnoldotodosegurosv@gmail.com,ARNOLDO ORELLANA,,64319095
+1795,DAVID ALEJANDRO SANCHEZ VASQUEZ,10000,31,Hombre,No Fumador,10 años,Sí,Sí,07/04/2026 11:01:21,aduran@contactosegurossv.com,aduran@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",72168067,00000000
+1796,MARIO ARMANDO RODRIGUEZ CASTILLO,55700,58,Hombre,No Fumador,10 años,No,Sí,07/04/2026 11:01:42,,orellanaarnoldotodosegurosv@gmail.com,ARNOLDO ORELLANA,,64319095
+1797,DAVID ALEJANDRO SANCHEZ VASQUEZ,10000,31,Hombre,No Fumador,15 años,Sí,Sí,07/04/2026 11:02:35,aduran@contactosegurossv.com,aduran@contactosegurossv.com,"CONTACTO CORREDORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",72168067,00000000
+1798,MARIO ARMANDO RODRIGUEZ ,55700,58,Hombre,No Fumador,15 años,No,No,07/04/2026 11:03:17,,orellanaarnoldotodosegurosv@gmail.com,ARNOLDO ORELLANA,,64319095
+1799,DOUGLAS EDUARDO MONGE CORNEJO,50000,52,Hombre,No Fumador,25 años,No,No,07/04/2026 11:18:30,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1800,DOUGLAS EDUARDO MONGE CORNEJO,100000,52,Hombre,No Fumador,25 años,No,No,07/04/2026 11:23:58,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1801,TERESA DE JESUS LINARES DE NAVARRO,100000,54,Mujer,No Fumador,10 años,No,No,07/04/2026 11:25:36,tony.chavez@aragondeseguros.com,info@aragondeseguros.com,TONY CHÁVEZ ARAGÓN,77874300,77874300
+1802,gavsdvxc,50000,31,Hombre,No Fumador,10 años,Sí,Sí,07/04/2026 13:38:07,,sdfsdfsfesfds,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,65413214
+1803,Alejandro Josue Romero Romero,50000,32,Hombre,No Fumador,20 años,No,No,07/04/2026 15:01:19,,adm.sramirez@gmail.com,LEYLAN STEPHANIE CORNEJO DE RAMÍREZ,,75633044
+1804,SEBASTIAN ALBERTO COTO MOLINA,200000,32,Hombre,No Fumador,25 años,No,Sí,07/04/2026 15:55:41,,operaciones@dmasesores-seguros.com,"DM ASESORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,22841256
+1805,CECILIA ELIZABETH REYES DE PINEDA,200000,39,Mujer,No Fumador,10 años,Sí,Sí,08/04/2026 15:30:31,orellanaarnoldotodosegurosv@gmail.com,orellanaarnoldotodosegurosv@gmail.com,ARNOLDO DE JESÚS ORELLANA GÓMEZ,64319095,6431-9095
+1806,CECILIA ELIZABETH REYES DE PINEDA ,200000,39,Mujer,No Fumador,10 años,Sí,No,08/04/2026 15:33:23,orellanaarnoldotodosegurosv@gmail.com,orellanaarnoldotodosegurosv@gmail.com,ARNOLDO DE JESÚS ORELLANA GÓMEZ,64319095,6431905
+1807,Marcelino Imbers Bonilla,103000,35,Hombre,No Fumador,30 años,Sí,No,08/04/2026 16:02:30,met.vidaconsulting@gmail.com,amm.vidaconsulting@gmail.com,MANUEL ENRIQUE TORRES CANDEL,79418777,79418777
+1808,VIDAL ANTONIO MENDEZ CAMACHO,300000,57,Hombre,No Fumador,10 años,Sí,No,08/04/2026 17:13:03,,orellanaarnoldotodosegurosv@gmail.com,ARNOLDO ORELLANA,,64319095
+1809,RAFAEL EDGARDO SANTIAGO LARA RIOS,240043,57,Hombre,No Fumador,30 años,Sí,No,08/04/2026 20:38:26,JFGSEGUROS@GMAIL.COM,JFGSEGUROS@GMAIL.COM,JORGE ALBERTO FERNÁNDEZ GUZMÁN,7910-6313,7910-6313
+1810,Elvis Omar Mejía,100000,53,Hombre,No Fumador,30 años,Sí,Sí,08/04/2026 22:43:03,mirnaorozco67@gmail.com,mirnaorozco67@gmail.com,Mirna Elizabeth Orozco Hernández,79079735,79079735
+1811,Elvis Omar Mejía,100000,53,Hombre,No Fumador,20 años,Sí,Sí,08/04/2026 22:49:38,mirnaorozco67@gmail.com,mirnaorozco67@gmail.com,Mirna Elizabeth Orozco Hernández,79079735,79079735
+1812,Elvis Omar Mejía,100000,53,Hombre,No Fumador,20 años,No,No,08/04/2026 22:56:18,mirnaorozco67@gmail.com,mirnaorozco67@gmail.com,Mirna Elizabeth Orozco Hernández,79079735,79079735
+1813,Elvis Omar Mejía,75000,53,Hombre,No Fumador,20 años,Sí,No,08/04/2026 23:03:54,mirnaorozco67@gmail.com,mirnaorozco67@gmail.com,Mirna Elizabeth Orozco Hernández,79079735,79079735
+1814,OSCAR MIRANDA,465832,55,Hombre,No Fumador,10 años,Sí,No,08/04/2026 23:16:44,,williamherrera@seguroshv.com,WILLIAM ALBERTO HERRERA PÉREZ,,77449972
+1815,OSCAR MIRANDA,450000,55,Hombre,No Fumador,10 años,Sí,No,08/04/2026 23:18:15,,williamherrera@seguroshv.com,WILLIAM ALBERTO HERRERA PÉREZ,,77449972
+1816,JUAN FRANCISCO GIRON,100000,53,Hombre,No Fumador,20 años,Sí,No,09/04/2026 11:27:41,,info@crselsalvador.com.sv,CRS SEGUROS,,7160 9301
+1817,Maria Orellana,10000,58,Mujer,No Fumador,25 años,Sí,Sí,09/04/2026 12:23:09,bosorio@mynasesores.com,bosorio@mynasesores.com,Myn Asesores,72042898,72042898
+1818,LAURA BEATRIZ LÓPEZ QUINTANILLA ,100000,43,Mujer,No Fumador,25 años,Sí,Sí,09/04/2026 15:41:43,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081 
+1819,Laura Beatriz López Quintanilla ,60000,43,Mujer,No Fumador,10 años,Sí,Sí,09/04/2026 15:44:18,quezadamanuel228@gmail.com,quezadamanuel228@gmail.com,José Manuel Quezada García ,71010081 ,71010081 
+1820,Dina Guadalupe Guillen Henríquez,100000,51,Mujer,No Fumador,20 años,No,No,09/04/2026 16:00:59,,mnunez@protecseg.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79883866
+1821,LAURA BEATRIZ LÓPEZ QUINTANILLA ,60000,43,Mujer,No Fumador,10 años,Sí,Sí,09/04/2026 16:02:14,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081 
+1822,Laura Beatriz López Quintanilla ,100000,43,Mujer,No Fumador,10 años,Sí,Sí,09/04/2026 16:05:22,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081 
+1823,Claudia de Granillo,100000,31,Mujer,No Fumador,30 años,Sí,Sí,09/04/2026 16:09:56,,operaciones@protecseg.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79883866
+1824,Claudia de Granillo,100000,31,Mujer,No Fumador,30 años,No,Sí,09/04/2026 16:12:36,,operaciones@protecseg.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,79883866
+1825,Beatriz Duran Rojas,250000,45,Mujer,No Fumador,10 años,No,No,09/04/2026 16:41:25,,-,Walter Ramirez,,-
+1826,Beatriz Duran Rojas,250000,41,Mujer,No Fumador,25 años,No,No,09/04/2026 16:42:11,,-,Walter Ramírez,,-
+1827,Magaly Eugenia Rojas Cabrales,100000,69,Mujer,No Fumador,25 años,No,No,09/04/2026 16:55:39,,-,Walter Ramírez,,-
+1828,Francisco José Cáceres Zaldaña,100000,55,Hombre,Fumador,20 años,No,No,09/04/2026 21:44:45,,fbaires@siiessv.com,FABIO BENJAMIN BAIRES VAQUERANO,,73804888
+1829,Laura Beatriz López Quintanilla ,100000,43,Mujer,No Fumador,10 años,Sí,Sí,10/04/2026 10:46:42,quezadamanuel228@gmail.com,quezadamanuel228@gmail.com,José Manuel Quezada García ,71010081 ,71010081 
+1830,Laura Beatriz López Quintanilla ,150000,43,Mujer,No Fumador,10 años,Sí,Sí,10/04/2026 10:49:22,quezadamanuel228@gmail.com,quezadamanuel228@gmail.com,José Manuel Quezada García ,71010081 ,71010081 
+1831,Manuel ,50000,51,Hombre,No Fumador,10 años,Sí,Sí,10/04/2026 10:51:25,,quezadamanuel228@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,71010081 
+1832,ESTER ANGELICA HERNANDEZ DE ECHEVERRIA,211000,63,Mujer,No Fumador,10 años,No,No,10/04/2026 14:14:43,,decheverria@ras.com.sv,"RAS, S.A. DE C.V.",,25019999
+1833,Noel Antonio Leon Arevalo,145000,43,Hombre,No Fumador,10 años,No,No,10/04/2026 14:31:58,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1834,Rafael Lara Rios,240043,57,Hombre,No Fumador,30 años,Sí,No,10/04/2026 16:52:54,asdiversas@yahoo.com,asdiversas@yahoo.com,Evelyn Cea,78992390,78992390
+1835,maria gomez aguilar ,300000,68,Mujer,No Fumador,10 años,Sí,No,13/04/2026 09:42:00,vida@progresaseguros.com,vida@progresaseguros.com,PATRICIA ELIZABETH ESCAMILLA MONTERROZA,22612320,22612320
+1836,Carolina del Carmen Hernández Rivas,100000,60,Mujer,No Fumador,10 años,Sí,No,13/04/2026 11:34:50,,Tony.chavez@aragondeseguros.com,Tony Chávez Aragón ,,77874300
+1837,Jaime Arnulfo Mejía Arévalo ,100000,56,Hombre,No Fumador,20 años,Sí,No,13/04/2026 12:34:46,,Tony.chavez@aragondeseguros.com,Tony Chávez Aragón ,,77874300
+1838,JUNIOR ENOC RIVAS CASTILLO,200000,27,Hombre,No Fumador,30 años,Sí,No,13/04/2026 13:02:57,,-,"ARTOLA ASESORÍA DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,-
+1839,Jose Alcides Garcia Ayala,100000,50,Hombre,No Fumador,20 años,Sí,No,13/04/2026 13:08:40,crcampos@aseinse.com,crcampos@aseinse.com,CARLOS ROBERTO CAMPOS CARRILLO,79898828,79898828
+1840,Carlos Campos,100000,64,Hombre,No Fumador,20 años,Sí,No,13/04/2026 14:32:44,crcampos@aseinse.com,crcampos@aseinse.com,CARLOS ROBERTO CAMPOS CARRILLO,79898828,79898828
+1841,Carlos Campos,100000,65,Hombre,No Fumador,20 años,Sí,No,13/04/2026 14:34:15,crcampos@aseinse.com,crcampos@aseinse.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",79898828,79898828
+1842,Jose Alcides García Ayala,90000,50,Hombre,No Fumador,20 años,Sí,No,13/04/2026 15:50:06,crcampos@aseinse.com,crcampos@aseinse.com,CARLOS ROBERTO CAMPOS CARRILLO,79898828,79898828
+1843,Dina Guadalupe Guillén Henríquez,150000,51,Mujer,No Fumador,30 años,No,Sí,13/04/2026 20:40:16,,mnunez@protecseg.com,maria de los angeles,,79883866
+1844,Dina Guadalupe Guillén Henríquez,150000,51,Mujer,No Fumador,30 años,No,No,13/04/2026 20:43:16,,mnunez@protecseg.com,MARÍA DE LOS ANGELES NÚÑEZ SOLANO,,79883866
+1845,Dina Guadalupe Guillén Henríquez,75000,51,Mujer,No Fumador,30 años,No,No,13/04/2026 20:56:05,,mnunez@protecseg.com,MARÍA DE LOS ANGELES NÚÑEZ SOLANO,,79883866
+1846,NORMA ELIZABETH GONZALEZ DE ERAZO,80000,42,Mujer,No Fumador,25 años,Sí,No,14/04/2026 00:16:53,JFGSEGUROS@GMAIL.COM,JFGSEGUROS@GMAIL.COM,JORGE ALBERTO FERNÁNDEZ GUZMÁN,79106313,79106313
+1847,JUNIOR ENOC RIVAS CASTILLO,250000,27,Hombre,No Fumador,30 años,Sí,No,14/04/2026 09:11:07,,-,"ARTOLA ASESORÍA DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",,-
+1848,LEO,100000,56,Mujer,No Fumador,20 años,No,No,14/04/2026 09:24:34,,info@seguros-soluciones.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,76823600
+1849,Rosario del Carmen Najarro de Luna,144000,47,Mujer,No Fumador,30 años,Sí,No,14/04/2026 10:43:29,,admonskyseguros@gmail.com,Jose Reynaldo Alfaro,,22790335
+1850,Rosario del Carmen Najarro de Luna,144000,47,Mujer,No Fumador,20 años,Sí,No,14/04/2026 10:49:18,,admonskyseguros@gmail.com,Jose Reynaldo Alfaro,,22790335
+1851,Maritza Fuentes Marin,10000,34,Mujer,No Fumador,10 años,Sí,Sí,14/04/2026 11:57:00,,fuentesmaritza16@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,7956-0623
+1852,Diego Jose Deleon Varela,100000,29,Hombre,No Fumador,30 años,Sí,Sí,14/04/2026 14:45:38,fcoawad@gmail.com,camilamoreno.awadintl@gmail.com,"AWAD PRODUCTORES DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",79891286,79891286
+1853,NATHALIE GISSELLE FLORES TREJO,25000,18,Mujer,No Fumador,20 años,Sí,Sí,14/04/2026 15:04:04,,trejomejor23@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,70044788
+1854,Marta Martinez,500000,45,Mujer,No Fumador,30 años,Sí,Sí,15/04/2026 07:11:00,,aborgards2000@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,+46 728770509
+1855,Marta Martinez,10000,45,Mujer,No Fumador,30 años,Sí,Sí,15/04/2026 07:12:31,,aborgards2000@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,0728770509
+1856,LUIS ALONSO VILLATORO,220000,52,Hombre,No Fumador,10 años,Sí,Sí,15/04/2026 09:02:52,,jose.hdz17@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,76014239
+1857,Sara Henriquez,97400,60,Mujer,No Fumador,10 años,No,No,15/04/2026 10:05:03,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1858,MEDARDO MOLINA GUEVARA,150000,67,Hombre,No Fumador,10 años,Sí,No,15/04/2026 10:08:18,renemartinex@gmail.com,renemartinex@gmail.com,RENÉ ALFREDO MARTÍNEZ RUIZ,77548723,77548723
+1859,MEDARDO MILINA GUEVARA,135000,67,Hombre,No Fumador,10 años,Sí,No,15/04/2026 10:11:44,renemartinex@gmail.com,renemartinex@gmail.com,RENÉ ALFREDO MARTÍNEZ RUIZ,77548723,77548723
+1860,MEDARDO MOLINA GUEVARA,150000,55,Hombre,No Fumador,10 años,Sí,No,15/04/2026 10:27:50,renemartinex@gmail.com,renemartinex@gmail.com,RENÉ ALFREDO MARTÍNEZ RUIZ,77548723,775418723
+1861,Ingrid Maribel Figuero Santamaria,150000,53,Mujer,No Fumador,30 años,Sí,No,15/04/2026 13:41:46,,admonskyseguros@gmail.com,Jose Reynaldo Alfaro,,22790335
+1862,Ingrid Maribel Figueroa Santamaria,150000,53,Mujer,No Fumador,30 años,No,No,15/04/2026 13:45:11,,admonskyseguros@gmail.com,Jose Reynaldo Alfaro,,22790335
+1863,Ingrid Maribel Figueroa Santamaria,100000,53,Mujer,No Fumador,30 años,No,No,15/04/2026 13:49:10,,admonskyseguros@gmail.com,Jose Reynaldo Alfaro,,22790335
+1864,Ingrid Maribel Figueroa Santamaria,100000,53,Mujer,No Fumador,30 años,Sí,No,15/04/2026 13:52:28,,admonskyseguros@gmail.com,Jose Reynaldo Alfaro,,22790335
+1865,Ingrid Maribel Figueroa Santamaria,150000,53,Mujer,No Fumador,30 años,No,Sí,15/04/2026 13:55:33,,admonskyseguros@gmail.com,Jose Reynaldo Alfaro,,22790335
+1866,Ingrid Maribel Figueroa Santamaria,100000,53,Mujer,No Fumador,30 años,No,No,15/04/2026 13:58:06,,admonskyseguros@gmail.com,Jose Reynaldo Alfaro,,22790335
+1867,Ingrid Maribel Figueroa Santamaria,150000,53,Mujer,No Fumador,30 años,No,No,15/04/2026 14:17:04,,admonskyseguros@gmail.com,Jose Reynaldo Alfaro,,22790335
+1868,Ingrid Maribel Figueroa Santamaria,150000,53,Mujer,No Fumador,30 años,Sí,No,15/04/2026 14:19:43,,admonskyseguros@gmail.com,Jose Reynaldo Alfaro,,22790335
+1869,Oscar Burgos,190000,61,Hombre,No Fumador,10 años,Sí,No,15/04/2026 14:47:33,,Fbaires@siiessv.com,,FABIO Baires,73804888
+1870,HELTON OMAR CAMPOS ESCOBAR,16200,38,Hombre,No Fumador,20 años,Sí,Sí,16/04/2026 09:58:53,gutierrezalex8@hotmail.com,gutierrezalex8@hotmail.com,RAMÓN ALEXIS GUTIÉRREZ RAMOS,77493090,77493090
+1871,HELTON OMAR CAMPOS ESCOBAR,16500,38,Hombre,No Fumador,20 años,Sí,Sí,16/04/2026 10:03:54,gutierrezalex8@hotmail.com,gutierrezalex8@hotmail.com,RAMÓN ALEXIS GUTIÉRREZ RAMOS,77493090,77493090
+1872,Lilian del Carmen Perez de Alvarez,25000,59,Mujer,No Fumador,10 años,No,No,16/04/2026 11:32:50,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1873,MOISES PERDOMO,170000,46,Hombre,No Fumador,15 años,No,No,16/04/2026 16:10:58,,admon@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411815
+1874,EDWIN VASQUEZ,140000,48,Hombre,No Fumador,15 años,No,No,16/04/2026 16:28:39,,admon@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411815
+1875,Jose Emiliano Campos Velasquez,135000,25,Hombre,No Fumador,10 años,No,No,16/04/2026 16:32:57,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1876,Yoselin Pacheco,50000,31,Mujer,No Fumador,10 años,Sí,Sí,16/04/2026 17:06:19,,"yoselinkarina.05@gmail,com","Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,60438671
+1877,BLANCA ARACELY QUINTANILLA DE GARCIA,250000,44,Mujer,No Fumador,20 años,Sí,Sí,16/04/2026 20:06:45,marta.eugenia@asegura.com.sv,martita19951@hotmail.com,MARTA EUGENIA RODRÍGUEZ,7118-9324,7118-9324
+1878,Edwin Vasquez Perez,205000,48,Hombre,No Fumador,15 años,No,No,17/04/2026 08:55:26,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1879,MOISES PERDOMO,235000,46,Hombre,No Fumador,15 años,No,No,17/04/2026 08:57:11,,admon@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411815
+1880,STHEFFANY VIERA,200000,28,Mujer,No Fumador,30 años,No,Sí,17/04/2026 09:27:03,carolinachicas@segurosv.com,carolinachicas@segurosv.com,Carolina Chicas,73185319,73185319
+1881,JORGE ALEXANDER GARCIA MARTINEZ ,40000,47,Hombre,No Fumador,20 años,Sí,Sí,17/04/2026 11:32:32,,-,MARTA EUGENIA RODRÍGUEZ,,-
+1882,KATHERINE JOHANNA FLORES DE HERNANDEZ ,20000,29,Mujer,No Fumador,10 años,Sí,Sí,17/04/2026 11:33:12,,segurosyfianzas.sm@gmail.com,FRANCISCO EDUARDO MARENCO GUZMÁN,,76406085
+1883,KATHERINE JOHANNA FLORES DE HERNANDEZ,50000,29,Mujer,No Fumador,10 años,Sí,Sí,17/04/2026 11:35:05,,segurosyfianzas.sm@gmail.com,FRANCISCO EDUARDO MARENCO GUZMÁN,,76406085
+1884,KATHERINE JOHANNA FLORES DE HERNANDEZ,50000,29,Mujer,No Fumador,10 años,Sí,Sí,17/04/2026 11:35:05,,segurosyfianzas.sm@gmail.com,FRANCISCO EDUARDO MARENCO GUZMÁN,,76406085
+1885,JORGE ALEXANDER GARCIA MARTINEZ,350000,47,Hombre,No Fumador,10 años,Sí,Sí,17/04/2026 11:35:43,,-,MARTA EUGENIA RODRÍGUEZ,,-
+1886,JORGE ALEXANDER GARCIA MARTINEZ,250000,47,Hombre,No Fumador,20 años,Sí,Sí,17/04/2026 11:37:19,,-,MARTA EUGENIA RODRÍGUEZ,,-
+1887,JORGE ALEXANDER GARCIA MARTINEZ,200000,47,Hombre,No Fumador,20 años,Sí,Sí,17/04/2026 11:38:57,,-,MARTA EUGENIA RODRÍGUEZ,,-
+1888,Felix de Jesus Alvarenga Castañeda,25000,36,Hombre,No Fumador,10 años,Sí,Sí,17/04/2026 11:41:03,Karlavmenendez14@gmail.com ,Karlavmenendez14@gmail.com ,KARLA VANESSA MENÉNDEZ CHAVARRIA,69677979 ,69677979 
+1889,JORGE ALEXANDER GARCIA MARTINEZ,200000,47,Hombre,No Fumador,20 años,Sí,No,17/04/2026 11:44:30,marta.eugenia@asegura.com.sv,martita19951@hotmail.com,MARTA EUGENIA RODRÍGUEZ,7118-9324,71189324
+1890,Armando Lemus Rosales,75000,67,Hombre,No Fumador,10 años,No,No,17/04/2026 11:54:35,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77413435
+1891,Alvaro Daniel Santos Hernández ,67500,25,Hombre,No Fumador,10 años,Sí,Sí,17/04/2026 13:23:22,,Segurosyfianzas.sm@gmail.com ,FRANCISCO EDUARDO MARENCO GUZMÁN,,7640-6085 
+1892,HHHH,33750,26,Mujer,No Fumador,10 años,Sí,Sí,17/04/2026 13:50:50,,segurosyfianzas.sm@gmail.com,FRANCISCO EDUARDO MARENCO GUZMÁN,,76406085
+1893,DEYSI LORENA CRUZ DE AMAYA,80000,57,Mujer,No Fumador,10 años,Sí,Sí,17/04/2026 15:03:13,ADMINISTRADORA DE SEGUROS ,oguadron@adrisa.com.sv,,25601706,74691799
+1894,DEYSI LORENA CRUZ DE AMAYA,80000,57,Mujer,No Fumador,10 años,Sí,Sí,17/04/2026 15:16:04,oguadron@adrisa.com.sv,oguadron@adrisa.com.sv,ADMINISTRADORA DE SEGUROS S.A DE C.V,25601706,25601706
+1895,SANTOS MARCOS CASTILLO GUZMAN ,75000,51,Hombre,No Fumador,20 años,Sí,Sí,17/04/2026 17:30:27,,josue.orellana@todosegurosv.com,"TODO SEGURO, SOCIEDAD ANONIMA DE CAPITAL VARIABLE",,64319094
+1896,Isabel del Carmen Meléndez palacios ,250000,44,Mujer,No Fumador,10 años,No,No,18/04/2026 10:01:38,Alfaro.reynaldo@gmail.com,Alfaro.reynaldo@gmail.com,Jose reynaldo alfaro,77298490,77298490
+1897,Isabel del Carmen Meléndez Palacios,250000,44,Mujer,No Fumador,30 años,No,No,18/04/2026 10:05:21,Alfaro.reynaldo@gmail.com,Alfaro.reynaldo@gmail.com,Jose reynaldo alfaro,77298490,77298490
+1898,Isabel del Carmen Meléndez Palacios,250000,44,Mujer,No Fumador,30 años,No,No,18/04/2026 10:20:46,alfaro.reynaldo@gmail.com,alfaro.reynaldo@gmail.com,jose reynaldo alfaro,22231133,22231133
+1899,Evelin Liseth Umaña de Lemus,400000,54,Mujer,No Fumador,10 años,No,No,20/04/2026 10:03:44,,recepcion@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77411806
+1900,NELSON ROBERTO ZALDIVAR PORTILLO,350000,58,Hombre,No Fumador,20 años,No,No,20/04/2026 11:02:28,JRAV.SEGUROS@GMAIL.COM,JWSEGUROS@OUTLOOK.COM,JOSE ABREGO,78948909,78901234
+1901,NELSON ZALDIVAR,250000,58,Hombre,No Fumador,20 años,No,No,20/04/2026 12:02:05,JRAV.SEGUROS@GMAIL.COM,JWSEGUROS@OUTLOOK.COM,JOSE ABREGO,78948909,78901234
+1902,NELSON ZALDIVAR,100000,58,Hombre,No Fumador,20 años,No,No,20/04/2026 12:03:19,JRAV.SEGUROS@GMAIL.COM,JWSEGUROS@OUTLOOK.COM,JOSE ABREGO,78948909,78901234
+1903,MARIA DEL CARMEN GOMEZ PARADA ,130000,56,Mujer,No Fumador,15 años,Sí,Sí,21/04/2026 12:05:24,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1904,Eddy David Ramírez Palma,200000,34,Hombre,No Fumador,30 años,Sí,Sí,21/04/2026 12:55:08,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1905,Eddy David Ramírez Palma,200000,34,Hombre,No Fumador,20 años,Sí,Sí,21/04/2026 12:56:32,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1906,Eddy David Ramírez Palma,200000,34,Hombre,No Fumador,25 años,Sí,Sí,21/04/2026 12:57:10,,rarenivar@gmail.com,VERONICA CECIBEL ESCAMILLA,,78947912
+1907,Beatriz,20000,26,Mujer,No Fumador,30 años,Sí,Sí,21/04/2026 14:04:54,,mbea023@gmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,72724760
+1908,ANA BEATRIZ CHAVEZ DE PORTILLO ,60000,50,Mujer,No Fumador,10 años,Sí,Sí,21/04/2026 15:37:47,orellanaarnoldotodosegurosv@gmail.com,orellanaarnoldotodosegurosv@gmail.com,ARNOLDO DE JESÚS ORELLANA GÓMEZ,64319095,64319095
+1909,William Ernesto Portillo Hernandez,144000,40,Hombre,No Fumador,25 años,Sí,Sí,21/04/2026 18:42:43,,-,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,-
+1910,NOEL ALFREDO ARTOLA,100000,64,Hombre,No Fumador,20 años,No,No,22/04/2026 12:24:01,gerencia@artolaseguros.com,gerencia@artolaseguros.com,"ARTOLA ASESORÍA DE SEGUROS, SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE",79101212,79101212
+1911,Claudia Gabriela Amaya Guerrero ,40000,30,Mujer,No Fumador,10 años,Sí,Sí,22/04/2026 12:54:44,,segurosyfianzas.sm@gmail.com,FRANCISCO EDUARDO MARENCO GUZMÁN,,76406085
+1912,rhina yisel sorto de romero,30000,55,Mujer,No Fumador,20 años,No,No,22/04/2026 13:12:44,,seguros.cruzasesores@gmail.com,RICARDO ALBERTO CRUZ MONGE,,71991077
+1913,Sara Noemi Claros de Portillo,23000,33,Mujer,No Fumador,15 años,Sí,Sí,22/04/2026 17:17:01,,Segurosyfianzas.sm@gmail.com ,FRANCISCO EDUARDO MARENCO GUZMÁN,,7640-6085 
+1914,Alba Sugey Lazo,30000,50,Mujer,No Fumador,15 años,Sí,Sí,22/04/2026 17:20:12,,Segurosyfianzas.sm@gmail.com ,FRANCISCO EDUARDO MARENCO GUZMÁN,,7640-6085 
+1915,Sara Noemi Claros de Portillo,25000,33,Mujer,No Fumador,15 años,Sí,Sí,22/04/2026 17:28:11,,Segurosyfianzas.sm@gmail.com,FRANCISCO EDUARDO MARENCO GUZMÁN,,7640-6085 
+1916,JORGE OSWALDO DIAZ PEÑATE,50000,57,Hombre,No Fumador,10 años,Sí,Sí,22/04/2026 18:13:20,globalseguroselsalvador@gmail.com,globalseguroselsalvador@gmail.com,MADELINE ADRIANA DÍAZ LEMUS,77385563,77385563
+1917,ANA YANIRA HENRIQUEZ MENDEZ,500000,60,Mujer,No Fumador,30 años,Sí,Sí,23/04/2026 11:32:11,LU-CH-ORTIZ@HOTMAIL.COM,lu-ch-ortiz@hotmal.com,LUIS ERNESTO ORTIZ ALFARO,77456498,77456498
+1918,ANA YANIRA HENRIQUEZ MENDEZ,500000,60,Mujer,No Fumador,30 años,Sí,Sí,23/04/2026 11:32:52,LU-CH-ORTIZ@HOTMAIL.COM,lu-ch-ortiz@hotmal.com,LUIS ERNESTO ORTIZ ALFARO,77456498,77456498
+1919,ANA YANIRA HENRIQUEZ MENDEZ,500000,60,Mujer,No Fumador,30 años,No,No,23/04/2026 11:34:27,LU-CH-ORTIZ@HOTMAIL.COM,lu-ch-ortiz@hotmal.com,LUIS ERNESTO ORTIZ ALFARO,77456498,77456498
+1920,ANA YANIRA HENRIQUEZ MENDEZ,100000,60,Mujer,No Fumador,30 años,No,No,23/04/2026 11:36:56,LU-CH-ORTIZ@HOTMAIL.COM,lu-ch-ortiz@hotmal.com,LUIS ERNESTO ORTIZ ALFARO,77456498,77456498
+1921,Kenia Veronica Paredes de Palacios ,200000,49,Mujer,No Fumador,15 años,No,No,23/04/2026 13:16:14,,sefi@segurosyfinanzas.com.sv,"ADMINISTRADORES DE SEGUROS Y FINANZAS, S.A. DE C.V.",,77410548
+1922,Fabio Chavez,181023,56,Hombre,No Fumador,20 años,Sí,No,23/04/2026 15:36:10,albarodriguezi@yahoo.com,gestiones@arsegurossv.com,ALBA ANTONIA RODRÍGUEZ IRAHETA,,72728868
+1923,DANIEL ANTONIO CHAVEZ FUENTES,162000,38,Hombre,No Fumador,10 años,Sí,Sí,23/04/2026 16:14:09,lartiga@adrisa.com.sv,lartiga@adrisa.com.sv,"ADMINISTRADORA DE SEGUROS, S.A. DE C.V.",2560-1722,2560-1722
+1924,ISMAEL DE JESUS PARADA,230000,61,Hombre,No Fumador,15 años,Sí,Sí,23/04/2026 16:50:47,,jose.hdz17@hotmail.com,"Oficina Principal, Atlántida Vida, S.A., Seguros de Personas",,76014239
+1925,ROLANDO ANTONIO MENJIVAR MELGAR,95000,53,Hombre,No Fumador,15 años,Sí,No,23/04/2026 16:55:26,info@rctuseguro.com,info@rctuseguro.com,RODRIGO ALEJANDRO CHACÓN CAMPOS,70895772,70895772
+1926,Jose Luis Gutierrez Olivo ,100000,52,Hombre,No Fumador,20 años,Sí,Sí,23/04/2026 17:06:27,,-,ROSARIO EMILIA RIVAS CHÁVEZ,,-
+1927,Jose Luis Gutierrez Olivo ,100000,52,Hombre,No Fumador,20 años,Sí,No,23/04/2026 17:07:54,,-,ROSARIO EMILIA RIVAS CHÁVEZ,,-
